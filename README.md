@@ -1,4 +1,4 @@
-# Pathfinder 2E: Token Pack от Metofay (для Foundry VTT v13)
+# Pathfinder 2E: Token Pack от Danya (для Foundry VTT v13)
 
 [![Версия для v13](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMetofay%2Fpf2e-token-pack%2Fv13%2Fmodule.json&query=version&label=version-v13&color=blue)](https://github.com/Metofay/pf2e-token-pack/blob/v13/module.json)
 [![Обновление (v13)](https://img.shields.io/github/last-commit/Metofay/pf2e-token-pack/v13?label=last-update-v13)](https://github.com/Metofay/pf2e-token-pack/commits/v13)

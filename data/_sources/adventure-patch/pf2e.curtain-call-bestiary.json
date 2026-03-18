@@ -1,0 +1,980 @@
+{
+  "pf2e.curtain-call-bestiary": {
+    "A1MdmLZnbanM5CZi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Anguish-Siktempora.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Anguish-Siktempora.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8L1GpUj3eJgaeFUk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Augusta-Wormwood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Augusta-Wormwood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yNkLAeHXYRtrPdz5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Azarpal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Azarpal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XZLHAUd4Yce1t6O7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Emriss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Emriss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LIxnoH1iC1vEP5xq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Fallenta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Fallenta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3tYqfg9qhrtyTbvq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Furnerico.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Furnerico.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TPyca1apEDuunvzZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Girtablilu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Girtablilu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rI8VEh3yN07RBDaX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Girtablilu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Girtablilu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ylAEACovrsq8XaOa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Graverobber.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Graverobber.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "58QVgNXmRsI7p8xq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Hellshadow.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Hellshadow.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aYilwFsxQZkdqv6z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Honor-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Honor-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WFZpAABKj85MK8y8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Living-Nightmare.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Living-Nightmare.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d4uqDeZ03CKl43zF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Nemesis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Nemesis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tf3SNBb3jkrgVPLL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Ockomlire.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Ockomlire.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Jakh8SGsZvj9oaRW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Rezzelki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Rezzelki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h2ibApkyVasD995i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/Skurg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/Skurg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yBd3PYNJoUTrJVgM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-1-stage-fright/The-Final-Herald.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-1-stage-fright/The-Final-Herald.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mNrZV72eUg7lfmqc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Agadaz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Agadaz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SGWcXt1bqMh09qab": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Animated-Boiler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Animated-Boiler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oWXuMRAy2BP0z0uO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Arshean-Warden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Arshean-Warden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0ynDv96qQZpZc0J8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Facade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Facade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N5sypiEac4BKyeQb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Fenton-Vilorgo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Fenton-Vilorgo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZaT4rd3bTIfECkCd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Fentons-Faithful.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Fentons-Faithful.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aMPcSiJMjxnqqvgT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Grandmama.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Grandmama.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HGCOaH2EJ2AyVYJO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Izhkarial.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Izhkarial.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qsXi69M1nGMOLZC5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Jorogumo-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Jorogumo-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BgPshRvqaBvy4ulr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9qFTRSaEYnrYDVHH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "REOHdavtL7k20KQc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Karumzek-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AOCjBM0drUBjGUIE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Masque-Mannequin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Masque-Mannequin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Co5OLOIXjbsWxsiy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Miavri.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Miavri.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XlEHPOxIIvne6oxe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Niallana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Niallana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iaQrKM85V4hWWmxw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Operatic-Stone-Bulwark.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Operatic-Stone-Bulwark.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NpIoefm1VZTTnR8h": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Oriole.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Oriole.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P0UJuYR6jKrV60k6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Princess-Sweetie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Princess-Sweetie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "q7jRJq8kl9JXDPWY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Rooftop-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Rooftop-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JYE1gsB9D12crx5C": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Rusalka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Rusalka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xUGrCX72cv1BO49f": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Shanty-Chanter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Shanty-Chanter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ftKv0WsRlX7uasez": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Silverhand-Salvo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Silverhand-Salvo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OG0soHK46kY5I5QH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Vorens.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Vorens.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DBr25IAKQHwz69YD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Waxen-Effigy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-2-singer-stalker-skinsaw-man/Waxen-Effigy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VOtMQkKzvL7nMGcX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Blackfingers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Blackfingers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ar9K6cpiG6G3v2wZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Delaraius-Solzakarr.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Delaraius-Solzakarr.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RB1DZPTjSC0mnw95": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Echopsyvne.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Echopsyvne.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NmzB37eKJpmflJIl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Egarhowl.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Egarhowl.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m3VQLbUy5rKWJOyA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Father-Skinsaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Father-Skinsaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1eX4Csnv3psAsfLf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Gray-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Gray-Master.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jyKGV1HeXcLF1E5f": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Kimingio.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Kimingio.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WS3KRvmJMbftLbdV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Blackfingers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Blackfingers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NWgVQNeDHnjSxOiK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Father-Skinsaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Father-Skinsaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6s7h25mjQAsVEkcY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Gray-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-Gray-Master.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AIcxTXQjR0Y70oNE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-The-Reaper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Mask-Of-The-Reaper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nR3CaOtmBVFTekO3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Operatic-Emissary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Operatic-Emissary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8VjUGaYgDutmaYjk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Prince-Of-Propaganda.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Prince-Of-Propaganda.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RPE2rcJvkcGwM5r6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Razorbones.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Razorbones.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HiJBqmjbRp7MmPUW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Reaper-Of-Reputation.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Reaper-Of-Reputation.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RUuUJtm8jAJ66z0Q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Risen-Nemesis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Risen-Nemesis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6guVWljIlk02aam7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Simandu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Simandu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mmg3SDdcpcgX311I": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Skinsaw-Trophy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Skinsaw-Trophy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gkRngSHpJl1I2MFf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Venomfist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Venomfist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7vC2VnYOgqpkYeNi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/curtain-call/book-3-bring-the-house-down/Zimiezek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/curtain-call/book-3-bring-the-house-down/Zimiezek.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

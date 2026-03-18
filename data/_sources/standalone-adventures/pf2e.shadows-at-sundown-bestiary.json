@@ -1,0 +1,225 @@
+{
+  "pf2e.shadows-at-sundown-bestiary": {
+    "litxGHyUUR64CWQJ": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Abridan-Ashau.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Abridan-Ashau.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Abridan-Ashau.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Ry6Sih9K9iyhAN5C": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Acolyte-Of-Pharasma.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Acolyte-Of-Pharasma.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Acolyte-Of-Pharasma.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "0jAkZcP5559iO0wo": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Aliriel.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Aliriel.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Aliriel.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6RVzMyC9c61J616H": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Bishop-Keppira.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Bishop-Keppira.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Bishop-Keppira.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PRw22TOw6Z7ke5yp": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Ibrique.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Ibrique.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ibrique.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "sawfqpGNObMA41at": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Ileosa-Shell.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Ileosa-Shell.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ileosa-Shell.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "sEss0ea0kYrkkti8": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Loreavor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Loreavor.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Loreavor.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "JzoZZ0SurEHMeAPR": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Lorthact.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Lorthact.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Lorthact.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8optIXEiVUjfY0ph": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Profane-Ghoul.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Profane-Ghoul.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Profane-Ghoul.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8oeuD5h4OzXsxZS5": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Scarlet-Walker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Scarlet-Walker.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Scarlet-Walker.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "wCztuDEePLs9ZsEl": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Strigoi-Progenitor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Strigoi-Progenitor.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Strigoi-Progenitor.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "OsRWaQVTonZBmZo1": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Strigoi-Servant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Strigoi-Servant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Strigoi-Servant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "km4jIE3xBRZoY9o7": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/shadows-at-sundown/Yniesse-Zenderholm.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/shadows-at-sundown/Yniesse-Zenderholm.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Yniesse-Zenderholm.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

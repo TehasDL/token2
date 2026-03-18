@@ -1,0 +1,3076 @@
+{
+  "pf2e.pfs-season-1-bestiary": {
+    "6RnFVhsi5XImLuuF": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/Charlatan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/Charlatan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zgvD5MpjPBJXIian": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/Elite-Duergar-Taskmaster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/Elite-Duergar-Taskmaster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "anjyGCh5n1fj2kn3": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/Ruffian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/Ruffian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5JcVwrLq7moBA3WE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-00/Bijan-And-Zaynap-Ohrlavi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-00/Bijan-And-Zaynap-Ohrlavi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kfoGOOgTkRjIzD4U": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-00/Kanker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-00/Kanker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MOX8VzhEBVMkOpzr": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Crowd-Agitator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Crowd-Agitator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ySXw00WW2LJoDhZ6": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Crowd-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Crowd-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bDKozdvVEElVQywQ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t1QyIgwLORMhHNL4": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WlJ8fVMV7gXNQ9eR": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PXXHRzLRLB4bJ7M5": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JEwMnYFfyxr5i6Dy": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cuTgbvAxDEkT4XhZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lzDOAywWh0mP4UeH": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sN5jueRXgYI9DDGH": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QZVLjVPLl0PNo2K3": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "R8D2GrilngQIb1eI": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "toAsLLjdRwu1pT0b": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m3YBXS3ool7PmRfX": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Fleshforge-Dreg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Et2jn8eZ1nQStapE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Goblin-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Goblin-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3fctnHmcLQM3KrZj": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Greater-Shadow-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Greater-Shadow-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mjW1q98gMnEmZJKt": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Shadow-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Shadow-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bjugOjcHcBHgWTeZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Unkillable-Zombie-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Unkillable-Zombie-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UjVrEU4MTBH2eZOq": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-01/Weak-Ceustodaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-01/Weak-Ceustodaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jXEmUa47j5o3lQIE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Barbed-Bloodseeker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Barbed-Bloodseeker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xFeeszDfh4RISbib": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Gwibble.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Gwibble.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oQmjMw2MTQDSGRs7": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Gwibble.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Gwibble.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FcqRRAWeUzV89Z2s": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Mitflit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Mitflit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8G0V3AjaLUkTbq0H": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Mitflit-Sneak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Mitflit-Sneak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Pq4fqQkoghoXPBoi": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-02/Young-Bloodseeker-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-02/Young-Bloodseeker-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RS04fRQEWzk2aZOx": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Desert-Wind.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Desert-Wind.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Qeu2rsI1J5nohgm7": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Giant-Centipede.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Giant-Centipede.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w8pkSmcvpZfp7Hsw": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Larraz-Virtanne.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Larraz-Virtanne.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "awImEAjEPe1LOY8m": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Ralthiss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Ralthiss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Tnq5pjDMMSmPkBtB": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Ralthiss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Ralthiss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NmBBGhDNNEEfxCun": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Skeletal-Gladiator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Skeletal-Gladiator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9dnyyDG4MCkL3zkn": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Zombie-Riding-Horse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Zombie-Riding-Horse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pG7P9AxqzcsCjikh": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Zombie-Shambler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Zombie-Shambler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rEPnlpuRVCpnQNYP": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-03/Zombie-War-Horse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-03/Zombie-War-Horse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "czYt4Yp6ZeGnzyV6": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Animal-Companion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Animal-Companion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9KauvSo8zxsaBWRc": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Animal-Companion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Animal-Companion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y14EZYMrfejrAuPI": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Frog-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Frog-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RYhsJ69TGrcvtfaM": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Giant-Osprey.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Giant-Osprey.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eWlUE6xrNLGMcfMX": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Halfling-Druid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Halfling-Druid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Jfm63bPimFxf3u1T": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Halfling-Druid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Halfling-Druid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EKwisoYBBn9femPg": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Osprey.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Osprey.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "glxrhALybtp9WYh9": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Rabid-Squirrel-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Rabid-Squirrel-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0DudqNVGfXC39umi": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Reefclaw-Spawn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Reefclaw-Spawn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l8PzmglYbEtM5Xy6": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Squirrel-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Squirrel-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NmkeNdV7SWYG7bYe": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Vengeant-Thorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Vengeant-Thorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FXwYc62zORdcfnYb": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-04/Vengeant-Thorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-04/Vengeant-Thorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zveTUg1NtYmTwlFn": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Dire-Warg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Dire-Warg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FN8SN6gIqQa9d8Ex": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Raven-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Raven-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U6mEWRAurIbSgtnF": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Giant-Shrew.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Giant-Shrew.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rrlWzq8qKpOgaq7P": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Mountain-Goat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Mountain-Goat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DsEg9sT7jCcsuEDI": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Ogre.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Ogre.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cnmrSCuK8FuiBA7J": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Ogre-Glutton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Ogre-Glutton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mTXgvQ7zhA8VNVeG": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Orc-Alchemist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Orc-Alchemist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cr0jrWe49odtef2P": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Raven-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Raven-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0TEnslG0jaLrbf58": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Giant-Shrew.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Giant-Shrew.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TmDKaw1WenWKvNBU": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Mountain-Goat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Mountain-Goat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "02MIBcyPwCEmh8lA": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-05/Wounded-Orc-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-05/Wounded-Orc-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "26SFLzXVXqX7aEUD": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Annis-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Annis-Hag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CPDWLOHl0ODbMplt": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Dorobu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Dorobu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AbFKkDIHUwx2EnR5": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Dorobu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Dorobu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "v8Spc0ALJdX8WUi4": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Eerie-Skeletal-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Eerie-Skeletal-Giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Gs2zYE86QGrDzCrv": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Human-Bandit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Human-Bandit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wctTtNkLjyMeCCi2": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Skeletal-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Skeletal-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Gsqdd6TysPcSd64h": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Weak-Arboreal-Warden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Weak-Arboreal-Warden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NZvXkQHfXM2XS50I": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Weak-Green-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Weak-Green-Hag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jMjK6j16K1NC2BdC": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-06/Weak-Soulbound-Homunculus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-06/Weak-Soulbound-Homunculus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ut2cLLH0tvJV2ewg": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-07/Elite-Ghast.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-07/Elite-Ghast.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xIWdGhSA6Z7CQKBY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-07/Marcon-Tinol.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-07/Marcon-Tinol.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xHbU1j5KpscKk6q8": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-07/Marcon-Tinol.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-07/Marcon-Tinol.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SprnhrgMbZxb59fA": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-08/Nalla.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-08/Nalla.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "E17afWSsCBGM8Gnq": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-08/Nalla.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-08/Nalla.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "da3XtaZGVIYkfpKE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-08/Weak-Spider-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-08/Weak-Spider-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pJck5AXRMWcAequ5": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Boggard-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Boggard-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NUFsxlmHqk4LeYlq": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Metallic-Sod-Hound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Metallic-Sod-Hound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t238i4Zw2JsDvUop": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Metallic-Sod-Hound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Metallic-Sod-Hound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dtXiSNcy7bM4UITo": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Paravaax.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Paravaax.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1eeMzFoSPuQAAsiY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Paravaax.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Paravaax.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LKdTBOV9LUiFrKOU": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-09/Sea-Devil-Invader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-09/Sea-Devil-Invader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PQaQSSjfkoV9mZzi": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-10/Giant-Short-Faced-Bear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-10/Giant-Short-Faced-Bear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HffGyY6B9Kz20jOY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-10/Giant-Short-Faced-Bear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-10/Giant-Short-Faced-Bear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z8Bp3EtiJhA3nNrY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Flaming-Skull-Skeletal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Flaming-Skull-Skeletal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uedXIip0UPHJ4Egt": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Flaming-Skull-Skeletal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Flaming-Skull-Skeletal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kpYq0piOlafgYSdo": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Ghost-Of-Diggen-Thrune.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Ghost-Of-Diggen-Thrune.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5hR3mQw2sEy3Fy8g": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Ghost-Of-Diggen-Thrune.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Ghost-Of-Diggen-Thrune.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Kv7ciLOLN8vDgIGy": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Kobold-Dragon-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Kobold-Dragon-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5ss5AIhNdmoreHcd": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Kobold-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Kobold-Scout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dSA9TMhvF4yw20c7": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Kobold-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Kobold-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZpowNcW774gt8XjS": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Nashaxian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Nashaxian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tDKhy3OvsOX8Hzik": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-11/Nashaxian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-11/Nashaxian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KR3t3QnVESdhkYr2": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Barralbus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Barralbus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8q3pSr4OLkcIDMIH": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Barralbus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Barralbus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LAo7jI8NvMfuDbek": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Great-White-Shark.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Great-White-Shark.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nmNVx7cAqeurlbeu": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Hungry-Blade-Apprentice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Hungry-Blade-Apprentice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HbMQ2PXNYZH69HDP": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Hungry-Blade-Recruit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Hungry-Blade-Recruit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JF257wpwvWWjCsN7": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-12/Reefclaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-12/Reefclaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fG2rxzrSiMS01Xqe": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-13/Unkillable-Zombie-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-13/Unkillable-Zombie-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZMGXiRuVZ8r7hQVe": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Bandit-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Bandit-Scout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mIz8CjpB8uxf6M9f": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Cinder-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Cinder-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Hjl0cYnMyrcsbKlY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Cinder-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Cinder-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yn7x4Me1YrPuXFZf": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Keff-The-Lion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Keff-The-Lion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Nh3mKGv0uy1tovpL": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Keff-The-Lion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Keff-The-Lion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dOSeTKHADNhJ1bhz": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Kobold-Dragon-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Kobold-Dragon-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lhSKgDzZm8FZknvG": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Kobold-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Kobold-Scout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "i4PIffSaQO2ry5nb": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Kobold-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Kobold-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vtSVLCmJvef8980U": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Leopard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Leopard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LOTsEiTCiONfJl3s": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-14/Lion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-14/Lion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pxDyzHzkEQTz3R1K": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-15/Leshy-Crafter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-15/Leshy-Crafter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "whbIBJJxlv5oVm6c": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-15/Leshy-Crafter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-15/Leshy-Crafter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O6YxMaRh6tRGnnbl": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Biloko-Veteran.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Biloko-Veteran.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ocdy8RFkw10tCUuY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Biloko-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Biloko-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bfTmy4404MFMykxH": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Dryad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Dryad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "b7VoFnPimmOwx8nX": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QtDH32oEVWpFmlCi": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X6xVydw9XznvvFC2": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yAZBjwCVDGbdT4Sb": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-16/Lelzeshin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UlBksr4oy0gT3b3g": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ul23A9ZfCMCUwADK": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Jinkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Jinkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lvWJic1WYdyJATa0": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Manifestation-Of-Qxal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Manifestation-Of-Qxal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rOYazaPBX73nLCJE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Manifestation-Of-Qxal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Manifestation-Of-Qxal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rJ9IdtFmjnqtN02o": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Palace-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Palace-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AFQU2tJl09ykBkwY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Thorned-Cocoon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Thorned-Cocoon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uZWktkWAmzadBTh1": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Thorned-Cocoon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Thorned-Cocoon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f9NDRa2grZrqnTIs": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Webhekiz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Webhekiz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3MSKMI7ehLTC1bqw": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-17/Webhekiz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-17/Webhekiz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D8CPosS1fj2ZRBv0": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Elite-Skeletal-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Elite-Skeletal-Giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "20DJMDdNk0zLzaZZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Immature-Giant-Gecko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Immature-Giant-Gecko.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AKNY8155nYQ1WsmG": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Skeletal-Mount.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Skeletal-Mount.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N6zflwcAIP2wewRI": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Skeleton-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Skeleton-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xKanh4M6QEF39bvd": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Zombie-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Zombie-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BY9A7Isy3YWqUyyg": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-18/Zombie-Charger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-18/Zombie-Charger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D9Ogfbn0ooPAqa9X": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-19/Elderly-Giant-Tarantula.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-19/Elderly-Giant-Tarantula.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zJhgmaI99nePKSaY": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-20/Boggard-Swampseer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-20/Boggard-Swampseer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2HEhlngODb1KfSwE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-20/Cairn-Wight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-20/Cairn-Wight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D2Bc4GbmiuW29310": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-20/Elite-Boggard-Swampseer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-20/Elite-Boggard-Swampseer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1LM0AUYkZcsbtETs": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-20/Elite-Boggard-Swampseer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-20/Elite-Boggard-Swampseer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "81H7cwCK8TBi6dnv": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-20/Weak-Zephyr-Hawk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-20/Weak-Zephyr-Hawk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eR68t20AU5lPKALJ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-21/Voidworm-Ouroboros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-21/Voidworm-Ouroboros.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8ndVAfhYn9kROK3R": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-21/Witchwyrd.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-21/Witchwyrd.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "86JAsGyUAfSviibC": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Ahksiva.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Ahksiva.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pPpc1IevAeLYHZsh": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Ahksiva.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Ahksiva.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ksClnBrkXAhoq4Di": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Groetuss-Chosen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Groetuss-Chosen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8hdL1UOQZ1WPb6v7": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Groetuss-Chosen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Groetuss-Chosen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sLt5RvozduZ2soA5": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Little-Zura.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Little-Zura.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Gxy0zuO7aqC9NBv0": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-22/Little-Zura.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-22/Little-Zura.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XVoGQC0ret7XiGZD": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-24/Krooth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-24/Krooth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6T2Ui881qJflski6": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-24/Krooth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-24/Krooth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QYTRwhdkSWZKRtlj": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-24/Synthetic-Khismar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-24/Synthetic-Khismar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gB7km6bV9dCXUQjZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-24/Synthetic-Khismar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-24/Synthetic-Khismar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F7gjEHGO2c956FEy": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-25/Doctor-Velshun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-25/Doctor-Velshun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MOPGJAQUS4Aop7Mm": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-25/Doctor-Velshun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-25/Doctor-Velshun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u2TGKzPfGniZLL14": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/01-25/Flesh-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/01-25/Flesh-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f9jyVOOKEvRkvIY4": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Zombie-Flesh-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Zombie-Flesh-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fXIJWv2uooumqZo8": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Zombie-Flesh-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Zombie-Flesh-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WdmbEmvLzPciM7au": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Young-Sea-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Young-Sea-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vV6a488IlsKsHpL8": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Ahrkinos.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Ahrkinos.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "js2sA6P939oTuLuI": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Ahrkinos.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Ahrkinos.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "S50loNsuTigldGll": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jJd7Sa8DB7uBOn93": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OtYNhDlyXrVWxeiS": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Alchemical-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Alchemical-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pWJUeb0LfCXFSYpE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Alchemical-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Alchemical-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UyJUEp0asfGDBvYa": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Prefect.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Prefect.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tuuajdgozH7Tueiv": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Sewer-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Sewer-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aWiBgV5B9sIO7UtN": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mWzScgUiWAGEb0RE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Bandit-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cG7wNXEp67uWgwfB": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Sewer-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Sewer-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vve98ekdPx8nJbF1": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Injured-Weak-Otyugh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Injured-Weak-Otyugh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1MXO3xJS50lENkHL": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Meleeka-Sanvara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Meleeka-Sanvara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4MXoQZUrmGeuySrp": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Meleeka-Sanvara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Meleeka-Sanvara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oEHGUzWB0IH26h7y": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Mummy-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Mummy-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jkGd8nN4hnNLGS2D": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Mummy-Shambler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Mummy-Shambler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vgn39Yta3lgeRP1s": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Muraxi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Muraxi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7VCfX1QpRb2T7324": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Muraxi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Muraxi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BVgoWV3U3kHHAMg9": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Neidre-Fliavazzana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Neidre-Fliavazzana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zE9WuJXq3I4uZNNX": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Neidre-Fliavazzana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Neidre-Fliavazzana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XiGTud90i1WkJYz2": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Offended-Gambler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Offended-Gambler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NhMS6b3W6gXefijq": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Offended-Gambler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Offended-Gambler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NQgsuMnXXABeebuS": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Prefect.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Prefect.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oKACWOSiBpxgMqa4": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Prefect.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Prefect.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7PXPcv8x3Wnc730i": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Prefect.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Prefect.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GdYMRHVctjyvOD7D": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Prefect.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Prefect.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "I4Vcd1ce8ltK8OqJ": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Ruffian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Ruffian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ff0j2iOsGGONwOVw": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Seaborn-Fisher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Seaborn-Fisher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tt4tZR8udjJ1zNyp": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Seaborn-Fisher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Seaborn-Fisher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ihm2nXJtzcgFUJRN": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Statue-Of-Set.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Statue-Of-Set.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xbpF7O68n876hD3B": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Storm-Acolyte.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Storm-Acolyte.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6rjkzfJcwGUVq8Uo": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Storm-Acolyte.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Storm-Acolyte.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wCZcZnEHskvccWJE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/season-1/quests/Young-Sea-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/season-1/quests/Young-Sea-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

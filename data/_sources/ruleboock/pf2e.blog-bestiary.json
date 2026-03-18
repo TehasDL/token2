@@ -1,0 +1,480 @@
+{
+  "pf2e.blog-bestiary": {
+    "F8UHnGYafHS3Pnyt": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Ailuran.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Ailuran.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ailuran.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8Cbj8BtyRDerg4Lf": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Blarghest.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Blarghest.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Blarghest.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "z3u0OykjFKz9KJjk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Cacaodaemon.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Cacaodaemon.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Cacaodaemon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "DqDwGNZzUrtlKJQ6": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Chea.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Chea.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Chea.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PVLDkCH0syWw8ArW": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Demom.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Demom.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Demom.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "tKrAtcACOtDnHLG0": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Duhgik.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Duhgik.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Duhgik.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "TejC7NPsqRPHwOe3": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Edolpho-Phinelli.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Edolpho-Phinelli.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Edolpho-Phinelli.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ssaJVgjmjvk9ezoe": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Eleukas.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Eleukas.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Eleukas.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "befgp7CwzDJ6LRa5": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Firebrand-Ancient-Brass-Dragon.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Firebrand-Ancient-Brass-Dragon.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Firebrand-Ancient-Brass-Dragon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "erbFDwCcn1qsJnxS": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Floolf.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Floolf.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Floolf.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "uPeDOylL6zsZKSIs": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Goblin-Zombie.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Goblin-Zombie.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Goblin-Zombie.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "M6MAHeD7U52inXED": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Gristleburst.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Gristleburst.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Gristleburst.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "bCyzCto3GIqvWBoM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Hellknight-Centaur.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Hellknight-Centaur.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Hellknight-Centaur.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "oF1SkWMwJpWtKIoq": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Kobold-Tunnelrunner.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Kobold-Tunnelrunner.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kobold-Tunnelrunner.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "L9Gg91HVIzYANuXK": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Lisavet.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Lisavet.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Lisavet.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "CHLE0BV8wQJY4ksk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Mari-Lwyd.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Mari-Lwyd.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Mari-Lwyd.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "GQE978SzTLS0Sa8B": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Morlibint.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Morlibint.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Morlibint.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "4BzHtRTPQ5mZj9Mr": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Nonsequitaur.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Nonsequitaur.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Nonsequitaur.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "MO2QmDcf117b8FQk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Nosferotter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Nosferotter.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Nosferotter.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xkMQlY10mUIIkrfa": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Ogre-Hurler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Ogre-Hurler.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ogre-Hurler.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "JhC9sqhFy88lX4Xu": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Prrall.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Prrall.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Prrall.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "h3qZZZ5PCbY87HZ4": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Psstpsstmitl.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Psstpsstmitl.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Psstpsstmitl.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9mD3SQoKORr1dP1v": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Squirrelwind.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Squirrelwind.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Squirrelwind.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "mngmrx4PtFoFMp5I": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Urok.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Urok.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Urok.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8xPlavExNidQSFyb": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Wendlyn.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Wendlyn.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Wendlyn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "d0nNIzVZe1f81aAg": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Weredigo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Weredigo.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Weredigo.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Nd54wB2wWnpPbHCc": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Whispering-Way-Medusa.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Whispering-Way-Medusa.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Whispering-Way-Medusa.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YuSniRhf05jBHwPy": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/paizo-blog/Zhang-Yong.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/paizo-blog/Zhang-Yong.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Zhang-Yong.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "pf2e.claws-of-the-tyrant-bestiary": {
+    "M2Co6b3pKO3TOWQj": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Omelia.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Omelia.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Omelia.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "0mllbU5aBEcVUj3E": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Chernasardo-Ranger.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Chernasardo-Ranger.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Chernasardo-Ranger.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "tMqtId1TKVUXe4tN": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Commander-Arsiella-Dei.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Commander-Arsiella-Dei.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Commander-Arsiella-Dei.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZUkMXxPyOJ9sPRvN": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Engerra.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Engerra.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Engerra.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "jSE16N2ASzN3qlN1": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Knight-Reclaimant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Knight-Reclaimant.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Knight-Reclaimant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "OZRvOYnkvEVlTx90": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Stelemora.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Stelemora.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Stelemora.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ElTYWqGvup7okvC5": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Brumesgarth.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Brumesgarth.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Brumesgarth.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rjV4XOnJemV8lKJu": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Chained-Norn.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Chained-Norn.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Chained-Norn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "U6kC8ohP723gydUI": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Divine-Warden-Of-Iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Divine-Warden-Of-Iomedae.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Divine-Warden-Of-Iomedae.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "mGTK0uSZiQY0vsCf": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Garrholdion.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Garrholdion.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Garrholdion.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "aEBup6SntDIOlTtY": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Lady-Siccale.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Lady-Siccale.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Lady-Siccale.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "hXEFhS8iL5d6MqdD": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Moldering-Steed.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Moldering-Steed.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Moldering-Steed.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "2plKfPwYPE6yHBZw": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Oceanius-And-Glory-Arcely.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Oceanius-And-Glory-Arcely.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Oceanius-And-Glory-Arcely.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rPp9nA89lSDrxEyq": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Onturat.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Onturat.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Onturat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Kqd7MVuRRYvvZQ0g": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Seldeg-Bhedlis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Seldeg-Bhedlis.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Seldeg-Bhedlis.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "RiB74rq2dsKATghi": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/claws-of-the-tyrant/Splinter-Officer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/claws-of-the-tyrant/Splinter-Officer.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Splinter-Officer.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

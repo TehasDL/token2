@@ -1,0 +1,852 @@
+{
+  "pf2e.seven-dooms-for-sandpoint-bestiary": {
+    "pnLPdcv5ROaICESe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Abstalar-Zantus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Abstalar-Zantus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FHxjkYIzoQ53mYp7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Adimar-Scarnetti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Adimar-Scarnetti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HTZ1zAQlKfjV2b12": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Aliver-Pillbug-Podiker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Aliver-Pillbug-Podiker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zrS9TBd2Tp3YIykQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Angry-Townsfolk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Angry-Townsfolk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LKg7AOq8OsUp0Ulm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Arika-Avertin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Arika-Avertin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7IvOx8nHMt8am77E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Ascended-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Ascended-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XALtVzQ35vGHYTnk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Asmerelli.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Asmerelli.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tlduVEwwd5zQaGGJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Charn-Scarnetti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Charn-Scarnetti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ir0rdqJJw6dn4RHb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Chertus-Jheed.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Chertus-Jheed.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yvz9ZflXUS0SU3fR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Clockwork-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Clockwork-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0AZQuyXUAnVkNArl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Coloxus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Coloxus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vLaHGDJu2xsqAxuq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Cruncher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Cruncher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xwM0EVgxGtbvPd0i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Devils-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Devils-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DcVyPHFvzrUhC7EV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Divine-Warden-Of-Haagenti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Divine-Warden-Of-Haagenti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RRXHzISbHxLnvQ3q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/False-Devil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/False-Devil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RDgoqD06xZDjwPpS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Fiendish-Flock.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Fiendish-Flock.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nUnZtlm7PneSF8ww": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Fungus-Tyrant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Fungus-Tyrant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6zMzd6ICd3p1Ye4q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Geist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Geist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NpUHRQUpRJWYAtdc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Ghast-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Ghast-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vzEP8QvlJm0OZVWv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Giant-Longlegs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Giant-Longlegs.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ru2uTJxf6RTUzJ1p": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Glorkus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Glorkus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U77Y6dfaQb4pPNpU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Goblin-Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Goblin-Ghoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TUJQ4TlTlwCX8YMY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Gorlak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Gorlak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xoh5JAue3PtjH6dS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Greedspawn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Greedspawn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "39EWaqeCNzeAmsGd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Gurlunk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Gurlunk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1G19uNYMSU79P2f9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Iazmilor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Iazmilor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ht4d7kCdhjnsF2CQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Isphinn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Isphinn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UqQwDPkaVhh3Ehht": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Jervis-Stoot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Jervis-Stoot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "icF60MINRdmMu5Li": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Jordus-Munt.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Jordus-Munt.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r0iaWrjaSiCrxrMg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Kaleb-Valdemars-Body.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Kaleb-Valdemars-Body.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PNW9oNEgOacBTAVm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Kanker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Kanker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fCPf4Vl39OxXHvCA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Minargul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Minargul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EB8SG2RSeEwfrOKb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Mnoghoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Mnoghoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QY6YXMOIbcwNNAsf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Narlo-Nyrell.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Narlo-Nyrell.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5eXjcdgKFvAsl89G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Nualia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Nualia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m221Ars4KPC1j7VT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Pthuminin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Pthuminin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "M0hm5JzkOkUCVSFL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Red-Bishop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Red-Bishop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SeLGzSRvXzRiaUGJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Ripnugget.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Ripnugget.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "54wzV6OQLqhO7Tgl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Scarhorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Scarhorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "acGApO7HwzXQVlTU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Serpentfolk-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Serpentfolk-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hp3uUqKvGfKOxFGu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Sicklefang-Longlegs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Sicklefang-Longlegs.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RM9NdjSOuLqKwWPn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Statue-Of-Alaznist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Statue-Of-Alaznist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iOJqWQMDoqBqmmCg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Stickfoot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Stickfoot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PmE8OOm1BnYGW8VR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Tiluatchek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Tiluatchek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sLFSXmv8NereWm15": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Tunch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Tunch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KcS0KzOTJHcHfFQA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Vekensvoks-Lampad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Vekensvoks-Lampad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NhY79A94IYUUKDgj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Vizmivool.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Vizmivool.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6KhRRlIrLHvNDIlN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Wolgur-Wrabs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Wolgur-Wrabs.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lrl53bKw5Im3umUN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Zalavexus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Zalavexus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4p34LdwvJY2m3k7t": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Ziondriel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Ziondriel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PmQtJ1LBy45ulUpG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Ziradini.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Ziradini.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w4dc94Yzxw9LtxMM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Zoog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Zoog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sMY7hu636iKfN4Hj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/seven-dooms-for-sandpoint/Zoog-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/seven-dooms-for-sandpoint/Zoog-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

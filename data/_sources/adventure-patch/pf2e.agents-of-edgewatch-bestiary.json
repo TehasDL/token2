@@ -1,0 +1,2308 @@
+{
+  "pf2e.agents-of-edgewatch-bestiary": {
+    "gsn4NsJLwZCQUwgf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Almiraj.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Almiraj.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MONwgTbrcZFzr6vC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Antaro-Boldblade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Antaro-Boldblade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4ffoPNBKdEwBmYgL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Battle-Leader-Rekarek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Battle-Leader-Rekarek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fvOjtzuRNpmpEHXA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Binumir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Binumir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qY1NrXKmL0y18qoz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Bolar-Of-Stonemoor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Bolar-Of-Stonemoor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wb4Md6byPhBWe56J": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Cobbleswarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Cobbleswarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sn9Pjkr2jlMEqc3E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Eunice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Eunice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pE5GxoB1FtXBqnF7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Gref.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Gref.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Bv1s6xJ55HS3Gxgs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grick.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grick.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gd0sVQtCHbhP8iHI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grospek-Lavarsus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grospek-Lavarsus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "181ucNY1zpp2Lz3x": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grunka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Grunka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jJ1UTNLiRCoN1O3i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Hendrid-Pratchett.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Hendrid-Pratchett.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6c5CnrSxMYEgP6Fz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Kekker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Kekker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yR6p0KVvZ3tPflRt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Kemeneles.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Kemeneles.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lzmGdArS3kjJOqT6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Lyrma-Swampwalker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Lyrma-Swampwalker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GWO6vweLGT2J6q62": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Miriel-Grayleaf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Miriel-Grayleaf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oWASKud0jwlGSfJg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Pelmo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Pelmo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8HTPdiH6yEk0jlNF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Pickled-Punk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Pickled-Punk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JZUYQzQtzIwOGYvd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Ralso.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Ralso.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eQc0ADMuHl1JzL8z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Shredskin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Shredskin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XDt87cqF85zWnlC8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Siege-Shard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Siege-Shard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nTn2szBbqQNdXhOr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Skebs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Skebs.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uFU6dQfcNeKq68YT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Vargouille.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Vargouille.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PEjcy9CxelKC3Kp6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Zrukbat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-1-devil-at-the-dreaming-palace/Zrukbat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5u7luLMeRNJ4en65": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Bone-Skipper-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Bone-Skipper-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MQnhyCM9LInNYtl0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Carvey.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Carvey.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JuCLvgvxYbSRXqON": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Copper-Hand-Illusionist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Copper-Hand-Illusionist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9M1YJxTXqya55HDx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Copper-Hand-Rogue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Copper-Hand-Rogue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZL2qLXwomKfBB8Eu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Dreadsong-Dancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Dreadsong-Dancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SgkV5RtcK72d0HwI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Excorion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Excorion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rM6ix6XTroJod3Vr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Fayati-Alummur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Fayati-Alummur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8AdsRaXftoR1beTk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Frefferth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Frefferth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Xi53GFvTgBApltjp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Giant-Bone-Skipper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Giant-Bone-Skipper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3JEiwAFwkEjCDEYa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Kolo-Harvan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Kolo-Harvan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZY3q7AV1qbwWwNl2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Mobana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Mobana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zj2sCM8tQSMG9Qm6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Najra-Lizard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Najra-Lizard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ySpOZlKUbcxWhKQ6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Ofalth-Zombie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Ofalth-Zombie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MqfZxoxFwzqAXhTP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Prospecti-Statues.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Prospecti-Statues.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oTa25rAxytm03T3X": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Shristi-Melipdra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Shristi-Melipdra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8PRqUfkHLvu9ufGL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skinsaw-Murderer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skinsaw-Murderer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y1tw2ohNagqQJ6RV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skinsaw-Seamer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skinsaw-Seamer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AYNIAAxV7TbIKPI4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skitterstitch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Skitterstitch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zrh3MrS68H2gPlVs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Tenome.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Tenome.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8jjEOs99Bmo1v0Qc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Teraphant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Teraphant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Rinxhe1cRXKEsXuW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Tyrroicese.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Tyrroicese.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tm8vQ7gdAe9zVdDg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Vaultbreaker-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Vaultbreaker-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "syUXLdUsEDYgni5R": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Wrent-Dicaspiron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-2-sixty-feet-under/Wrent-Dicaspiron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7bMhDg4DNqoPlRsF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Avarek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Avarek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "10fEM7T48FUZRo6l": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Barnacle-Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Barnacle-Ghoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TIaZIUb9Mq9B4Mf2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Bloody-Berleth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Bloody-Berleth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WXwvWHRpwK17YABQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Bregdi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Bregdi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9vt9Dr2a8MkkD83z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Chalky.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Chalky.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JdMqHbaTwtOHVE7Y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Diobel-Sweeper-Chemist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Diobel-Sweeper-Chemist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xkkj0TW6BKNT3Bg4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Diobel-Sweeper-Chemist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Diobel-Sweeper-Chemist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1eMDYXXf2leLTYHV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Eberark.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Eberark.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HF0ymYmKC6KydPQ1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Franca-Laurentz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Franca-Laurentz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eqwAdGsAk5JZKxUY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Gage-Carlyle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Gage-Carlyle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pK1tlsgkmzkaaCe5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Iroran-Skeleton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Iroran-Skeleton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t9m4ikMZsDwo9TQ1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Maurrisa-Jonne.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Maurrisa-Jonne.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aDgVmO3afhIgXQSN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Ravenile-Rager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Ravenile-Rager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CLntGVs7cAIL9Trk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Scathka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Scathka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DKReNCapWWubM3pm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Shikwashim-Mercenary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Shikwashim-Mercenary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ai7Q9vBHHAGj7uFE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Svartalfar-Killer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Svartalfar-Killer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5pBr5aWUb7yGCqN7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Washboard-Dog-Tough.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-3-all-or-nothing/Washboard-Dog-Tough.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "phkvSUK6WXxgJOoC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Alchemist-Aspirant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Alchemist-Aspirant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fV5VIoXMtixmI3Wc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Clockwork-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Clockwork-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Uhi3wX4KveuMSARt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Giant-Joro-Spider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Giant-Joro-Spider.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JnNPdvOXtkGQHyfQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Gloaming-Will-O-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Gloaming-Will-O-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H4bY8v6e3drOIoUe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Grabble-Forden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Grabble-Forden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gIcReNQOZceZBBlw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Jonis-Flakfatter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Jonis-Flakfatter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cQMM2Ld0IBM9GcDo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Norgorberite-Poisoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Norgorberite-Poisoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LkaB8RH73DY4TO9V": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Priest-Of-Blackfingers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Priest-Of-Blackfingers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BCMkxoQB4xK4BniG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Secret-Keeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Secret-Keeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1xGAktpj6N2Ugh0r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Shatterling.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Shatterling.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xN3FDmrCKWW0psBu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Sleepless-Sun-Veteran.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Sleepless-Sun-Veteran.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WplBGSeB9pK9AULX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/The-Rabbit-Prince.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/The-Rabbit-Prince.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BoFg19e3N8WiNa3Z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/The-Stabbing-Beast.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/The-Stabbing-Beast.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GYhV5eYNDO1Llbv2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Venom-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Venom-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8eBXEszbl4gOHGdU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Wynsal-Starborn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-4-assault-on-hunting-lodge-seven/Wynsal-Starborn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "azyIfDNNW44jY8YX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BLRsSDFSMbZHcGDQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Black-Whale-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Black-Whale-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d3TzpCuRJF78xHZK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Black-Whale-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Black-Whale-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y0bIU9FCWHOJxUzG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Bloody-Barber-Goon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Bloody-Barber-Goon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a3pTQfLzsJThQvI9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Calennia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Calennia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wsVW8MdOTeGgGM59": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Child-Of-Venom.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Child-Of-Venom.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HifZEgdCuZearOG2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Amalgam.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Amalgam.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D36nL0YjCVHfjBNw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Chopper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Chopper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w2J6GpuMYM24U4sb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Clockwork-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pfHOwcITyC4gdCVu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Garrote-Master-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Garrote-Master-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3GNq4Vy40vk9zwMQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Graem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Graem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r3j5KEvULFP3fZS7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Grimwold.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Grimwold.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rXePwiS4iecWNMGU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Grinlowe.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Grinlowe.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "M8ONVV7yl4uu0zcz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Ixusoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Ixusoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "E7NEf3kmsY3YjRrz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Kapral.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Kapral.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "94yI4TrNag0jMaYy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lie-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lie-Master.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B4kIfCimsz8wfc0k": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lord-Guirden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lord-Guirden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oFCgiGFipWeit9sl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lusca.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Lusca.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pTkvg8OITTl6lsJY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Minchgorm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Minchgorm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Sq0Kb92nGkqj19Xx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Miogimo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Miogimo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "07AGJt4ZRjwH85Xp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Mother-Venom.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Mother-Venom.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wk2T0Wr8Sebo4br5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Mr.snips.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Mr.snips.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vPMmTtvl5UPOcCoa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Myrna-Rath.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Myrna-Rath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WDTdWiC9Rdl6rqh8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Myrucarx.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Myrucarx.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1bPc2rjR4MghbMwD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Obrousian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Obrousian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2uxm1SxZXaG0ynCp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Pulping-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Pulping-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BuPf7xtqfwCjNOQv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Reginald-Vancaskerkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Reginald-Vancaskerkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4TB1eo3O22khMyDU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Sad-Liza.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Sad-Liza.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rsKf8ixrl3yBq1gb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Starwatch-Commando.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Starwatch-Commando.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tt5eaS28C4PrHmZD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/The-Inkmaster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/The-Inkmaster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N1IpUIW2Ry7uBN3G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Tiderunner-Aquamancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Tiderunner-Aquamancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4BXo2a305RHmspMX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Twisted-Jack.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Twisted-Jack.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nfULZbf8OOUDdrZM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Water-Elemental-Vessel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Water-Elemental-Vessel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JhYJUNlcxiurcZcl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Water-Elemental-Vessel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Water-Elemental-Vessel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QBlBYsxySiBMxf22": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Zeal-Damned-Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Zeal-Damned-Ghoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JmHyHwaPMNKXzBts": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Zealborn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-5-belly-of-the-black-whale/Zealborn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8LlqjWcqiFq7YMmQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Agent-Of-The-Gray-Queen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Agent-Of-The-Gray-Queen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qUhxXE2yT0qwSJQm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Agradaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Agradaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RtWlzHaOrfFdJyJY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Alchemical-Horror.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Alchemical-Horror.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z6R8YjgX8Jvt9Ds4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Avsheros-The-Betrayer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Avsheros-The-Betrayer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0UbehYHzOGlNK8Hc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Baatamidar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Baatamidar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sUrJ7jxzBiJTbwVo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Blune-Bandersworth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Blune-Bandersworth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IKfYWE1NLVNLCXZm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Blunes-Illusory-Toady.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Blunes-Illusory-Toady.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QRcIVhQV2vlpADSf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Camarach.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Camarach.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EGQgqBfV80ll3pcf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Chaos-Gulgamodh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Chaos-Gulgamodh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gkRxUi9VrbPWOPGC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Infector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Infector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JsyO7yBf6YaF4YwF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Rumormonger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Rumormonger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lgbJbeSeC1f8otvH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Skinner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Daemonic-Skinner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1UtsScuNjmgwMZRn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Excorion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Excorion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D5UF1i0f1IRcQcNB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ghaele-Of-Kharnas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ghaele-Of-Kharnas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rGTq4qItRB5H7nEk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Graveknight-Of-Kharnas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Graveknight-Of-Kharnas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3If8bjsXeA2413dB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hegessik.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hegessik.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LAamprMlzk7k5auj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hestriviniaas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hestriviniaas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vwxNCuBksHYU2Dwf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hundun-Chaos-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Hundun-Chaos-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cLlOUUpCIAQwUuOP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ilsetsya-Wyrmtouched.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ilsetsya-Wyrmtouched.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QQkbvOCif8Bm1wws": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Izfiitar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Izfiitar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RyXA4wOGY8lenKVw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Nenchuuj.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Nenchuuj.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rm0iJOMwruWSE93I": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Olansa-Terimor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Olansa-Terimor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qSL6PtsHPekEEEjx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Overdrive-Imentesh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Overdrive-Imentesh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3XbjmNeUtPLzxDge": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Penqual.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Penqual.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kcvU9CatCyBUJRr2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Rhevanna.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Rhevanna.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P9Wg0sGcNkemOvm3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Slithering-Rift.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Slithering-Rift.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MfW7O5Ba8r2GR9ZQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Sordesdaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Sordesdaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "q61A6EsMnDDtnqxH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ulressia-The-Blessed.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Ulressia-The-Blessed.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Fmsw7P5CF3uHtD5W": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Veksciralenix.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/agents-of-edgewatch/book-6-ruins-of-the-radiant-siege/Veksciralenix.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

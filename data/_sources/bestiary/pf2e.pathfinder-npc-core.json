@@ -1,0 +1,4340 @@
+{
+  "pf2e.pathfinder-npc-core": {
+    "STds4rxF5ESFLLML": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/artisan/Apprentice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/artisan/Apprentice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fadWrz7SnifBx4yz": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/artisan/Guildmaster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/artisan/Guildmaster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qCKNT6U8O0su578A": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/artisan/Merchant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/artisan/Merchant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0So6avVuyVG7YOfs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/artisan/Smith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/artisan/Smith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AxB7Sh2Bbt9AcDPp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/catfolk/Catfolk-Name-Collector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/catfolk/Catfolk-Name-Collector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BfuYoV5mQVc0DrzO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/catfolk/Leaping-Thief.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/catfolk/Leaping-Thief.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NKSglx8RnXfuhb3m": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/catfolk/Lucky-Courser.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/catfolk/Lucky-Courser.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "14yAShROmGYdRS1Z": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Advisor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Advisor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UWBT8xEvGfHaAj0U": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Court-Historian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Court-Historian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B9NoqcAASkg2Gjz3": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Courtesan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Courtesan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9wdaQ6ZuBAZx9Vjk": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Envoy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Envoy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fSwCwS75z9FeUazU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Knight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Knight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lSRNLWRwi9Vhfy25": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Noble.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Noble.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "94fOoBeUT8PgTywH": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Palace-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Palace-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PXukrrvpLA40chXN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Spy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Spy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "e4f7h4XJ6Hmm8jZl": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/courtier/Veteran-Noble.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/courtier/Veteran-Noble.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xMDUgVCByn9VA0zC": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/creature-companions/Beast-Eidolon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/creature-companions/Beast-Eidolon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KOgFliu3yM3avhv5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/creature-companions/Experienced-Hound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/creature-companions/Experienced-Hound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ltUwrAv3r1udJRXu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/creature-companions/Trained-Bat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/creature-companions/Trained-Bat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ylxh6qisFZuVWVaf": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/creature-companions/Veteran-War-Horse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/creature-companions/Veteran-War-Horse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jOASgCgSyk3enLfP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FBq4bqtKUBpJUCMU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Bandit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Bandit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sEbc0YrpxVZ9kn1W": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Bandit-Gang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Bandit-Gang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sSa18Ra6zGc4Mp71": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Burglar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Burglar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BcJ36KvuUysWW3BD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Charlatan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Charlatan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mu8X8nr1HvSfdARc": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Crime-Kingpin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Crime-Kingpin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HBcKkBXyGaWXZxSs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Fence.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Fence.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dkUu1Ua71kWcZBMd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Flamboyant-Thief.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Flamboyant-Thief.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sYcMzx8RcgaIxyLu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Grave-Robber.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Grave-Robber.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WzBMIigC3lfvZyhJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Legbreaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Legbreaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SYrcABPch6qa61Tp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Loan-Shark.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Loan-Shark.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "G2AJ9Ya7QG7ebNPO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Master-Of-Disguise.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Master-Of-Disguise.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MNb1Hjd2gKimnfvV": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/criminal/Ruffian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/criminal/Ruffian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oAKCSQ9z2bLTO9sr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Abbot-Of-Abadar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Abbot-Of-Abadar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dwzAEnCBpDWnZBWr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Acolyte-Of-Iomedae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Acolyte-Of-Iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nh5QBC79HYRCSmLV": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Blasphemer-Of-Zon-Kuthon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Blasphemer-Of-Zon-Kuthon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RSwVjNvidoFL7SaJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Champion-Of-Shelyn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Champion-Of-Shelyn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NZOqqzi4ThvJfpm8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Deific-Champion-Of-Iomedae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Deific-Champion-Of-Iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L9GYpgZrtvRcjsrS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Deific-Vessel-Of-Urgathoa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Deific-Vessel-Of-Urgathoa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "deQ6Vg46CS6GTu7J": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/High-Priest-Of-Pharasma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/High-Priest-Of-Pharasma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uTGGtpKUotQep27v": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Penitent-Of-Calistria.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Penitent-Of-Calistria.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zUTlzjTKLyOc8bRM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Pilgrim-Of-Irori.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Pilgrim-Of-Irori.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DYqFgKrgZBf07NZS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Priest-Of-Sarenrae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Priest-Of-Sarenrae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mbuHsZrLEieLEES0": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Prophet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Prophet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uFQsIRC0zz3sNNIW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Rancorous-Priesthood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Rancorous-Priesthood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gJDjwGcTryITVTTo": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Sibyl.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Sibyl.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8LPVBXx8oIdXiNYQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Traveling-Priest-Of-Desna.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Traveling-Priest-Of-Desna.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0iyGP5rLXE6NxdRr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/devotee/Zealot-Of-Asmodeus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/devotee/Zealot-Of-Asmodeus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d47PtIdozWwSOtur": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/downtrodden/Beggar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/downtrodden/Beggar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xxH95k9qf6lLit4W": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/downtrodden/Drunkard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/downtrodden/Drunkard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oIHp4amcx8ecZRwM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/downtrodden/Prisoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/downtrodden/Prisoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a36bfgbqp1lt2bik": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/downtrodden/Urchin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/downtrodden/Urchin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xnHaTClGCleGFoLP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-Battalion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-Battalion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T5WxYghxUxqHgyl4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-General.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-General.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rY3uqGq5QyvNOU91": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-Smith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/dwarf/Dwarf-Smith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wuniRDzgL6STnyPa": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/dwarf/Spirit-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/dwarf/Spirit-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9p0WMNDYyeW5sqGX": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/elf/Aiuvarin-Translator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/elf/Aiuvarin-Translator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "62L0yQBRKjnsDmzH": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/elf/Demonbane-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/elf/Demonbane-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1K6Zl3EGIRZvC3TO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/elf/Elven-Court-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/elf/Elven-Court-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t5H1GbGqLLCU79cd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/elf/Forlorn-Artist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/elf/Forlorn-Artist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IYEVUYP6fXJCleTQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/elf/Woodland-Scouts.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/elf/Woodland-Scouts.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D3SJlR6iZYMgL2s8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Artillerist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Artillerist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ICvWcraGWylA1k9d": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Demolitionist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Demolitionist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XnfZwf1g4rfan1gY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Driver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Driver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3edjm6pFh3JhZHah": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Dynamo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Dynamo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jx5KZC2tbgJIJnOq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Gadgeteer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Gadgeteer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GuYToKMrt5mxxZW6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Gunsmith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Gunsmith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RT4du8iTXLoCgBnm": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Juggernaut.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Juggernaut.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Koz2GhqliCU5sIJl": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Mechanic.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Mechanic.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SHQHNG2o1T172Qm4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Rocketeer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Rocketeer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BqRb7ESpqPEQ4rVr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/engineer/Toymaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/engineer/Toymaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qtD7Xa8Mgl0Y63os": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Chronicler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Chronicler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Dd7E7pMKxPhrXaa8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Expedition-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Expedition-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JWhmMRoFHl2tmDS9": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Forager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Forager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RQTIsAmhiMkfcgsb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Gamekeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Gamekeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ndCqM6yNTg2QPZwK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Guide.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Guide.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XqIKuHK4R6yFOKbs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lX6pkCTREEzPzmuY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Mountaineer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Mountaineer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V6UV4BeMRUUwGL0g": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Natural-Scientist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Natural-Scientist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6CRUvM2p9csP735v": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Poacher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Poacher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yl6pxCXAoFECt89L": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Tomb-Raider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Tomb-Raider.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xjJV1G5FBeLV4KPQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Torchbearer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Torchbearer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CFBDZzfWCANLJcpF": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Tracker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Tracker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gIjhrY21iwTApvXT": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/explorer/Woolly-Wrangler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/explorer/Woolly-Wrangler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KVJYvqx9xEXuG4cP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/gnome/Bleachling-Survivor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/gnome/Bleachling-Survivor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V2wfIJdGvD4mQ1pU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Conservationist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Conservationist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TXu9W2jQezwQNT5k": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Daredevil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Daredevil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UmzCDlvwqNbF9qwH": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Philomath.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/gnome/Gnome-Philomath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t3z2RrO7pirntByc": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/gnome/Razzle-Dazzler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/gnome/Razzle-Dazzler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yr7kC9piMmRKrSop": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/goblin/Big-Boss-Goblin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/goblin/Big-Boss-Goblin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DsyCuAx23QkztXNF": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Chef.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Chef.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oizqaHsnhlKbL7ZO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Get-Gang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Get-Gang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vi0Ydmt5JGqjWhpA": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Scavenger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/goblin/Goblin-Scavenger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9mNCRx22F1RQDmFq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/halfling/Bill-Band.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/halfling/Bill-Band.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fDUocyyYWJU1grxV": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Head-Chef.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Head-Chef.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GPRL88DEmTVn0jkY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Smuggler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Smuggler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9EzCOBw3rMsyfr5Q": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Yarnspinner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/halfling/Halfling-Yarnspinner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h4gPulyY9uzkAbyo": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Apothecary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Apothecary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XmWD4T7LcpvNkq6b": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Humanitarian-Hermit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Humanitarian-Hermit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3m8fkhbaUubLeckt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Local-Herbalist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Local-Herbalist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "02hCP1sCfUXXjW5B": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Peerless-Healer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Peerless-Healer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GXmIABEvzmySOHRH": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Physician.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Physician.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "txVORfqTxVCMD75C": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Plague-Doctor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Plague-Doctor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oaqt9bociCp9e3Yr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Surgeon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Surgeon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fh7fcZjLGqih2m9J": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Therapeutic-Healer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Therapeutic-Healer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7qpH6PeW97Bjrxox": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/healer/Tonic-Merchant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/healer/Tonic-Merchant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GZxDz6PKbHs9f2WN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Battalion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Battalion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O0n4NLOuY3ZkEKbF": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Spellbreaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Spellbreaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PoH1pKba7YEqgWVn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Vanguard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/hobgoblin/Hobgoblin-Vanguard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8IVbWVMYUhBE4Yyc": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kholo/Bone-Scavenger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kholo/Bone-Scavenger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w7mf2yC3rE3CjGD5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kholo/Kholo-Outrider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kholo/Kholo-Outrider.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AhyWwDKH1gIVSfys": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kholo/Kholo-Pragmatist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kholo/Kholo-Pragmatist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mYbZJQPzpXx9DfIq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Earth-Diver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Earth-Diver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m7UKHHTw1WpDCfsL": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Egg-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Egg-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nDVrJFeatah7dtvy": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Trapper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/kobold/Kobold-Trapper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "APn9B54hhRtr0oCQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Commoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Commoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lhhdqML98o90gXqO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Construction-Worker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Construction-Worker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wv4jaiD6X8negvH2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Dockhand.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Dockhand.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aq5spzk2UZrI0ZwK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Drover.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Drover.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bZRZahVaMyzTbJ4u": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Farmer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Farmer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LbSA6uGVafcosT0X": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Fisherman.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Fisherman.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0t2jNg5tpwWbCYx4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Gravedigger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Gravedigger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BYpxg06tP5hI6CzQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Innkeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Innkeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z1tLeckmpJuStmlx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Messenger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Messenger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GKDMvepxkEsUnN5d": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Miner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Miner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mgEMfxh0VUbBepc2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Servant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Servant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kt2U47rXxnfOxvqw": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/laborer/Vermin-Catcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/laborer/Vermin-Catcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1GaKFngjw3Fp93CV": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/leshy/Corn-Leshy-Throng.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/leshy/Corn-Leshy-Throng.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dgKQirSInfVaPMYq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/leshy/Gourd-Leshy-Witch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/leshy/Gourd-Leshy-Witch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vRMKs6dHHWzQ1k62": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/leshy/Root-Leshy-Groundskeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/leshy/Root-Leshy-Groundskeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YSAw2CrLp8WnC1M2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/leshy/Tumbleweed-Leshy-Courier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/leshy/Tumbleweed-Leshy-Courier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cNXg1uiwM9Dafdko": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/lizardfolk/Iruxi-Masked-Mummer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/lizardfolk/Iruxi-Masked-Mummer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3Hv0EXBkCOcSOTfp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/lizardfolk/Tidewater-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/lizardfolk/Tidewater-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YnUDViAV0M2FMG3M": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/martial-artist/Black-Belt.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/martial-artist/Black-Belt.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iOAX2QVvgaBdGc0B": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/martial-artist/Grandmaster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/martial-artist/Grandmaster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "13mJkhzJX1jt5aPF": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/martial-artist/Martial-Student.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/martial-artist/Martial-Student.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2hBS767YPGZwXeiP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/martial-artist/Mixed-Martial-Artist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/martial-artist/Mixed-Martial-Artist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EiRyw8CAoZoEZVbt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/martial-artist/Tournament-Combatant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/martial-artist/Tournament-Combatant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OB4x3FBwjJBfOsi3": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Arms-Dealer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Arms-Dealer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ow76NqtsZUhZMf9f": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Gunwitch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Gunwitch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VYO4XEO6mHw8bfS4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/High-Roller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/High-Roller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tGndoQjOV5Mj5Foh": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Musketeer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Musketeer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "J6qH183OPXKfZ8qS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Peerless-Duelist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Peerless-Duelist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HVUlGw83Hf4YmW0p": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Political-Upstart.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Political-Upstart.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CxsBGAxeNqzp2568": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Runaway-Blueblood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Runaway-Blueblood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CCxgC3FIPsEZqZEo": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/maverick/Unsanctioned-Sheriff.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/maverick/Unsanctioned-Sheriff.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3jkmJgV4zwygUqLy": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Bodyguard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Bodyguard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dNATu2RQLFYY3hYn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Bounty-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Bounty-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oTKuWWYyWyfy599O": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Exiled-Revolutionary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Exiled-Revolutionary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "x7Mnb3F4r6JvXD9C": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Mage-For-Hire.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Mage-For-Hire.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P8Rd7OxbsyH9GmNM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Mage-Killer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Mage-Killer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nN1fOQT8FDgbmQdx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Mercenary-Band.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Mercenary-Band.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3qDYEHtyAobpCg5r": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Monster-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Monster-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yU434Ugr11tvU7TS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mercenary/Siegebreaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mercenary/Siegebreaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "szslWxJGvht4aM3j": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Combat-Engineer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Combat-Engineer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Tz3i25jdW5XZanxZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Conscript-Squad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Conscript-Squad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "g4SvRClK7ftg3kSD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Drill-Sergeant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Drill-Sergeant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Iax22298eQbIhIQK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Heavy-Cavalry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Heavy-Cavalry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "02AGznZTv5jjcnOg": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Hellknight-Cavalry-Brigade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Hellknight-Cavalry-Brigade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8ZkfzgUmN06j4jIu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Infantry-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Infantry-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iYGdNF9BarBiJUJJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Line-Infantry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Line-Infantry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0cj7cQhgNnLxbUmR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Mage-Knight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Mage-Knight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VpWPOE31dJc6vOsB": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Phalanx-Formation.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Phalanx-Formation.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "liMzj39g48s8ZtIf": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Sniper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Sniper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1jMXYVdmSPvnFfxS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/military/Standard-Bearer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/military/Standard-Bearer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PBb2WprHhEIQE9jN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Adept.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Adept.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f6NqtcB94r3S7LCn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Coven-Aspirant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Coven-Aspirant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MKwLXGzr48qU0hZR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Cult-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Cult-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GbPDSJeXjHc1VRN2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lqlrpoxzBoBH6Hw8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Curse-Monger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Curse-Monger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hR9n5d0tfyOkeZFb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Demonologist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Demonologist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZlA2Cp5e62nE16gD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Enchanting-Ritualist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Enchanting-Ritualist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9ZKIadbfdzrJJGOk": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Enigmatic-Conspirant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Enigmatic-Conspirant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OAxxUyACpMlX3q1X": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/False-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/False-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ADbAoVOiHrRFYtkW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/God-Caller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/God-Caller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "taNAx8xPuOJ3EmxC": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Harrow-Reader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Harrow-Reader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JfAyvn0mKWptD9xr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Mirror-Seer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Mirror-Seer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BcSzGmSxCn0uWkxU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6OtvMTyXhxUdZI44": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/mystic/Spirit-Binder.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/mystic/Spirit-Binder.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u1coIGvOeO8XZjKu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Accuser-Agent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Accuser-Agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fpwpA2JmpbwREa5a": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Archer-Sentry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Archer-Sentry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7AQj3Tbx5O2mlwgS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Arrester-Squadron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Arrester-Squadron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HbYwSi428oXESdNh": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Barrister.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Barrister.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vEdg4AXGWfet1Cgy": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Captain-Of-The-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Captain-Of-The-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jAdRgBHut1h1et10": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/City-Guard-Squadron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/City-Guard-Squadron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nVV8UBPEB9gHOh1R": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Equestrian-Constable.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Equestrian-Constable.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pHaQew7IEmk198Wz": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Executioner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Executioner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bzRxQ0Z317yeCUE5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Gendarme.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Gendarme.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FHVUrSWouQtE208v": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Grand-Inquisitor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Grand-Inquisitor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Aktz95gNNzfAiTzk": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vGcspyaP2VOwurMk": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Harbormaster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Harbormaster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4iIpjKl1KThYRTgK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Infernal-Registrar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Infernal-Registrar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lqg82WmGcps3BEcd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Inspector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Inspector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4okKASZDvBWTSu1U": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Jailer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Jailer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vfFB2za4zaQnXYIa": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Judge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Judge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HKQofrjurRdgEq3p": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Mayor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Mayor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KV9WeA9fq5HuCxxx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Prime-Minister.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Prime-Minister.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Xxnho8AZopSuhgHP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Tax-Collector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Tax-Collector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UcyRCjAUf7mijca0": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Warden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Warden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "thDJ5N0wUvI1JOa6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Watch-Officer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Watch-Officer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SK7BA4K7ALWtfNBe": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Watchmage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Watchmage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4gz263pSwpuyZQ6O": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/official/Watchmage-Squadron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/official/Watchmage-Squadron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "msItO7UjfQfWe9nZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/orc/Dromaar-Lorekeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/orc/Dromaar-Lorekeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8WFse73d3kgTPbje": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/orc/Orc-Agriculturist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/orc/Orc-Agriculturist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hXcBMFGA45ES01Lb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/orc/Orc-Gamekeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/orc/Orc-Gamekeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "C8Bo22NBYGoj9Fwd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/orc/Orc-Skullcrushers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/orc/Orc-Skullcrushers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A4XWtiK4iStEDAUu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/orc/Orc-Veteran-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/orc/Orc-Veteran-Master.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5KojtpJA0T5xoum4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Acrobat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Acrobat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eF87AWFclYpu1cgD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Beast-Tamer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Beast-Tamer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xvZvI0oFFOTaBO6L": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Court-Jester.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Court-Jester.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r7nprCpuqhEulxjD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Dancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Dancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zeu7M3M3wYt9O3M5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Juggler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Juggler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1wk2fBlDuHLRYfJW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Maestro.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Maestro.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sAurhtXSqv3kPAlJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Mime.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Mime.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r75kLP8MgLx46ZTO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Puppet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Puppet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1GVm2vOnSKHTIvGA": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Puppeteer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Puppeteer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "srsib4P14wAYv4pS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Street-Musician.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Street-Musician.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A8jeXP2XNUSsdXhs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Traveling-Actor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Traveling-Actor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "55t4OPNXDx6fAeZd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/performer/Troubadour.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/performer/Troubadour.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FTqAUF89sIKC0qPm": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Dedicated-Druid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Dedicated-Druid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "J0JoIeg82JCQj3Fm": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Druid-Initiate.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Druid-Initiate.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mD4gjp3Yus8TXGUs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Mountain-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Mountain-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mkyMSRTbDV4lho2o": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Pack-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Pack-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OF4s2rErk7xHgZU1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Skin-Shifter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Skin-Shifter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rxBaSTbWJflJPfz5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Tempest-Incarnate.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Tempest-Incarnate.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "atFtrrjwkTiFm6hJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/primalist/Tree-Singer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/primalist/Tree-Singer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AMkz31YZPeFVdOVR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/ratfolk/Bone-Mother.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/ratfolk/Bone-Mother.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lpDE9fesv4uLKUQK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/ratfolk/Swarm-Voice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/ratfolk/Swarm-Voice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ETSHIHmTP0Yajsci": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/ratfolk/Tunnel-Viper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/ratfolk/Tunnel-Viper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Y0MSOv0l5ePhP3Co": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Astronomer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Astronomer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hZ2ch39MaaKFKgtJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Avuncular-Professor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Avuncular-Professor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MxcprNbX7hcpAU8p": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Departmental-Chair.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Departmental-Chair.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SlabO2qbzHYS3kA6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Eldritch-Emeritus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Eldritch-Emeritus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7A0foSLz3KU3G4jL": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Exuberant-Apprentice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Exuberant-Apprentice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gJBsgTZnZnImelP2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Globetrotting-Scholar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Globetrotting-Scholar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GkatOjGPdFT9z0od": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Librarian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Librarian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DPSvIsPlVrlx7Q8V": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Obsessive-Researcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Obsessive-Researcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3R2J90R84AUgFJH2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Sage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Sage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EuDz8wgZY3nxyBTr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/scholar/Teacher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/scholar/Teacher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XrXTfNGxEWLE9Qqb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Bosun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Bosun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OuMZr5YNGlMY9SVb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Castaway.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Castaway.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z5MNKwVxTNilWRT4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Diver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Diver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nnrvoNBUzKyKQLu4": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Navigator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Navigator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UTDcZPzjM6D26MZK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Ocean-Nomad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Ocean-Nomad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "55Hb1FTqRGtoGuJt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Pirate.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Pirate.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hBSGQAonirqUAHCP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Rigger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Rigger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bMKM6SKTBN8M4I8K": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Ship-Captain.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Ship-Captain.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iJSCvkA3XQgO8GjG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/seafarer/Subaquatic-Marauder.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/seafarer/Subaquatic-Marauder.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HnitCC674ywMuqkS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tengu/Gambling-Companion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tengu/Gambling-Companion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l5QgLQKKxM2pqcSl": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tengu/Jinx-Eater.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tengu/Jinx-Eater.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YBNskadw9c8n1E21": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tengu/Tengu-Bladesmith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tengu/Tengu-Bladesmith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FYB0XBshilW7Bszx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Camofleur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Camofleur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bQsdRYWGcUvXdp5G": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Fiend-Keeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Fiend-Keeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XfK0MATlH2WDNhAA": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/ancestry-npcs/tripkee/Tripkee-Scout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "swsUKYW00lGAH55r": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Champion-Of-Rovagug.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Champion-Of-Rovagug.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "W3uePAytelIvWOuV": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Conspiracist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Conspiracist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ct7EwIepldAqv572": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Deluded-Mob.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Deluded-Mob.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u1Np0sUKfkTxrNT1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Despot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Despot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DHouUgsIwlktV1Pr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Fiend-Caller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Fiend-Caller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kbZstaIc8R4Ce9A3": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Fleshwarper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Fleshwarper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AdZ4EklEmpHViycl": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Gang-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Gang-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qsS9EAPMfav5mmzK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Hero-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Hero-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1V3cvVmMte15i5sJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Interrogator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Interrogator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fBd8Cfe7fRtF8HoJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Mastermind.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Mastermind.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uCZmZ9wCwvLA57cp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Propagandist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Propagandist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zqesJ7AlPM39Qqcw": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Reckless-Scientist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Reckless-Scientist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qQzry7keeMVUzfpt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Saboteur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Saboteur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BbFb0HC3vMBGP5WN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Toady.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Toady.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KJ4faFTpKHVhAqFR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Warmonger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Warmonger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iexsv5iflfbqj8po": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/Wealthy-Vigilante.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/Wealthy-Vigilante.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vp2PPBttJl1h8iZe": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/npc-core/vilain/World-Ender.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/npc-core/vilain/World-Ender.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

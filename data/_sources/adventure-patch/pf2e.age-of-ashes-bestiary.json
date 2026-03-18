@@ -1,0 +1,1636 @@
+{
+  "pf2e.age-of-ashes-bestiary": {
+    "YV3wA2Kgjp74l7YJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Alak-Stagram.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Alak-Stagram.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4vEQ8zRXC51Qo4Mv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Bloody-Blade-Mercenary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Bloody-Blade-Mercenary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aaDiR0EIWRQx8wdy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Calmont.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Calmont.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yLhO5vUrPQF42Lh8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Charau-Ka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Charau-Ka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L4K4V09tQVXj7ZiI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Dmiri-Yoltosha.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Dmiri-Yoltosha.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MOyYEls8wNGHoe8F": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Doorwarden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Doorwarden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rd8Scu1YBSyKFwnk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Emperor-Bird.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Emperor-Bird.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H0pP1GqpMfX1WEiQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Grauladon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Grauladon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xXtGS9uBa9z43X7y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Graveshell.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Graveshell.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KROWh0CteDFFGsih": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Hellcrown.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Hellcrown.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SVLUUPOXDINbKyFL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Malarunk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Malarunk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r02b4f1XNq7OihhD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Renali.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Renali.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Aii18rhNPMLW4Pxh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Skeletal-Hellknight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Skeletal-Hellknight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Oqj8XIWBb29NZ8QX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Tixitog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Tixitog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UD7EwTQG2Sbl4d8R": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Voz-Lirayne.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Voz-Lirayne.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1tDEWL9mAIXvTYik": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-1-hellknight-hill/Warbal-Bumblebrasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-1-hellknight-hill/Warbal-Bumblebrasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oPXRJxxWrY2kz2qf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Belmazog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Belmazog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jO2fGZayk4R1AzYK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Bida.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Bida.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T3UVfAfcvAMe9rih": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Charau-Ka-Dragon-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Charau-Ka-Dragon-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NwNu2yvMnbvPvpY8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Ekujae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Ekujae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UQDxkvqXKg03ESTQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Gerhard-Pendergrast.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Gerhard-Pendergrast.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5DwiLZJf6KxpIjDq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Grippli.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Grippli.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X2edjYEqAHsdQc6L": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Grippli-Greenspeaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Grippli-Greenspeaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MWQmOXxGcbaMsXDD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Hezle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Hezle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kciXaXw31gHA3gZl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Jahsi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Jahsi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YdLf7y2ZHudpjWx9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Living-Sap.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Living-Sap.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZtSb3mHZ5sD2uqHd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Mud-Spider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Mud-Spider.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NK49bh04355Lgz5r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Nketiah.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Nketiah.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "60aeSJvu09ZM3SPx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Racharak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Racharak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t5mX2rkcKzcOzJXQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Racharak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-2-cult-of-cinders/Racharak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sQZDwS08l6Agsryq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Barushak-Il-Varashma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Barushak-Il-Varashma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "91BSCAJA1Oto2ctf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Blood-Boar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Blood-Boar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OJH8y8LqmgbkN8ce": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Ghastly-Bear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Ghastly-Bear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dlW3UaXVpnzjd6xe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Heuberk-Thropp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Heuberk-Thropp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mY494hn9sKVD9q8C": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Jaggaki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Jaggaki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KzKQYgiUZ3hJo473": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Kalavakus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Kalavakus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9oNwQuwKGUuG9G9g": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Laslunn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Laslunn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "El7eSPV9aRi98Ufy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Mercenary-Sailor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Mercenary-Sailor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QKkvnlqrhgLHuP1t": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Mialari-Docur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Mialari-Docur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tGyPrTGSpndXKU88": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Nolly-Peltry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Nolly-Peltry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CmbcgWZgOSDmo2Pm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Precentor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Precentor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z4rlpEsE2KgzpOCc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Remnant-Of-Barzillai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Remnant-Of-Barzillai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qouYGPM8mE4KUCTe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Rusty-Mae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Rusty-Mae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lx5JiVOGWnzzjCrW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Bruiser.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Bruiser.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nQ2eBOpK71I8D2JC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Poisoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Poisoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1lkay2gwgEquq0NF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Sneak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Sneak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7WNFNE3SVMRGbBDf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Sniper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Sniper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NwLrwNqwedh95iry": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Thug.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Scarlet-Triad-Thug.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ejxngh2tHFseZQHW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Vaklish.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-3-tomorrow-must-burn/Vaklish.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xrxjjjRMKzwsYbGm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Accursed-Forge-Spurned.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Accursed-Forge-Spurned.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WouSA1UsIzvBTOix": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Carnivorous-Crystal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Carnivorous-Crystal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w1Pqv0YmG4MevpQc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Corrupt-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Corrupt-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NrMgYvnIHFxeFEhX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Dalos.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Dalos.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5jFR05QRixpOChRy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Deculi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Deculi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "scPhFbBqlmD2fQHa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Dragonscarred-Dead.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Dragonscarred-Dead.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2FbG5nLE91b6BNiB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Duergar-Slave-Lord.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Duergar-Slave-Lord.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dG5DBgrxlaimsWOS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Falrok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Falrok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tr3qlFJVHqloE9zI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Forge-Spurned.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Forge-Spurned.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XHJC4G6bfPiVXGKE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Ilssrah-Embermead.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Ilssrah-Embermead.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qemmmfu7exswGMGZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Kelda-Halrig.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Kelda-Halrig.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "C4PD4p4I9byZ8yp6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/King-Harral.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/King-Harral.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MFTMMXiwvW1aqOzs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Kralgurn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Kralgurn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L7IJO5z82nEN9IjM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Lazurite-Infused-Stone-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Lazurite-Infused-Stone-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U2QGjhcg5QFFkHwv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Saggorak-Poltergeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Saggorak-Poltergeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mYJ6NNthl702Pz2s": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Scarlet-Triad-Agent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Scarlet-Triad-Agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "595MAHwB4JWtzLAA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Soulbound-Ruin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Soulbound-Ruin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Fe1lYhCUY4UO4Plw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Talamira.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Talamira.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dTikLHqGfiSYemuZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Veshumirix.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Veshumirix.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CJVRPFTKuJroiD5C": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Xevalorg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Xevalorg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XNso2IMnhnfHcMCn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Zuferian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-4-fires-of-the-haunted-city/Zuferian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j4BCcTvIMtoUPRzw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Aluum.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Aluum.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "080v247YtmFRxT3l": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Bshez-Sand-Claws-Shak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Bshez-Sand-Claws-Shak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZRGRAqkDEZbRn8x3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Crucidaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Crucidaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AtiN3EsRpHn5qbuv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Immortal-Ichor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Immortal-Ichor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lRqptquQcM6ZcQ4O": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Ishti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Ishti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SVh7cPwyGgmZORVz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Boss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Boss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "egTpOr4Wc0L5e0iY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Enforcer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Enforcer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gF8Qy1k8gPBEUBAd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Scarlet-Triad-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "n6FQeNsDgKaDIF7b": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Aluum.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Aluum.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X7zSx8LFh2ZDnOYy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Teyam-Ishtori.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Teyam-Ishtori.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aiNE06bxKD6jfoLd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Uri-Zandivar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Uri-Zandivar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H7NO4Q7ctHnfGKeJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Weathered-Wail.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Weathered-Wail.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JD6kdfZveObBe1mR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Xotanispawn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Xotanispawn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YIXAcvSyI1C94r9l": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Zephyr-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-5-against-the-scarlet-triad/Zephyr-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZqL6MP4XxDys9dmW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Aiudara-Wraith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Aiudara-Wraith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yrU0xi4eKBmcGudo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Animated-Dragonstorm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Animated-Dragonstorm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "53lk7ek73j65A09B": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Candlarons-Echo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Candlarons-Echo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X6TTBlHIfJZ43OqR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Dragonshard-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Dragonshard-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F9BHPV16N4eEL0TP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Dragonstorm-Fire-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Dragonstorm-Fire-Giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jZc4PrsX3HCJnkXx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Emaliza-Zandivar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Emaliza-Zandivar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5dSVk2y88SLsPPON": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Hermean-Mutant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Hermean-Mutant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ev930dfPpwCR8Zju": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Ilgreth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Ilgreth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lcYcBIFmfKFt8Hcs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Ingnovim-Tluss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Ingnovim-Tluss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "30FX1WFr0RkGeueX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Inizra-Arumelo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Inizra-Arumelo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N8vOjTD2SqS2b9Sy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Lesser-Manifestation-Of-Dahak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Lesser-Manifestation-Of-Dahak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sY47PB9b7nCJjgRq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Manifestation-Of-Dahak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Manifestation-Of-Dahak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6AN7eagk2WrWc4im": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Mengkare.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Mengkare.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Afq4Osh3W1k9Bcsh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Promise-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Promise-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kLX36WXp6rjTt71z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Rinnarv-Bontimar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Rinnarv-Bontimar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5r2S6FeE6D1Oh66T": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Tarrasque.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Tarrasque.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xPV49ZBCwDdCq5eI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Vazgorlu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Vazgorlu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X4oeJnv1KcpHFO6i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/age-of-ashes/book-6-broken-promises/Xotani.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/age-of-ashes/book-6-broken-promises/Xotani.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

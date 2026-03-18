@@ -1,0 +1,884 @@
+{
+  "pf2e.gatewalkers-bestiary": {
+    "7VoxPNp1BMlhGrss": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Amelekana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Amelekana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qsRrYCsKLiMwZ1I9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Bolan-Nogasso.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Bolan-Nogasso.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EfoaqozIWUdm8unh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Captain-Salah.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Captain-Salah.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AihjWbZiorAJ80gE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Cliffhunter-Pteranodon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Cliffhunter-Pteranodon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bz5OjD8rYMm1M4EC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Delphon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Delphon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CBCMrAi44SYguevM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Desa-Desa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Desa-Desa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h5S6ayqQTa7r6p8w": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Gokeki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Gokeki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X7ScCatwncmk5P9o": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Immolis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Immolis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZzVs5T27LnLhRZ5u": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Kaneepo-The-Slim.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Kaneepo-The-Slim.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yJSqKx1kBbadhQX6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Kareq.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Kareq.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kneoApQfhlRhhp1R": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Oaksteward-Enforcer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Oaksteward-Enforcer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MmyFD8SI0IvzCTuR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Oaksteward-Enforcer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Oaksteward-Enforcer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RwdczmexMQkSckwL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Ocluai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Ocluai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "itAkkjCM3EUQ4heC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Quarry-Construct.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Quarry-Construct.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HypIeplCDn0Phqs4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Symbiotic-Amoeba.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Symbiotic-Amoeba.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DAfDg86y1mWHHQEy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/Temagyr.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/Temagyr.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cgCENLL4fwwGxvzo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-1-the-seventh-arch/The-Looksee-Man.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-1-the-seventh-arch/The-Looksee-Man.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JrMv2lQ1hRTpMumk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Alkoasha.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Alkoasha.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eRRWMgdYHwNIm6zp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Aspect-Of-Ruun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Aspect-Of-Ruun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9pu5FhW9oW1mZaaC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Capstan-Swabbie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Capstan-Swabbie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SbJe7zmuevvBFhad": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Abyssal-Muckrager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Abyssal-Muckrager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NeNIMJO0P1KA8KCM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Demontangle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Demontangle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rrMtTABR1587fJGU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Ghodrak-The-Quick.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Ghodrak-The-Quick.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "16Ru7zfHAHD544xO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Glimmervine.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Glimmervine.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yTREQiKhDqp16UeO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Green-Monkey.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Green-Monkey.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eR1tzQX7WrTsJMb3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kitari-Lambossa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kitari-Lambossa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ESgndiwI8BzwhDLi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kithangian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kithangian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7LdB1zPPNiWX4Ji5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kvernknurr.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Kvernknurr.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A9gKXEQXwKb4U6wA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Myroga.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Myroga.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mcNpKicW6L1E327u": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Pholebis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Pholebis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wdeje31VJ7Ivcdd6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Sakuachi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Sakuachi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BlF4FiqivSuigBxy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Skin-Beetle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Skin-Beetle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "COyGm2KW6YKFE67u": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Skin-Beetle-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Skin-Beetle-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DWT0VLHV9MCbbjbx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Stone-Breasted-Owl.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Stone-Breasted-Owl.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f1Wpj3sqUrfr4m6K": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Valmar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Valmar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wt9kH6AwMRuSeGBV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Vhisa-Resgrido.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-2-they-watched-the-stars/Vhisa-Resgrido.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kgW2ycNTgQsMmkTC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ainamuuren.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ainamuuren.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bnKUnG9XzsKzIUxK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ancient-Tupilaq.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ancient-Tupilaq.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yy2DDehhj47BMWgP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Guecubu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Guecubu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5kcL1xtNY0apAwhO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Prophet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Prophet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2mq2bKfkW7gtxKla": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Zombie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Blackfrost-Zombie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6HB8S40uMTxM9prV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Crownbound-Constellaton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Crownbound-Constellaton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8typuC7n5nE01Gzu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Dreamscraper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Dreamscraper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tjDGU0T5RYZG49EN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Elder-Thing.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Elder-Thing.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4LTBKID3ZcZgyOVw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Elder-Thing.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Elder-Thing.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AeM32zT3kFOOAugS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Equendia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Equendia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MnOXwpGD3vJIFydk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Etward-Ritalson.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Etward-Ritalson.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PAQHiQqCcfFo8koZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ilakni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ilakni.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N659rGqG2uyI2gp5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ilverani-Sentry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ilverani-Sentry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qbTNd1UeIxYEihNs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Mindmoppet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Mindmoppet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m1M7f4Rd5zuBRVDe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ogmunzorius.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Ogmunzorius.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "78E4gYNIFP3jd8Bt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Protosoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Protosoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DP1XF7ygEPlBOdVB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Snowy-Owl.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Snowy-Owl.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FGOMsKi1Z0a7uJJy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/The-Guest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/The-Guest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "piLAtgB51zXEHmFt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Yaiafineti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/gatewalkers/book-3-dreamers-of-the-nameless-spires/Yaiafineti.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

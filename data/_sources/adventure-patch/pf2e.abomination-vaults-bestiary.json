@@ -1,0 +1,1556 @@
+{
+  "pf2e.abomination-vaults-bestiary": {
+    "3ry9WSvMMXHUe3kE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Beluthus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Beluthus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rketcmqDQJbFFYfq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Bone-Gladiator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Bone-Gladiator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oXnpdJVN6NIE58W3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Caliddo-Haruvex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Caliddo-Haruvex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vHei0y2PKlXfxQ8Z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Child-Of-Belcorra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Child-Of-Belcorra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ro9oVsu1cuCP8OQH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Deadtide-Skeleton-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Deadtide-Skeleton-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mlifDVJJWwjFtUxv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Murmur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Murmur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZFP8RyQW4SNtJ3AE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Nyzuros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Nyzuros.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0jvmec4yJH1ASfRy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Urthagul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/abomination-vaults-hardcover-compilation/Urthagul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tOL4rWj2oYWZ4ow2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Aller-Rosk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Aller-Rosk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "saEUzIgUtV2AzKhl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Augrael.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Augrael.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k4fVLtVrgIEg9xij": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Bloodsiphon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Bloodsiphon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xAfkUwJYq5JLmSrW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Boss-Skrawng.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Boss-Skrawng.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lMCEVxKkQ7XK6Nid": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Canker-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Canker-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3H1rBpUQwTcNd6xZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Chandriu-Invisar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Chandriu-Invisar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HBRz8BVLVN9u9Odp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Corpselight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Corpselight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "x3eOZvKUginj5Blh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Flickerwisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Flickerwisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hia81Ut7fEREbhkq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jarelle-Kaldrian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jarelle-Kaldrian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EN3mp0sVObP8ou3p": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jaul-Mezmin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jaul-Mezmin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xj1Qn0VA4H4aKSjW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jauls-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Jauls-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kzX588Hjb3w4QPOj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Mister-Beak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Mister-Beak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lH2rdwiyOPStkQvZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V73Oqm1EL1KOoXOl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Engineer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Engineer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KSFGGxU3qxYJzWpe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Scavenger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Morlock-Scavenger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w2N0foudBFcRCaHK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Nhakazarin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Nhakazarin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "R0EEgMDKcynpAWoa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Otari-Ilvashti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Otari-Ilvashti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Nkz8Z5TrEqRePGlk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Scalathrax.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Scalathrax.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ceLvlSQsYNORH8oM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Voidglutton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Voidglutton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZAXuvUW6kl6v3SuW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Volluk-Azrinae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Volluk-Azrinae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZDYMKYZVyR8Fqakp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Wrin-Sivinxi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-1-ruins-of-gauntlight/Wrin-Sivinxi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3d3NAcPfvn07mcGN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Afflicted-Irnakurse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Afflicted-Irnakurse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uyGxJOnJ1gYwOpy5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Azvalvigander.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Azvalvigander.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8Iozx4jbIGHxK4yf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barcumbuk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barcumbuk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tYzzLLUv9WBhHhQY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Carman-Rajani.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Carman-Rajani.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "x0NDgH3EMLTLh02r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Chafkhem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Chafkhem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9Tr4aUNr2wxxMDcg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Cratonys.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Cratonys.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "To0MLA0arpkiE6Cz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Deep-End-Sarglagon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Deep-End-Sarglagon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DnAeqlJRZc5N7hve": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Dreshkan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Dreshkan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A4MusxxoLxwMVZua": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gUihlg28MEloIqE3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Candle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Candle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T6vOuhM1KV5Fr75F": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtanius.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtanius.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BJYrYqkV7PkXgSfk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3F3fPq5hFbej40T2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gibtas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bfuIEdKBj9bhuOft": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Candle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Candle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uWn6DCzthgUt97d7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gulzash.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Gulzash.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vX4SBXIICKfrM4pF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jE8BEe6pcnGraw2p": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Jafaki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Jafaki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VeyuTE1GUJ71oMMn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Kragala.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Kragala.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zsgW8hHm3JfZUgwF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Mulventok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Mulventok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2K0oJcLauMwyRNZQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Murschen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Murschen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HnIyJuqKNOvK7eOJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Nox.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Nox.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TiAzR8SnYwhACWbj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WR07Z6MjvebSHzI7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Ryta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Ryta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3vn9W5SThovdsEnY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Sacuishu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Sacuishu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qOkxxiM4tNf96CHQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Servant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Servant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vS1YISLmSnkNotkL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cMpgGvq1fGxh8wI0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Researcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "v9B0hB5sm4YZxebY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Servant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Seugathi-Servant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mrxDc0fj5t5CvjJQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Shanrigol-Behemoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Shanrigol-Behemoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qXT1SQDtGqMkVl7Q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Shanrigol-Heap.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Shanrigol-Heap.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OErk9kO3PhYwMXoJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Siora-Fallowglade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Siora-Fallowglade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NXdpFypPPmRwYBT1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Will-O-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Will-O-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "njfwxMPXTPA5AegD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Summoning-Chamber-Erinys.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Summoning-Chamber-Erinys.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4bznEiwsJvInwZwA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Barbazu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mk6Uo4Vt1HkG9EvL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Urevian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Urevian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qoyopMMlRdgPAbXZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Vischari.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Vischari.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5iuvJLceeLJPlR8O": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Viscous-Black-Pudding.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Viscous-Black-Pudding.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "277uvPqG9RLMQUcO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Warped-Brew-Morlock.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Warped-Brew-Morlock.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YXF12ssz8tEh2YUe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Will-O-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Will-O-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aIDLQY5mBPyxTjZ2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Witchfire-Warden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Witchfire-Warden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8AVy2qIK6vh13sSj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Ysondkhelir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-2-hands-of-the-devil/Ysondkhelir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DDJGNAh3rfyIupAb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Belcorra-Haruvex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Belcorra-Haruvex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ChRgdkplhO1D81Lg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Bright-Walker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Bright-Walker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OloMMRPtTQKF0x16": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Caligni-Defender.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Caligni-Defender.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "78Vf1Lk9ph2RGDgL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Deepwater-Dhuthorex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Deepwater-Dhuthorex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zkiaelYxDB1ttlCI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Deepwater-Dhuthorex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Deepwater-Dhuthorex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "55SmPtsUXsridUjJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dragons-Blood-Puffball.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dragons-Blood-Puffball.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YHYdZemNHp0fnWca": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dread-Dhuthorex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dread-Dhuthorex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2TOXR7nKS6xPng2Y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dread-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dread-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kzHRJGLvjOJk5WU7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Cavern-Seer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Cavern-Seer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OqoWbYOyHDGHEeHV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rArZ2y5xqSWeUU0G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Shootist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Shootist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DawBQWRyrM4cKfGI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Warden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Drow-Warden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h0Ztbh36be4rpJCz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dulac.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Dulac.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "00s3MhFQ4yOp2rTf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Elder-Child-Of-Belcorra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Elder-Child-Of-Belcorra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3Ll0LCZcmQmb7aV3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Galudu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Galudu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Np787X9Z4aQxOdCg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Khurfel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Khurfel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dWOK0nzGWyc5NkNz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Ladys-Whisper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Ladys-Whisper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eoQgRltsgJWa4aeC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Nhimbaloths-Cutter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Nhimbaloths-Cutter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qw2pk1zjvgxbeGBO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Padli.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Padli.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BOaM3pAuWl06Q6IZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Specter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Specter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JrowrtDilEG8dN2s": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Quara-Orshendiel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Quara-Orshendiel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "czQFet5Qo63IXtHl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Reaper-Skull-Puffball.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Reaper-Skull-Puffball.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bif3iQcDPi27rx6x": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Salaisa-Malthulas.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Salaisa-Malthulas.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OTT7CCkonkfwhJ8Y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Blood-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Blood-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tZCFmJonHkhGg1Vs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Death-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Death-Scout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Sbxt8YT0AOFfVCPX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Lasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Urdefhan-Lasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tXfiVIThQlBT6B1H": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Voidbracken-Chuul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/abomination-vaults/book-3-eyes-of-empty-death/Voidbracken-Chuul.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

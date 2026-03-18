@@ -1,0 +1,1140 @@
+{
+  "pf2e.shades-of-blood-bestiary": {
+    "EgVCDx5HEUs7e0th": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Alzira-Mustanir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Alzira-Mustanir.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "RtNr5A739WpvpEEG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Batkin-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Batkin-Guard.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5BdcWUKNe0Y8Jiaq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Camazotz-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Camazotz-Cultist.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "wWG6YZdae68YNR3E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Desmohund.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Desmohund.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "DIJlAQAUQ6N5PwRO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Inizkar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Inizkar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6wYXYSOVgLZo7Mlm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Keeper-Of-Ancorato.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Keeper-Of-Ancorato.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "tX6i3kDDxV14T5uk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Lesser-Shadow-Scamp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Lesser-Shadow-Scamp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "08mgjiQYW93wV8bw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Netherworld-Sprigjack.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Netherworld-Sprigjack.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "SRejMgmVr7JxZ9F5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Netherworld-Vampire-Bat-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Netherworld-Vampire-Bat-Swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "fna0PpG2G6wEZA2m": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Romi-Bracken.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Romi-Bracken.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yLDEDOpiBK8kEiqy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonshild.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonshild.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "hm8wMZHRewfFdZFy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonshild-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonshild-Swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zjmH2o7EaajaQ7sQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonwird.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Tormonwird.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "JJhhgVfwpHetVD8m": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Vampire-Servant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Vampire-Servant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aZrvsgKfSkitGMVk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Werebat-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-1-thirst-for-blood/Werebat-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lv37YXdRoPLyR90O": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Amphibious-Chupacabra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Amphibious-Chupacabra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aX9sC59BYbnUg9Tb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Auzmere.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Auzmere.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UuXREGQxhDv8KQFq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Creeping-Clot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Creeping-Clot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vu6NVlTlomKNghZM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Danva.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Danva.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "7xaJIYGhyJD31lfG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Dero-Punk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.8,
+          "scaleY": 0.8
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Dero-Punk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zsLGLqVmxIcRFMpU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Erissa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Erissa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tRD9nT9535e4p1oH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Fogfisher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Fogfisher.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9AbM3vYxqnbOKMXL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Fulthrethu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Fulthrethu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OUnOwGyGysTtnVqG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Glormungost.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Glormungost.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "o5TPuCVrjk5WeIEb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Grusk-The-Pusk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.8,
+          "scaleY": 0.8
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Grusk-The-Pusk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "uu1vOPgc0ZJ3AuRE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Hiss-Beetle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.8,
+          "scaleY": 0.8
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Hiss-Beetle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "2CTbUmwKQUL2Wlqm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Idebilor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Idebilor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RopMrASCznNypjlK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Kalakaigh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Kalakaigh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vJAoejqZeIlf27Mw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Losko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Losko.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "obnOPigZBszDZu77": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Miranette.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Miranette.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "vUpWo3El3a3xfzdF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Morlock-Thrall.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Morlock-Thrall.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zzEDrDtpiwCaUfym": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Nalushae-Meronis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Nalushae-Meronis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VP6HU7O12njtQ0Id": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Shankfingers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Shankfingers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pc4ZQaxSYoHWxYTP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vampire-Nettle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.8,
+          "scaleY": 0.8
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vampire-Nettle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PdbSy7QbpzOL6TaZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vikandian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vikandian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ow29BvvTX38mYIdU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vinn-Karskell.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vinn-Karskell.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qlm7EK85hTcHbSCc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Viper-Bat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Viper-Bat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NDX3PsmoxgHuLdVN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vool.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Vool.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "1xZBbOp6wBPjwTIf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Web-Grub.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Web-Grub.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "H9OOwT4rgim5axPk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-2-the-broken-palace/Yobnobby.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-2-the-broken-palace/Yobnobby.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FyW3TEgHPqM9eDcN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Aeon-Stone-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Aeon-Stone-Swarm.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "j6JGWiMMFMeBV7Bz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Animated-Treasure-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Animated-Treasure-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UrRajhTDwYg40Rms": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Anoreth-Zorillen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Anoreth-Zorillen.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "kTTnDtBuAnfdJwoW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Anvaca.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Anvaca.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CKm5mJeZJwRlOu27": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Bulbous-Blood-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Bulbous-Blood-Ooze.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "to8imCECPsArwlE2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Clockwork-Corpse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Clockwork-Corpse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "n7NcIxT3kfhZjDL1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Clockwork-Sentry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Clockwork-Sentry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Y1uFZHLnPjMyLvHS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Conductor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Conductor.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "nq70qRFWZOyJkmDC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Deg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Deg.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "exHroW4CMNK2pnKv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Dero-Sentry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Dero-Sentry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K9GtagRQfD3GrMH1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Favored-Thrall.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Favored-Thrall.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "n27nM6GoGJT7OrtR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Firitula.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Firitula.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YSSDO5sjftfy90gk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Freileth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Freileth.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "nAnpWKPONGmbe5jp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Geff.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Geff.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Q1i0OGqwbugkgoET": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Hurkum.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Hurkum.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0uwWDU01Ox58SysJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Ilnaphrae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Ilnaphrae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AXllRfXjM0MXErIL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Kaba.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Kaba.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eynyUDgJhj1kbcTR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Living-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Living-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qzhjVB9Pp4sV2mNu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Nizca-Iricol.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Nizca-Iricol.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "oF8CT64EiII7Jvu6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Ogenni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Ogenni.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mqrzYkPJxLv4pFGD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Okoa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Okoa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "x6s8rksF5BhZS2zs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Onak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Onak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CklGXXDkGeo1sHpZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Rukh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Rukh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jWZwy2R1Aif0QJL5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Shadow-Tainted-Pachycephalosaurus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Shadow-Tainted-Pachycephalosaurus.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "gmtDRDr7C0IzYtrY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Tokainen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Tokainen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IBsOMXG5XrV20v7X": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Tokainens-Chosen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Tokainens-Chosen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6Pdx3Ouodx6FzVn9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Vampire-Servitor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Vampire-Servitor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5iDn7TxzmnOT21hZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Vye.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Vye.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3W3H81R5UtM4C9jv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Xarbaene.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Xarbaene.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "LJFUAEP9BA2SCc7J": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Zer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.8,
+          "scaleY": 0.8
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Zer.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VVDuJAwbwUjKZ5SD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Zovi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/shades-of-blood/book-3-to-blot-out-the-sun/Zovi.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

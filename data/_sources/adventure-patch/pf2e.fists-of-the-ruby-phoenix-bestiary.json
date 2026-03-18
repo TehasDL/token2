@@ -1,0 +1,2068 @@
+{
+  "pf2e.fists-of-the-ruby-phoenix-bestiary": {
+    "AxVNn9nyobosLEAq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Agile-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Agile-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fOdNBYgjTveLzpbd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Agile-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Agile-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dTcsY3v9lg4BRrsj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Anugobu-Apprentice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Anugobu-Apprentice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yNqeqEULKA536K4r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Anugobu-Wondercrafter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Anugobu-Wondercrafter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YHSV9DfaqoaSggLi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Archery-Specialist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Archery-Specialist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Twt8z6nTPgYQ0mTv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Berberoka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Berberoka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RKkIczqYUJkij0Oh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Blue-Viper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Blue-Viper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jnN7fYYndv3oobJJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Butterfly-Blade-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Butterfly-Blade-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YVP3pM7jxY9Gyouy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Caustic-Monitor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Caustic-Monitor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DW4UFHXzExWwvEuH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Dread-Roc.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Dread-Roc.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tBQgipDUVhamBNrZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Dromornis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Dromornis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TEHxsglxWi1i3jSN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Elder-Cauthooj.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Elder-Cauthooj.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TqKFvTmJnhdclCgt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ghost-Monk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ghost-Monk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tu64qeuTiIGHtvgR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Brartork.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Brartork.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CKS4OsoyI2QI8RUn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Han.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Han.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N9Qp7x6n6ighaXOY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Jun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Jun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "snrGRRYXD8mUG4Y1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Krankkiss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Krankkiss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2ryxyUYlf8lY6o1D": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mingyu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mingyu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JFa9WD0nXOTgFGha": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Numoriz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Numoriz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wFswIWjySnPqVNVT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Paunnima.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Paunnima.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pi3njPvz8AsOrVGZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Rajna.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Rajna.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nejHZ9ccKcDXZWQM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Gomwai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Gomwai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T5KMiSE8W1R8ChbV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Grave-Spinosaurus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Grave-Spinosaurus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hkGMvgL9IOZcAKyc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hanas-Hundreds.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hanas-Hundreds.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RCbSoJ0Kg6ovGnRG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hantu-Belian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hantu-Belian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vjONecsFtSFpjNaN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hantu-Denai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Hantu-Denai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zNOSSDaaCozimqaS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Jaiban.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Jaiban.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Q6gjfL2rha7tRS0B": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ji-Yook.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ji-Yook.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lsa0Q8aU8aPWjFYv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Kannitri.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Kannitri.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "o8UMCrKWf89xNvSE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ki-Adept.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ki-Adept.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "haUIlixea4iwy0GZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ahmoza-Twins.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ahmoza-Twins.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XiO3tJlYmuZwOBaA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Koto-Zekora.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Koto-Zekora.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AYQEkPFyTuGlxNg3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mage-Of-Many-Styles.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mage-Of-Many-Styles.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rAsJXFWr1IJatEUm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mammoth-Turtle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Mammoth-Turtle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sXtwJyM7sWWDQDOU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Muckish-Creep.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Muckish-Creep.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HqN4nUnl75foBKLZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Nai-Yan-Fei.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Nai-Yan-Fei.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IGEht7ysUSZndtgp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Old-Man-Statue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Old-Man-Statue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PsipHKpczW9FT2Jk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Planar-Terra-Cotta-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Planar-Terra-Cotta-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vjE1lUpklp4slNbd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Planar-Terra-Cotta-Squadron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Planar-Terra-Cotta-Squadron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XN2uksGMgndh1jSP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ran-To.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Ran-To.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "khAJHftnWe21eTm2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Shino-Hakusa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Shino-Hakusa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KHPOm5KHtbMNzcx7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Sigbin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Sigbin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Sx7Ob64O0e9aIhpO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Syu-Tak-Nwa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Syu-Tak-Nwa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "J7s3MTb3eZP6u3LT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Takatorra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Takatorra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L2OWZ5Afvnmaif83": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tamikan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tamikan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qpbFSs0Z68z58T4m": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tino-Tung.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tino-Tung.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Zp6lrCF3JwpdfKyK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tyrannosaurus-Imperator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Tyrannosaurus-Imperator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mwovQpf278O1vdCR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Poltergeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Poltergeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ew2WOdIU5njPMzok": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Shadow.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Shadow.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ka41qAFCgGFBXUPJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Wraith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Watchtower-Wraith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gSlkZ86P3QrbM874": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Weapon-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Weapon-Master.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FWfKJ7e8UgbBXTkU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Under-The-Pale-Sun-Dervishes.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Under-The-Pale-Sun-Dervishes.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u3vdt2J02rw8RyRq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Yabin-The-Just.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-1-despair-on-danger-island/Yabin-The-Just.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xiQIw7iFjOizo3Fm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Akila-Stormheel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Akila-Stormheel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "koRKlywSbwttifEq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Amihan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Amihan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EItI5u34FIIuZM9W": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Angoyang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Angoyang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5cMbN10QKGS06Zhy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Jivati-Rovat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Jivati-Rovat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xBSLIoVsZ6I4LOZc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Pravan-Majinapti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Pravan-Majinapti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2ZnZ0d61CQHMHtHN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ranya-Shibhatesh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ranya-Shibhatesh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "65LJVPu9DFkF0YNX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Usvani.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Usvani.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FwIJpQn1FIpGgvIY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Artus-Rodrivan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Artus-Rodrivan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SF6OlCfNiHvtJQjw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Blue-Viper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Blue-Viper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ybPcnDqULaojoU8a": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Drake-Courser.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Drake-Courser.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KfpYMKJ1ka9volP6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Grandfather-Mantis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Grandfather-Mantis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zFye7hJzzwgajovA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Halspin-The-Stung.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Halspin-The-Stung.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lk4LPjGsidzuD6Vy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Huldrin-Skolsdottir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Huldrin-Skolsdottir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gGDWBzon2T2mrSqf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Hummingbird.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Hummingbird.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ghAlcSfpO03JLvwG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ji-Yook.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ji-Yook.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PhFDdGFXaaiLe4k4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Joon-Seo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Joon-Seo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "i3dC41mOjfoBxQTk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Juspix-Rammel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Juspix-Rammel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6Eh9w3FY129KXm7k": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Kas-Xi-Rai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Kas-Xi-Rai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lemXhFkFAUbZGtL6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Kun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Kun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qV1bsHLfgI8xh0Nr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Lantondo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Lantondo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vgMFPC9SoC3eyNSs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Maalya.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Maalya.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "blm15iXMR3Lbwdom": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Mafika-Ayuwari.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Mafika-Ayuwari.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZoBq423Q9PMa3rDV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Master-Xun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Master-Xun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VGJF0jWWnA4ljfZE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Melodic-Squall.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Melodic-Squall.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PiO3DnxtaT3W4728": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Peng.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Peng.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iQ1wsuosURrA6tUI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Portal-Eater.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Portal-Eater.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9WcpNMJJqF3cLTqT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ran-To.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Ran-To.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9ksOukuecb43zqOd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Razu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Razu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k5UjbiYr87NVK7qp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zpXQHbe037haBVmD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "56U7JoNKbci67vRE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MdkbAYfKgIvtTxBO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EYr9GBleLFezHqBk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Rivka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cg1kQPO3FBSCFDVt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Shadow-Yai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Shadow-Yai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0N4ugHFs5GYllcMA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Shino-Hakusa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Shino-Hakusa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eVKjtiQtDaJpk9Ra": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Sixth-Pillar-Student.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Sixth-Pillar-Student.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TjmD89wG7qQ0tRXj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Speakers-To-The-Wind.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Speakers-To-The-Wind.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4RaeyGxw5EgagDZE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Surjit-Hamelan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Surjit-Hamelan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aiiUNGDPljyMuFu2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Syu-Tak-Nwa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Syu-Tak-Nwa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6wRicVhIx07i94s3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Taiga-Yai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Taiga-Yai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1y2FBsV4g80KNac1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Takatorra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Takatorra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7pCof1aDBZ1XlsXO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Tino-Tung.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Tino-Tung.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TTEcqxuMqzIdkX6q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Troff-Frostknuckles.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Troff-Frostknuckles.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l2oapyRhfCFRsCHX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Umbasi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Umbasi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H5koEzKL8qtfX4fK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Urnak-Lostwind.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Urnak-Lostwind.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7qyR096MhufccSiM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Yabin-The-Just.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Yabin-The-Just.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zmE4irZj6a2WpB6f": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Yarrika-Mulandez.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-2-ready-fight/Yarrika-Mulandez.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f0nafAQA1tSXLqwL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Abbot-Tsujon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Abbot-Tsujon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "se8SrwtuaamXIEo5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Blue-Viper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Blue-Viper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "80tgHHqfxA5lUfjS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Bul-Gae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Bul-Gae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d7fBEPfzXSeCZZXE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Canopy-Elder.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Canopy-Elder.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UbXvVA3ZdSN6pj1j": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Cloudsplitter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Cloudsplitter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vf59nmtYaF0se9Ui": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Dancing-Night-Parade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Dancing-Night-Parade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "htshGim6Q1y75TPt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Desecrated-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Desecrated-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lqHn5wSzxvdllGgH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Flying-Mountain-Kaminari.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Flying-Mountain-Kaminari.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TbImjEpxYO5tsJIA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Gumiho.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Gumiho.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VEnxFwTAhyO03Yse": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Inmyeonjo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Inmyeonjo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ofYZYIZTkakVj2R0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Ji-Yook-Gumiho-Form.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Ji-Yook-Gumiho-Form.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HGtyyMucLkYlqZ8i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Jin-Hae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Jin-Hae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7MiWOVxjocxNr0dh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Laruhao.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Laruhao.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AeWPn9gJMgDg7WTo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Lophiithu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Lophiithu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yg0lmfxyBSggOkUp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Orochi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Orochi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ezm1FlUk4JXeqPlC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Rai-Sho-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Rai-Sho-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QhFUhlZl1bvUrtPs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Rai-Sho-Postulant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Rai-Sho-Postulant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qW8stNdPqQwibYQz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Ran-To.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Ran-To.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YHbBs2Jq6ukngOra": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Sanzuwu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Sanzuwu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RVaEIyjBl44etuvL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Shino-Hakusa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Shino-Hakusa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uvBZm8b7Vtzn1U2d": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Spinel-Leviathan-Syndara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Spinel-Leviathan-Syndara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6z4xzi3yZuGr1Iv7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Spirit-Turtle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Spirit-Turtle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "g1ms3xQfS6Ws7KGD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Sthira.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Sthira.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IlDWyCnxA6gS2UZm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Syndara-The-Sculptor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Syndara-The-Sculptor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fxukt1qqVaQG9KcY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Syu-Tak-Nwa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Syu-Tak-Nwa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Y1Px08o90xG5dWTq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Takatorra-Daitengu-Form.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Takatorra-Daitengu-Form.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "526cj9mVkwQ9gDn6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Tino-Oni-Form.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Tino-Oni-Form.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wfp1cV5xCdpElkoU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Yabin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Yabin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tfBczpCPNVnRE8pJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Yoh-Souran.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/fists-of-the-ruby-phoenix/book-3-king-of-the-mountain/Yoh-Souran.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1092 @@
+{
+  "pf2e.quest-for-the-frozen-flame-bestiary": {
+    "fnpv7Dg7QJWSdz6z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Animated-Blade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Animated-Blade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xDZMFbTuDu4OFgj8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Ardissa-Prendergant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Ardissa-Prendergant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2nnCyf8LBxLAWKRE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Ardissa-Porter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Ardissa-Porter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F4bNgQx2NLOwSlBR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burnbearer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burnbearer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "koxcnymhEMtf0Uye": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JGvGPeoie5k1fGkv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Longshield.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Longshield.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O87CB2RiM0WCDz8P": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Reaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Burning-Mammoth-Reaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6yYVpWETVv3vFHvP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Cairn-Wight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Cairn-Wight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kNMrvb2zDm7tKjVP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Gathganara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Gathganara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tgUdk3pTQ6yHHLTH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Giant-Tapir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Giant-Tapir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iEOeCyL10neiaShj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Giant-Tapir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Giant-Tapir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OeJlR7ZSSc0azABd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Glyptodon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Glyptodon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T0AapaQCmo5pBSQq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Groplit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Groplit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xp9lr0RN2TYqgP5M": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Hobji.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Hobji.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8kGAwppxApSa6vyl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Kadlaka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Kadlaka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hh9uR1teglhRRhY8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Loblobi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Loblobi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r9RTeZGlX8Asicku": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Pakano.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Pakano.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EWT9OXxBuKQLQMHj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Rime-Sludge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Rime-Sludge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OpPfAFkJ1ctWAWdq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Syarstik-Painted-Tiger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Syarstik-Painted-Tiger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0GArHVfN0VxejVZp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Throttled-Blindheim.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-1-broken-tusk-moon/Throttled-Blindheim.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TbVMaYNvcXUI5aY8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Ashen-Swale.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Ashen-Swale.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pQMgLVlFeGjScENC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Azi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Azi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LL3XklJHogUKWDfh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Bargott.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Bargott.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UFKiRCIj9ETec46r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Beaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Beaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PsRObxHMe71zJi8d": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Bone-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Bone-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9LKXjZrmeSjeGseL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Beaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Beaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "haLAebehr7ppMlPn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Corrupted-Elder-Tree.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Corrupted-Elder-Tree.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BPZryWdi6LB9N9KC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Crawling-Hand-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Crawling-Hand-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dPJxDpVcDFDQqwWO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Desiak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Desiak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IP3fGAEz3Nw1TzDD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Elk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Elk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VyXYqiIWYpyx9QJm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Fiendish-Arboreal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Fiendish-Arboreal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RPXXt5bgFCqKibZ3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Idovik.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Idovik.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jNv046Jhoq4yEMey": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Lagofir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Lagofir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XxKWVyq21NGiDCaR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Long-Horned-Bison.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Long-Horned-Bison.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "o5apaaqJlL7A48N8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Long-Horned-Bison-Beheaded.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Long-Horned-Bison-Beheaded.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZZkuo6mOh0SQWC3T": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Megaloceros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Megaloceros.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9znaKK6OeZnQ03Wc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Necrohusk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Necrohusk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ovrQ2R9HJJhC1Yij": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Roru.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Roru.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "3uWNAMSPf0y2Bx0g": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Skeletal-Woolly-Rhinoceros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Skeletal-Woolly-Rhinoceros.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "kOLKFJ4Llso96HiD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Turkek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Turkek.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "KeOKPlxxBw5m2wly": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Varilyn-Vare-Eridge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Varilyn-Vare-Eridge.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zXTacktEPpjUlYr3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexus.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZxKGQpbkXVLI7lab": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexus-Chosen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexus-Chosen.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "nwbgz8PNXaHPU5tg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexuss-Wyrmling.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Venexuss-Wyrmling.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "0KrkQLsLX2PPUus7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Zombie-Mammoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Zombie-Mammoth.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "lJJ81JBAIuI72Fq2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Zombie-Megaloceros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-2-lost-mammoth-valley/Zombie-Megaloceros.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cnTAIcjKu01I7eJ0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Arboreal-Tar-Tree.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Arboreal-Tar-Tree.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vEfQXwx3qetnYcSI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Burning-Mammoth-Commando.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Burning-Mammoth-Commando.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kxO7gXbpcmY1pi7p": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Calcifda.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Calcifda.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QdDoqb0RSy1Mer5Q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Everburning-Mammoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Everburning-Mammoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VA2L044R2WXupQl4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TlYG0Hyxh7gI7Jd8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EyyCB9QBJKpsap5b": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Graylok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7yanFrY21w21ZNFP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Hegremon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Hegremon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UGB689LLMK5Vi0Nc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Ivarsa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Ivarsa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hNHljzF0xpUBKiA9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Jesseri-The-Hailstorm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Jesseri-The-Hailstorm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QC2noL9T0y8Ny5eU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Lomok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Lomok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nBoysLyDYIZaaAHP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Metuak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Metuak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZKxZgklb78PULu10": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Pakano.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Pakano.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yAYQeZI1W7XGeoMf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Rhino-Warriors.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Rhino-Warriors.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B7O9nFwhHMmCWbQg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Summer-Hora.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Summer-Hora.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vQXmk2oNlfVsYK0P": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Summer-Hora-Queen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Summer-Hora-Queen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RuVQUpUOLAE2x2tY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HCtfUGao82L0sVBo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Mammoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Mammoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L3PGythRjyCdM322": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Snatcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Snatcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z637TaszmZsJTmBZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Snatcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Tar-Zombie-Snatcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wuV8k7N1cEJBYNbK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Weykoward.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Weykoward.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8qtTf1FvvBrcEypA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Yana-No-Trail.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/quest-for-the-frozen-flame/book-3-burning-tundra/Yana-No-Trail.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

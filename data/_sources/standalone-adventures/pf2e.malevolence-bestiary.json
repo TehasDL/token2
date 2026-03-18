@@ -1,0 +1,158 @@
+{
+  "pf2e.malevolence-bestiary": {
+    "VgBE6ow0CvsQxFkq": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Algea.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Algea.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Algea.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Wkn2wZbsNSifAnBh": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Anitoli-Nostraema.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Anitoli-Nostraema.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Anitoli-Nostraema.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "bEFdPjTLtNboaTg2": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Esobok-Ghoul.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Esobok-Ghoul.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Esobok-Ghoul.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "n3taMFiViyEQ5JAi": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Ioseff-Xarwin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Ioseff-Xarwin.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ioseff-Xarwin.webp",
+            "scale": 1
+          }
+        }
+      },
+      "scale": 1.6
+    },
+    "1wb9Vi3V4GDeOBCt": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Ixirizmid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Ixirizmid.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ixirizmid.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YSL27Oq2xFIzrq9u": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Nils-Kelveken.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Nils-Kelveken.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Nils-Kelveken.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "1XrwqxEW8rUr8238": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Tanglebones.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Tanglebones.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Tanglebones.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "JMXNSC7M2SRGZbhy": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Undead-Brain-Collector.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Undead-Brain-Collector.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Undead-Brain-Collector.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "sdpB7n2LbzVRqrnv": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/malevolence/Yianyin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/malevolence/Yianyin.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Yianyin.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

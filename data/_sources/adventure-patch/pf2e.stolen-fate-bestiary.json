@@ -1,0 +1,1476 @@
+{
+  "pf2e.stolen-fate-bestiary": {
+    "oWFqioYktqayWFlS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Arodeth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Arodeth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eF3ndkXtyeMHpzZb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Behemoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Behemoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ax9j12x0JqBBPE5M": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Scavenger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Scavenger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ttUZn9WMNZzG9YdZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Behemoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Bhanyada-Behemoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7ze52pL9OFjZBGWa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Blade-Magus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Blade-Magus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pLbDF5JJoF93vgwL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Blade-Mercenary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Blade-Mercenary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Bn7bG2gbyXYj7mzT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Dieral-Myrnese.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Dieral-Myrnese.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nBhR5WE7M1cp1fEm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Drustan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Drustan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3OE96zZHIAnMbYWj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Endlo-Kiver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Endlo-Kiver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0C9muUhjn4vAL5UW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Ferrugon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Ferrugon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bsjCqkz0jIv9LOBS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Harpy-Warbird.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Harpy-Warbird.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bmCBmw4pQeEIelkY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Hurlilu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Hurlilu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "590fsfQ1S0dF1C3Z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Kannijo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Kannijo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pFs3lFkXrwNNUsDf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Mercenary-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Mercenary-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d68XkPVTpU42q8Gj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Mivanian-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Mivanian-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Zglw4NiZRVgmuI5x": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Ndede.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Ndede.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mJyUqZYPGrCx13oT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Oppali.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Oppali.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "88n1uQqK5XbIGnUF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Queen-Kawlinawk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Queen-Kawlinawk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yg5xl1lu0211JVi7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Raskus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Raskus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tVZ7ijV3W1HmMwzz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Scaleseed-Nagaji.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Scaleseed-Nagaji.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IKlSxZfyN1wRZsQn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Shaldar-Falls-Far.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Shaldar-Falls-Far.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WguseVujp1LjEzq4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Uniila.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Uniila.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F902rCNyW8cVyBEp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Uniila.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Uniila.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mgFca9LCxEI3pqc7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Vharnev-The-Butcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Vharnev-The-Butcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u5o9uU9Saweij7mF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-1-the-choosing/Hurlilu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-1-the-choosing/Hurlilu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "okLgvERf3ul8JxKk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/All-Seeing-Hajeck.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/All-Seeing-Hajeck.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lJnVbE89rKEYJ3Hw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Aquatic-Viper-Vine.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Aquatic-Viper-Vine.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vooxDReQX3ztMXNj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Arzuu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Arzuu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zw2JQhb4cHkDk2zb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Blood-Pear-Tree.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Blood-Pear-Tree.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2J1wbM7u7rU7yDzo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Crystal-Sentinel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Crystal-Sentinel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "26mSMWZwuYBRDhBM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Arzuu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Arzuu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2crt0oeOnu3G3Nhw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Demongate-Colossus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Demongate-Colossus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mLDzt35dEHUimp1E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Demonic-Rabble.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Demonic-Rabble.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Rb85EObfBTL5Q3tU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Derhii.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Derhii.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "334vtiUd5J507PsX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Ephialtes.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Ephialtes.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZBMuaCCbIdv8euNx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Fates-Prophet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Fates-Prophet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9uUmyAyVVq3bowo7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Ghalzarokh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Ghalzarokh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KPwAtJ0wFmMTFfWV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Guardian-Aluum.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Guardian-Aluum.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jH57QwQxH7aBs56G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Hadi-Mob.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Hadi-Mob.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "s8pBIwZjOdep4Lfp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Katpaskir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Katpaskir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "J7QJMfQZlOd7DOq5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Markish-Aghayarea.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Markish-Aghayarea.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RLuLdBW6SSs9u2hL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Mogaran.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Mogaran.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VCn8GC3XXCES5Cns": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Quoppopak-Mummy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Quoppopak-Mummy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9CR1pTY23jFPi5Xn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Sonnorae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Sonnorae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "asagrj8H4W7ioops": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/The-Prince-Of-Wolves.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/The-Prince-Of-Wolves.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jXjo59pIAMteUtUD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/The-Shadow-Prince.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/The-Shadow-Prince.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jYHPxFsTUS6jGY4a": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Ticktock.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Ticktock.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a5B1GrGkM97l20Wk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Ghalzarokh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Ghalzarokh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "25cRUcUTP3rK5qjU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Trexima-Butoi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Trexima-Butoi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VoGTpuwRkzzqwMgS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Usilket.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Usilket.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6z5AD99UV8IWMtRU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Vehanezhad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Vehanezhad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fcMf5NrHPZS54Hkd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Vincuvicar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Vincuvicar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cj0oleWD4YOmT1Mn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Voricose.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Voricose.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FHBQg45hdMXLqy3I": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Wrath-Riot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Wrath-Riot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "31xsWAhXQnk2jfIx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-2-the-destiny-war/Xiuli-Cachu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-2-the-destiny-war/Xiuli-Cachu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LhyMBLVsJMaUKGME": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Bolti-Sorrinson.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Bolti-Sorrinson.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WddCUSjH70mHmzK3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Diskrasia-The-Sharp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Diskrasia-The-Sharp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5jXQKIwhlOfs9F6e": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TQXPhj5Adm4pfX31": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Fabrina-The-Spinster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Fabrina-The-Spinster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KgwkUtJ8czIC0KFj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Gegnir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Gegnir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P604YfY14wo4Uu56": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Hala-The-Rod.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Hala-The-Rod.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hqnAjx8pamSAzAmb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Ildamir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Ildamir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JkEOtgyLkiuw5Nod": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Mighty-Bul-Gae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Mighty-Bul-Gae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zsITxVss3vTQHISh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Nornhound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Nornhound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eC0O1nNWMjWydbPG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Obcisidaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Obcisidaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "laVap7VG0MRaoQnO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Phasmadaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Phasmadaemon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XJocGEuiyg9TJiti": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Raven-Nicoletta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Raven-Nicoletta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QiRja8LrBQUwh6St": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Sickened-Doprillu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Sickened-Doprillu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7SoxdXIjPQzUahDz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mcCHcnMN1gYBHbqA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Speaker-Of-Svaryr.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Speaker-Of-Svaryr.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a3NvKzSDBQzPwCc4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Harrowkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UQabwMtqQucqBDsy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Ildamir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Ildamir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qHCZeqTMADZcqqBp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Svaryr-Commander.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Svaryr-Commander.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "c5PsLzWosNiKXU6o": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Svaryr-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Svaryr-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GzkJGkSYO512zr80": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Betrayal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Betrayal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Q2LlaVrQAl5BxG0E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Courtesan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Courtesan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gmY1qb5fZFsc80d0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Cricket.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Cricket.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4kD2KUouTP95mkxy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Crows.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Crows.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HncSxwlRvg3gtlks": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Dance.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Dance.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H1gnvsCIzt89left": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Fool.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Fool.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dr6JPHvDMs9YavIq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Inquisitor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Inquisitor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EkPs0okirh66YKa0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Joke.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Joke.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ig4g6cJOqCVOJiLv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Keeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Keeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "58rzKemMr1sFBTfv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Peacock.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Peacock.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KxJBLDk06713Aupl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Queen-Mother.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Queen-Mother.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dbzt5TU3fXSManTU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Teamster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Teamster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "M8Ud2zb5KwfocEd2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Trader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Trader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6aK7JsTs5zVTjyZN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Twin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Twin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GF2jJ55guDQX3sWt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Unicorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Unicorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cm2OW6wghO7xIC0R": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Wanderer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Wanderer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "o8DGfZKaz1TELyzU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Winged-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/The-Winged-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sl9QX8iAen1Aquyp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Zellara-Esmeranda.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/stolen-fate/book-3-worst-of-all-possible-worlds/Zellara-Esmeranda.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "pf2e.paizo-pregens": {
+    "2A9KGg5LVa2qS5Hw": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Bottlespeaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Bottlespeaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k0poKizWXi4UCNS4": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Fluff-Fang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Fluff-Fang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VzEke2VKFA59g5rX": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Popcorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Popcorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vo1wauXo0pzTg8yL": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Reaching-Rings.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-few-flowers-more/Reaching-Rings.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "laZsLWc38QXHfos0": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Bottlespeaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Bottlespeaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2ExvSAlBFtPbHTNk": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Fluff-Fang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Fluff-Fang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LWsUZveKng8MhJrO": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Popcorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Popcorn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "umOntDTQXImkZhug": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Reaching-Rings.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Reaching-Rings.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1NE3CrEExL2QZvEk": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Twinsprout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/a-fistful-of-flowers/Twinsprout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WNX5OQKPh4uaV7mW": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/beginner-box/Ezren.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/beginner-box/Ezren.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yoAU5rWYH4KJGPr5": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/beginner-box/Kyra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/beginner-box/Kyra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "czQ0MaZBu3BqMpce": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/beginner-box/Merisiel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/beginner-box/Merisiel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vcwqnXHkhzFhrt7O": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/beginner-box/Valeros.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/beginner-box/Valeros.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WHGcdLAqIs58FJPH": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Jaithe.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Jaithe.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8N6zEXEsIeDSUyar": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Kellsti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Kellsti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pdZNO5gqhB4hN61A": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Takemiru.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Takemiru.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zo0OV4kxZ4LntHkU": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Zerryd.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/dinner-at-lionlodge/Zerryd.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ytM010QZkBllprLg": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Booker-Kaar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Booker-Kaar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mgTDmRdQYUVHBs9V": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Doc-Featherton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Doc-Featherton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yzcXrMEuajAdIRZE": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Zakzak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Zakzak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JqHEn0seOxR10rTN": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Zindarel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/head-shot-the-rot/Zindarel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oIfXnKl0KzboCYBH": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Grimmnir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Grimmnir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ip0EDqMZqgXmcBgZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Izni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Izni.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lpIV82IVlgatyQvO": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Precious.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Precious.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xgadoa9HjqMhrnvX": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Quizrel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Quizrel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NedNTpCBQhSzDAwg": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Rhin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Rhin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ffnp6AbRVhjmLH9T": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Simeek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/little-trouble-in-big-absalom/Simeek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vCqYsDQ6UVN2fbNZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Eteleon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Eteleon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YNu4l7cjb580XM2K": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Kangir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Kangir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "POKpRKV1hwHfAY6k": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Yacob.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Yacob.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WQlDa6tHkKTziD0m": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Zeah.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/mark-of-the-mantis/Zeah.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MzfFXoNb28HBjajw": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/sundered-waves/Elsir-Syniras.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/sundered-waves/Elsir-Syniras.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V31KjehELRbLRMeb": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/sundered-waves/Jadren-Tagar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/sundered-waves/Jadren-Tagar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9xvxgar3BO1gt2XI": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/sundered-waves/Kaako-Ashfeather.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/sundered-waves/Kaako-Ashfeather.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GKuqaB0W8hbH3H90": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/sundered-waves/Lavanna-Saltspray.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/sundered-waves/Lavanna-Saltspray.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3CFSogQTXi0GTrpW": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vogwzBTdW949ebAg": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Flappy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Flappy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0auSawoErcHE3SMP": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bToOhywZfrzthtvo": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Marcella-The-Marionette.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Marcella-The-Marionette.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "27BFmfGPyrLe5yjX": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-great-toy-heist/Cutie-Killstuff.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UCrQbCrBrKBbNAEv": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-slithering/Melvok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-slithering/Melvok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MxVWMPD1H1o6FwQP": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-slithering/Oraka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-slithering/Oraka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EQWNmGmicyirnTR1": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-slithering/Savshin-Starwatcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-slithering/Savshin-Starwatcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZZQvsGWFMS00fL7P": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/the-slithering/Zathri.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/the-slithering/Zathri.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QW5TpsCjn70RTFnL": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Ekene.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Ekene.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RrZABs8PNTwLv1ah": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Kalaggi-Nakutu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Kalaggi-Nakutu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qUSE9OURRD6qNvLZ": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Muruwa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Muruwa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dezjxiDtBdnBiurc": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Ufi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Ufi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JiA08mYkxYMA5ZEn": {
+      "actor": "modules/pf2e-token-pack/portraits/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Zane-Ikundi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pregenerated-pCs/adventure-pregens/threshold-of-knowledge/Zane-Ikundi.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

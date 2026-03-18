@@ -1,0 +1,1364 @@
+{
+  "pf2e.sky-kings-tomb-bestiary": {
+    "T4hNSZSA9XGokGL0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Alchemist-Ivy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Alchemist-Ivy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F3l4OxG2u3z7G41E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Algerschmick.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Algerschmick.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eqTcqD5Abi2TtOtk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Alkepsur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Alkepsur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cz1RF98nyHhEj3MN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Anarchic-Living-Graffiti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Anarchic-Living-Graffiti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P3KHHlVZW9O8H5gS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ancestral-Echo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ancestral-Echo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "igzgRlwFmL8LnO4x": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ansestor-Statue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ansestor-Statue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gPJhsS9xmNKK0ysU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Blacknoon-Apprentice.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Blacknoon-Apprentice.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AngiDlZ45l632ZrI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Corrupted-Blade-Spirit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Corrupted-Blade-Spirit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nZRBTydsYvrh40xu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Fazil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Fazil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LTLXgj0Dl2tIuy2o": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ancestral-Echo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ancestral-Echo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8mPOfXAKoc5FcPVI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Giant-Leech.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Giant-Leech.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xuKlDtvqQvbpGWt4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Heldin-Ulgincamp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Heldin-Ulgincamp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "R6l06STZR7MOuYDR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hhrulkaz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hhrulkaz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zMoOfK6QSycciTaG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hyphae-Tyrant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hyphae-Tyrant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l9HDkLKtWVBwwJ6t": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Jinkins.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Jinkins.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LjBz0fe7txNp37Cv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Krohan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Krohan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BHt2io7RgVXm8Vk7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Krohan-Veldollow.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Krohan-Veldollow.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0VMod1UuV6GIQozy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Lady-Shimmersnip.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Lady-Shimmersnip.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l61LDYRBzhgJAKUL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Plague-Zombie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Plague-Zombie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jcd1gtnFTvQ3jzPS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hyphae-Tyrant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Hyphae-Tyrant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "S8Y8Wj9EPYcFacI2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Doll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Doll.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sRo7iGYaeXlvrYaf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pgmACk7oSLLzcKFk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F6bKfTVlILogO1FT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MkruJ1HB32levPMm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NxheQz4Kx8NJMARD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WLrvwmPwZ21Upsvk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cZyEE1iypPSNqVpx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AOPgGVm9Az7AdCm8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TpyiGFLgdJkl2aos": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Soulbound-Mauler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SiBC7HLCaxDeOTt6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Myceloid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Myceloid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sUSrjcHVQATWVNeV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Sheep.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Sheep.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YZAlF4mBzvVB4WBU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Skull.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Sporeborn-Skull.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zWtfGN6uugDaRtcS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Stonemaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Stonemaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VAxAbzTdnwo7lS1Y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Tuom-Molgrade.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Tuom-Molgrade.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pxumZcF8zSjJ3B7g": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ulki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Ulki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8cV7dqtctcMuKAZN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Unfeeling-Empath.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Unfeeling-Empath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "G7RxS2VvwZDZs0fa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Xulgath-Ravening.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Xulgath-Ravening.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wakAqAhokUT6qYxR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Zivzeb.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-1-mantle-of-gold/Zivzeb.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MKMVa2UeDQOBu49a": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Bloodseeker-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Bloodseeker-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B4292QvNu2lKOyFU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Bronwyl-Holloward.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Bronwyl-Holloward.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vyzatSrJ5IAUJh7O": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Caligni-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Caligni-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FQwprKNkOjmqYQCO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Crimson-Worm-Statue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Crimson-Worm-Statue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ss0SKInl10zbVV1Q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Cultist-Troop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Cultist-Troop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "g1tWmlBEnltpFK6m": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ether-Sprite.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ether-Sprite.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U2UxLnrZ7wbtOftk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ether-Sprite.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ether-Sprite.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ov0poDlLDxWkyJ9w": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Four-Tooth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Four-Tooth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z6ppbqLxzV2yoVV8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Giant-Bloodseeker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Giant-Bloodseeker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rlIjgTlvztbgQwXw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Glacial-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Glacial-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "snj3rBPBbhKNmRZT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hagegraf-Royal-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hagegraf-Royal-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y2avI1GGn9DAKo86": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hryngar-Kings-Agent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hryngar-Kings-Agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OWVg3LYOdGHOYUHt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hryngar-Kings-Agent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Hryngar-Kings-Agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fK40GM0evzpqR8IX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Mumkuh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Mumkuh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rV042V7gXV9vzlXx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Redcap-Cavalry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Redcap-Cavalry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4JWlEd08ehGAxLWs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Shambler-Troop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Shambler-Troop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KR4E8k1kmBKVRDyV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Slime-Puppeteer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Slime-Puppeteer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5pQzgnjebx0GXDi6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ulat-Kini-Initiate.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ulat-Kini-Initiate.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gl7jMlFgJW1iKJM3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ulat-Kini-Mindreaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Ulat-Kini-Mindreaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "b5yZ3LIkGWcS2uhO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Veavieve.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Veavieve.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4xXCpXL4ChSGykq0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Voxnia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-2-cult-of-the-cave-worm/Voxnia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jJbVPd1M6RlZP8kA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Ashrin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Ashrin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "g7rVihECWjZ7ehDc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Heartbroken-Dream.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Heartbroken-Dream.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xbaQfH3eVSR1rGNd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Flames-Of-Taargick.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Flames-Of-Taargick.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WDvKBcA5rQKzEwqH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Heartbroken-Dream.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Heartbroken-Dream.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BT7q8vR1yMC7KduO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hrungul-Ironeye.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hrungul-Ironeye.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cYn4N6B5GStHjcRb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JPkWLkjB5uZGb1l7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Battlepriest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Battlepriest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iAuDqIBSYHYOnkZD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Breccia-Squad.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Breccia-Squad.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RWXhwi8R7t3l7T1k": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Officer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Officer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oaVcYBWbsXKoIyjR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Rager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Rager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MhJrVjr9SjFv9WZy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Skull-Collector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Skull-Collector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VW3r97IFCEGZwHo5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Veteran.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Hryngar-Veteran.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cl4km3px8OJAniju": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "C12Xc3oWuku0aBKx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eGNnA8XCvSgEsrkp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RVdRHveFJmeCscI6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K3ntlNb93mpukeZJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Juvenile-Cave-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xkuTFMU6zN35gsae": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yy9hvwzwFsz7gxA2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AzNWXvFzhPDpSyYL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pC2J4dh8hyuJSg1X": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fNmv72cAmZxc6HvN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Larval-Cave-Worm-Brood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z5xBjISvZVz6tXkq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Narseigus-Wormcaller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Narseigus-Wormcaller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f9LUTY5IXXZorYZG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Stoneriver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Stoneriver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fDHdZFb8u3beJixJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Toilforged-Sentinel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/sky-kings-tomb/book-3-heavy-is-the-crown/Toilforged-Sentinel.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

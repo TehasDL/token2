@@ -1,0 +1,123 @@
+{
+  "pf2e.pathfinder-dark-archive": {
+    "34gooaLEuQh0Cu9n": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/Cocoon-Of-Lucid-Potential.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/Cocoon-Of-Lucid-Potential.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Cocoon-Of-Lucid-Potential.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "wmKvVsfc6Hg1Bj8I": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/K.h.w.s-Echo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/K.h.w.s-Echo.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/K.h.w.s-Echo.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WiFzLguamOR69IcD": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/Mother-Mitera.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/Mother-Mitera.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Mother-Mitera.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "q9R4hKHeErDOaFJu": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/Quartz-Spawned-Shadow.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/Quartz-Spawned-Shadow.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Quartz-Spawned-Shadow.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ICdVjs6JEs0YAefl": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/Reflection.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/Reflection.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Reflection.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8Lo4sys48l7YaK5J": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/The-Morrowkin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/The-Morrowkin.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/The-Morrowkin.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "q9q6ag5sSEEefgUs": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/dark-archive/Verdures-Moonflower.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/dark-archive/Verdures-Moonflower.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Verdures-Moonflower.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

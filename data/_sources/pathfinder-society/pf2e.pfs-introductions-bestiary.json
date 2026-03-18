@@ -1,0 +1,68 @@
+{
+  "pf2e.pfs-introductions-bestiary": {
+    "0PInbNLNpw7qKTAu": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/intro/Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/intro/Ghoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RPqISpa2Jq8Jy3dh": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/intro/Rain-In-Cloudy-Day.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/intro/Rain-In-Cloudy-Day.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LG0Vg7zBMGFQUkvE": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/intro/Sun-Scorched-Shadow-Drake.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/intro/Sun-Scorched-Shadow-Drake.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j7hidXUeUNJtQEW4": {
+      "actor": "modules/pf2e-token-pack/portraits/pathfinder-society/intro/Swamp-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/pathfinder-society/intro/Swamp-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

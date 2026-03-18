@@ -1,0 +1,964 @@
+{
+  "pf2e.triumph-of-the-tusk-bestiary": {
+    "y7LCTsOl0bTKl33q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Aurochs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Aurochs.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "phCMinhQbRR4uB31": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Bristle-Boar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Bristle-Boar.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PHF1RyQPb7mrXrr8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Flood-Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Flood-Ghoul.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "igzD3pYQ0MEHP3zs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Mage.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AjJojjUbSMjcjUDr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Orc.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Orc.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "vyWDZoZ6TVIVBB0e": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Floodslain-Wolf.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "XYItaez8M433qfWt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Kzaard-The-Drover.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Kzaard-The-Drover.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j86Opjp9z2cDKSNA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Child.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Child.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "P9ZEvhySGN9IlsSK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Murshek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Murshek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8E0hQDhuyub3w1OR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Child.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Child.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "IHtnqHDC2rlfnv0n": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Doomsayer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Doomsayer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cFDq44ryClce5JYE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Rampager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Rampager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nqWKcbMnyIpvtf4T": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Vagabond.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Orc-Vagabond.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hNvjRDhIuef4po3N": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Skinslough.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Skinslough.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "jFd0TSmaZLYLNjRE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Stormblood-Tiger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Stormblood-Tiger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZvzaKiKCmwZ52UJP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Tooth-Fairy-Leader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Tooth-Fairy-Leader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MzRUR9y9Iw0blcgl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Zombie-Brown-Bear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-1-the-resurrection-flood/Zombie-Brown-Bear.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WIyB0Bgud8kL2BCh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Ankhrav.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Ankhrav.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "D8Apne4jJQ0oa7NV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Ankhrav-Hive-Mother.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Ankhrav-Hive-Mother.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qsPMcZFGCsb6PhhB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Aurochs-Herd.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Aurochs-Herd.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5LLyMwwkGjf8QnYW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Azorena.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Azorena.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2lWCzCOPItvA8PmY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Gaoler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Gaoler.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YQscYvcO7gRiZ6px": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Oathrisen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Oathrisen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5mcpG3ay4SgNIX93": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Blisterwell-Warrior.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AIyuKgeR13MkSFkJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Champion-of-Zagresh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Champion-of-Zagresh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rCXzdhq2CTuhuZty": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Diskah-Night-Watcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Diskah-Night-Watcher.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "M4eyOb9OzF5zO79O": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/War-Pig.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/War-Pig.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "OsTGE1vwaCTo23Gl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Sergeant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Sergeant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u2xrjniEMLW7pWCw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1FpfTDRKrAIwTiPs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Warrior-Forge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Hold-Warrior-Forge.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "EBpwhiVtWKqi8M3n": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Magical-Forge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Magical-Forge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "24ct8EZHwtv3O8bY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Marguk-Cleftneck.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Marguk-Cleftneck.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qWluB0kAHf4hYfew": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Moonstalker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Moonstalker.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "YhHRxLsSYEwz9mvq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Old-Marrow.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Old-Marrow.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "x727noUHxyzpCDfb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/One-Eye-Phantom.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/One-Eye-Phantom.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "wTgZk9k7tt4fISoO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Oracle-of-Zagresh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Oracle-of-Zagresh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LNFxdtZ3kNteHM1q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Otehika-Cinder-Eater.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Otehika-Cinder-Eater.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ID0WGY0jfBLI1QvB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Porphyry-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Porphyry-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MR4vpL5yRpNIRc16": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Porphyry-Shield-Bearer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Porphyry-Shield-Bearer.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QgBvV33i9waJx11D": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Shadefield-Spirit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Shadefield-Spirit.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "B2ulbcq6lrWXFe0G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Skeletal-Drummer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Skeletal-Drummer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VTUgE1F9PblxUebx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Sklar-Quah-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Sklar-Quah-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6kkf6KKqdepx7PSD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Spite-Screamer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Spite-Screamer.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "JT4zmVuqpKgchInM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Trighoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Trighoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iFCh60rD3GIZ6Dva": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Troll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Troll.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "eFVEVzJI9BtyEQ9r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/War-Pig.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/War-Pig.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "8J79PxxX2ZmWwkcS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Wight-Spell-Sniper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Wight-Spell-Sniper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Qr5yy7M7VJaT0CUi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Zdagren-Half-Ear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-2-hoof-cinder-and-storm/Zdagren-Half-Ear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z6pDCpT7WDIWTaKn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Bull-of-Zagresh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Bull-of-Zagresh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wqtgtNDhc3by8WBD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Death-Tower-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Death-Tower-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZAUOoAMR8IfO57jp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Deathless-Zealot-Of-Zagresh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Deathless-Zealot-Of-Zagresh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "79GS1x0EcQ8CKfoE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Great-Ironbill.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Great-Ironbill.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7UR30qeUnnBwY9XE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Molog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Molog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JCI80JSSHICBMi22": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Nakasha.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Nakasha.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pDKT31HwKQLU6tJl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Orc-Spinecracker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Orc-Spinecracker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7TdImfQS3LkCvKyK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Palpares.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Palpares.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mysIREGVTa57nQHF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Paskis-Nine-Knives.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Paskis-Nine-Knives.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m7jh421DG0ArTQMh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/The-Carcass-Man.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/The-Carcass-Man.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hHNljlTtIhwNgY5q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Ungukk-Fleshdredge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Ungukk-Fleshdredge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FW5k5xBi3YkAsZd9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Yagrekash.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/triumph-of-the-tusk/book-3-destroyers-doom/Yagrekash.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2164 @@
+{
+  "pf2e.strength-of-thousands-bestiary": {
+    "0Gnj7jlSf4WLY0lA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Fateweaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Fateweaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "no9k3lpGXgF3uzUV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Lurker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Lurker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zy69GWkQ4xS5y5O3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Seeker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Anadi-Seeker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "c3vJuzMqHptfpi1d": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Binji.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Binji.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LZTr8YH6JGRGc8Fz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Bramblehand-Champion-Construct.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Bramblehand-Champion-Construct.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TQyF26t10xdoqPWp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Goliath-Beetle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Goliath-Beetle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U6LMDSZqlzAap72K": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Mining-Bee.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Mining-Bee.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z5hb3oj58QKMfGPk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Silverfish.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Silverfish.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CUkPnLXw1H0e5NMe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Tsetse-Fly.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Tsetse-Fly.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pJiD1DAiCFdVvnys": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Worker-Bee.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Giant-Worker-Bee.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "u9QNYbml4fF3htyZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Gnagrif.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Gnagrif.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zgd9SvS7CyWTHlBs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Kurshkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Kurshkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gOiaU4B29galdmu2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Pugwampi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Pugwampi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "91gGjbogGut3S3pg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Scrit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Scrit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rGZsMD3loampnRRo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Shieldbearer-Construct.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Shieldbearer-Construct.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NufNRseaGG62SrjR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Sicklehand-Construct.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Sicklehand-Construct.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rSCb5qmvljAHZ65d": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Silverfish-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Silverfish-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TAUFXoZgSrZwQsor": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Spellskein.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Spellskein.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "caOhluoshxMJwGoE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Stone-Ghost.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Stone-Ghost.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LA5VHAp0urzMEdsH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Takulu-Ot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Takulu-Ot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QkT3Yr6mdnhVNJE8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Umbo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Umbo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FlnxHvFneYttMJ7y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-1-kindled-magic/Urbel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-1-kindled-magic/Urbel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OC9ttUM3xalAJWSM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Damibwa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Damibwa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bhmO8fRIHvD7b1lk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Fire-Pot-Ubanu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Fire-Pot-Ubanu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lCvJquCqvZJVnafy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Froglegs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Froglegs.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0Ve1reLmo36JXnCT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Gbahali.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Gbahali.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6RJ0yESu2Bp2KDbw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Great-Grodair.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Great-Grodair.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "M2YAGc36xzy8SAL7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Grippli-Jinxer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Grippli-Jinxer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ErJQcWKeBm1aZ7Np": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Grippli-Skirmisher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Grippli-Skirmisher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JajzgeWF1H0Ks6ON": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Iiko-Dragon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Iiko-Dragon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9J0htPG44kLwWFcj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kiru.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kiru.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l6EuZR6zCdqyCywW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kolbo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kolbo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rtEPMrf6yPf8lsHp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kreekoss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Kreekoss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uCmJpDlKY4s9CBiC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Loakan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Loakan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AYHh9p9ZJFM0ELK1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Mpeshi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Mpeshi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VUad8HXC87nC9OrZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Mutated-Sewer-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Mutated-Sewer-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6pPolNZycfDiOl2I": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Nairu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Nairu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uO8X1xEciIBuiL1C": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Old-Thrasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Old-Thrasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ooMCMjhvmIsOghH1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Reth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Reth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j1UkNX6saQfgGZpf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Salathiss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Salathiss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vVjsaFfYREz7bflO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Serpentfolk-Granitescale.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Serpentfolk-Granitescale.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WMeRC4WHogtHXnGG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Serpentfolk-Venom-Caller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Serpentfolk-Venom-Caller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pjnTEh0NVd1DB6jI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Yorulu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-2-spoken-on-the-song-wind/Yorulu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vjmhpWfL8hvK2nzO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0WgS1WgvVtJbYU4r": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Jailer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Jailer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "flVfkZzC1cse78Hn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Priest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Abendego-Priest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YsBSkW3aFwU1bl3w": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ajbal-Kimon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ajbal-Kimon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r5lXWv7Xd2ur4fmT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Bharlen-Sajor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Bharlen-Sajor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QMCaqMDvOrmLftM6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Bog-Mummy-Amalgamation.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Bog-Mummy-Amalgamation.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X1uJ0zSQ8TdHpBS5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Boggard-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Boggard-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wemtTy7ikoRXvguh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Cyclops-Bully.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Cyclops-Bully.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xJPpzTfTABmT5C4i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Golgopo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Golgopo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LBIK0gw2TzcLIDaJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Grouloop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Grouloop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SU6Y9fwxjwGgMuJK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Halbrux-Far-Sight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Halbrux-Far-Sight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a7jc4LYwEzgdCP7H": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ixame.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ixame.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gS4cbmOHsVy4HGzF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Karumzek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Karumzek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vaNwzSxJXcIQqOS2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Karumzek-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Karumzek-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wTjcudppfZi0lsJa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Norgorberite-Spy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Norgorberite-Spy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z6BxAmAcOywNrwPE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Onyiji.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Onyiji.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SvOEczaYVWrASvSm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Riding-Frog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Riding-Frog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gIixylfr1NtCRdcK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Screaming-Sulfur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Screaming-Sulfur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KJA0II9Qdgx989MA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ssumzili.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Ssumzili.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lJUypzAZrt4OQUjv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Terwa-Chosen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Terwa-Chosen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tvgIPWALeCP3DXOb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Terwa-Prodigy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Terwa-Prodigy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6W8aW2Pw1j8d0Y4g": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Thiarvo-The-Quick.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Thiarvo-The-Quick.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lPZiWjIyk2YdhbOF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Yonsuu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-3-hurricane-s-howl/Yonsuu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tNDYjNXMWk4VoxGm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Avatar-Of-Walkena.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Avatar-Of-Walkena.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XsLYAnDjzpPeICkL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Baaupa-Mdoudu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Baaupa-Mdoudu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U6EEfdbaodpYZfU6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Biloko-Reaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Biloko-Reaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aGRGTryl2gymNRHS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Dajermube.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Dajermube.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cj0ra2zasTZCBRjJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Dimari-Diji.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Dimari-Diji.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ybYXRItLGKw7oHsO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Drenchdead.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Drenchdead.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XqifZ5APrSc8PqhP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Gambulami.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Gambulami.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3vLu5145ORD6vcCJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Gold-Defender.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Gold-Defender.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rJQx7C5BGqslgr4x": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Grave-Karina.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Grave-Karina.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tyEZGXm1pbb5b77K": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Graveknight-Captain.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Graveknight-Captain.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7GcDjU3EhVn54AKX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Graveknight-Champion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Graveknight-Champion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OjqCx6nMwDuVLoqA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Jackal-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Jackal-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tvDUeXGTZWKUHr3V": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Kilia-Mwibo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Kilia-Mwibo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ijo4aRSFVd7Bmzr2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Living-Sun-Spire.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Living-Sun-Spire.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MLCRss7LhVEE0HHy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Nkiruka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Nkiruka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aQH62hiGUoOscc4i": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Reborn-Sun-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Reborn-Sun-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1GNNvFjOH3mlJiRF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Reborn-Sun-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Reborn-Sun-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5tqXmxNn2WgtZgV4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Soul-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Soul-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EyRDvDy5hWX7fUFR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Sunburst-Corpse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Sunburst-Corpse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zfo1oFWRg3A2BxTQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Worknesh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-4-secrets-of-the-temple-city/Worknesh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OPLok0VMnWsmhF7K": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ancient-Rivener.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ancient-Rivener.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ST4oQnNs5ePZIrZc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Contemplative.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Contemplative.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jiCmtwIhbVrG9dB5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Contemplative-Meditant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Contemplative-Meditant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3858pExfJPbMo4Vf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Cookie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Cookie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9cyXSTXSsqOYXZtB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Dwandek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Dwandek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3oxQdcu3bKHKQCDA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Mageslayer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Mageslayer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "i3xyq1muByR02dqa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Queen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Queen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MtaFBwBwpvoTC1PH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Worker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Formian-Worker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1NcuNcLoCg0AaAYO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Gluttonworm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Gluttonworm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wCmTtkeVjPILP7Vl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ikeshti-Brood-Minder.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ikeshti-Brood-Minder.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NJclJai0QoEiR8wC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Iobane-Magus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Iobane-Magus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eKKp33z9z6U8alo9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Khefak-Scuttler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Khefak-Scuttler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "waXVDOOvff9GtAbq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/King-Of-Biting-Ants.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/King-Of-Biting-Ants.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LdD9lYH5p8QTpcOV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Mpondo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Mpondo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oy6o6rJbmpduNyvA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ravager-Of-Tindalos.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Ravager-Of-Tindalos.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DaOSfNGARU0QeMsp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Sand-Racer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Sand-Racer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hVBzcyoDCdTCM4E6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Shobhad-Enforcer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Shobhad-Enforcer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RJKVH3fxPEiTCwt5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Shobhad-Sniper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Shobhad-Sniper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ip0htomE6BytVw5h": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Skartitch-Chip-Tooth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Skartitch-Chip-Tooth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GDEJworKvYKhniBU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Sparkeater.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Sparkeater.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m842SrbNueOnkFZk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Taon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Taon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RNMbzphC2QEr5LFt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Tollvych.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-5-doorway-to-the-red-star/Tollvych.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eY9eS7CIFXKxyq3q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Alapolo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Alapolo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ju9lwJqoqLLPJswc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Alate-Ant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Alate-Ant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vMy0FZGQnFwgHWtd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Apocalypse-Ant-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Apocalypse-Ant-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wz2788pDzWe52BBE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Hunger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Hunger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9FsNuksdQSYN7Cpu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Immortality.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Immortality.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t5ir38Oait0lziq2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Insects.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Aspect-Of-Insects.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CXtkMa5cGeAD8uvm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Cataclysm-Beetle.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Cataclysm-Beetle.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eWCArhCIUv1SvIyD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Chromatic-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Chromatic-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BkBwYuqaYBbIsp1b": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Clockwork-Clock-Tower.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Clockwork-Clock-Tower.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vTETJgwDLVK6bKQt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Crawling-Slurry.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Crawling-Slurry.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EYAcaqkQajIbvtLB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Hivebound-Arboreal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Hivebound-Arboreal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ryvb9GPRLh3Qz3xZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Lignified-Adamantine-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Lignified-Adamantine-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UOXavVdqiOPyB6xa": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Red-Commander-Ant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Red-Commander-Ant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jDNrRPE2hTOssJcl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Red-Guard-Ant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Red-Guard-Ant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BBY1kxjWhzLDtF8c": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Shianshi-Waymaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Shianshi-Waymaker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BUzNkswA1EOAtL0z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Slana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Slana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T4e7jLh98B40c55m": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Taapundo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Taapundo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4AQPyk3UaGjqmmXx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Tatterthread.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Tatterthread.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xFzKEbOTulrhOsF4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Thorn-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Thorn-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yBIeXuLhBROG84Ca": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Anchor-Root.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Anchor-Root.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BsXzS2fooPorzqsV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Haibram.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Haibram.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yqZqz9sMK8LNolIB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Koride.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Koride.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NVeGEMmia7sVq7uj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Mariama.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Mariama.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9dsDwOspNTaUGoem": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Okoro.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Unshadowed-Okoro.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NfDN83AupuDwk33L": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Disciple.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Disciple.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sxOuLaNH5VNsRFZf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Poisoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Poisoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lcxS04lmWsTMn0Te": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Sentinel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/strength-of-thousands/book-6-shadows-of-the-ancients/Wereant-Sentinel.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

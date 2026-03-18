@@ -1,0 +1,208 @@
+{
+  "pf2e.troubles-in-otari-bestiary": {
+    "3Pa5JoY9PYdV5x1e": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Brimstone-Rat.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Brimstone-Rat.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Brimstone-Rat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5iOgKbhW9zVnV1cr": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Bugbear-Marauder.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Bugbear-Marauder.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Bugbear-Marauder.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6Ut7YjjLZADMU7NY": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Hargrit-Leadbuster.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Hargrit-Leadbuster.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Hargrit-Leadbuster.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "fhItdltCmcAZkvcI": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Kobold.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Kobold.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kobold.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PhLxqnAIhCovfcXy": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Kotgar-Leadbuster.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Kotgar-Leadbuster.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kotgar-Leadbuster.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "4GZsTkvuYADpcdmV": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Kurnugian-Jackal.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Kurnugian-Jackal.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kurnugian-Jackal.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "lTVgdXuSv2B0yVVW": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Morgrym-Leadbuster.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Morgrym-Leadbuster.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Morgrym-Leadbuster.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "m4jitI3J1QkjJq3H": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Omblin-Leadbuster.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Omblin-Leadbuster.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Omblin-Leadbuster.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rRSIqZ5g3QRfaAQ0": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Orc-Warchief.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Orc-Warchief.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Orc-Warchief.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "MTI298bhLGYktyZX": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Orc-Brute.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Orc-Brute.webp",
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Orc-Brute.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "l7wng1EXY7np8Hcu": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Olli.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Olli.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Olli.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "TIX9yDasefwJ4PxI": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/troubles-in-otari/Stinkweed-Shambler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/troubles-in-otari/Stinkweed-Shambler.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Stinkweed-Shambler.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

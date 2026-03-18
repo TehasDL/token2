@@ -1,0 +1,980 @@
+{
+  "pf2e.spore-war-bestiary": {
+    "9QYCWXVN2B9ssayl": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Alzarius.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Alzarius.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d8N7y33UQ5jwLnR7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Captain-Talymir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Captain-Talymir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gBVxdkJbuxR0dxt4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Degholau.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Degholau.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9iIj6SLuJplNBGlQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Delvarnis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Delvarnis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F3cUooitFUS4nX1e": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Eshmok.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Eshmok.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "67FHrUbWeN8uZva9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Fungal-Flytrap.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Fungal-Flytrap.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "THRmSpcf3FvVDXhj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Grizzer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Grizzer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nxXj4V7pFVXuRvre": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Lukarazyll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Lukarazyll.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eRDf6xNphDUQ1Gox": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Razmiri-Blade-Assassin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Razmiri-Blade-Assassin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "blWhrVgjP5rIqb3q": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Root-Rotter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Root-Rotter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WJwsn0t40hD8UvGe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Rotting-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Rotting-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YsgZ2gFGBLVnmdCc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Sinmold.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Sinmold.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dJTwrxDR5cRySxvH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Spore-Tyrannosaurus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Spore-Tyrannosaurus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "e2qgJzVf0FpBXfBd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Tanglebriar-Isqulug.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Tanglebriar-Isqulug.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zaFCdcwo2VDqqrNR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Tithekeeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Tithekeeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mp4ovsYcXGRncFCR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Ulugurnix.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Ulugurnix.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fxx3YStNyNBdT1sw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Vintalax.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-1-whispers-in-the-dirt/Vintalax.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y9G71AEujaRmcjlu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Bhuta-Servant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Bhuta-Servant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "E976If3eDLtsZfdB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Boggard-Cultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Boggard-Cultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "y2EhtiAUEfUZNQH8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Briargeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Briargeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DS74YwOb9IOJPsF3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Fungal-Amalgamite.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Fungal-Amalgamite.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bytRrCmVh2g5FoQE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Fungal-Marsh-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Fungal-Marsh-Giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cHOXZyToRuM6gmGE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Gruddunk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Gruddunk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XE9emvoqU0B3LT7k": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Gruntch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Gruntch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hy1VNv553PryLGbu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Invidiak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Invidiak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j4Ge5IoJkVai7N2g": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Iravalinn-Morgethai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Iravalinn-Morgethai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oD67tHbrjCnWFHMA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Irshandi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Irshandi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "91y5Jhr5sePXKdLX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Miastrilek.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Miastrilek.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1XvwOmLR49yRe1Ae": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Mugrisant-Qlippoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Mugrisant-Qlippoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lXy7rMV1QMT37xTp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Pukwudgie-Scribe.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Pukwudgie-Scribe.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BnlWZqGoniFXnDnk": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Rancorous-Priesthood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Rancorous-Priesthood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zcW1w3ftmzL3XCuq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Shalelu-Andosana.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Shalelu-Andosana.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rdh4wcn2nAKGGQIc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Spore-Queen-Quilindra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Spore-Queen-Quilindra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CiStkehlrG3IBcSX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Spore-Thrall.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Spore-Thrall.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iTT2eNlWdFIBeJr4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Sporescout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Sporescout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Gu4ItQtKIgtQ7ZRB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Swamp-Blight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Swamp-Blight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ygVqLjDmjXaDq8xh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tangle-Khravgodon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tangle-Khravgodon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B1jjtLZy9B7iEaGw": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Bhuta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Bhuta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DBJgwqVDuM44Wd7Z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Creeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Creeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yfmlWu7g3sk1svyc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Regent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Tanglebriar-Regent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lUiOpNnV9Dd44T3n": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/The-Putrid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/The-Putrid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rIoJXbPU9sqw9lm5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Unrisen-Slithermaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Unrisen-Slithermaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "phwez1DJLJcAVrG6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Vixivax.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Vixivax.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "au8S1DLC5osnGgoX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Zauglagaul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-2-the-secret-of-deathstalk-tower/Zauglagaul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CFgNOjwPo1o5ChPg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Crowded-Veil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Crowded-Veil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ixH0iXbdlCjGat2V": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Devasance.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Devasance.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QbzfloiHZrxBLYDK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Forger-Of-Tanglebriar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Forger-Of-Tanglebriar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bwU58Qns7TzR43Jj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Fungal-Abomination.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Fungal-Abomination.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uND9uwnPoBVOU7jd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Imvath.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Imvath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "U3J9rWvfdkgv9agr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Klacktel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Klacktel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SxcJlOBouEOuH0AJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Queen-Telandia-Edasseril.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Queen-Telandia-Edasseril.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dxJWRhwtdwxBI9Gn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Rift-Pulper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Rift-Pulper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Yxsgcou341wjS8st": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Riftweasel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Riftweasel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0Ky23VSAdJO4izI0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Second-Spawn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Second-Spawn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4VNR5BjSTspzsVYC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Shroud-Moss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Shroud-Moss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "akkpxUPNsOTHcvSH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Spawn-Of-Jeharlu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Spawn-Of-Jeharlu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rJ7yZpv0nUWMYEOF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Sporespawn-Of-Treerazer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Sporespawn-Of-Treerazer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ebdfXxEWYOCjgbb0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/The-Python.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/The-Python.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "q4Hwhap275qpm2iq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Vamollaroth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Vamollaroth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WQRJdpOzcnBsgbnp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Vansidieth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Vansidieth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RwO6fC7hIap6cKoM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Ziberae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/spore-war/book-3-a-voice-in-the-blight/Ziberae.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

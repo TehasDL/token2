@@ -1,0 +1,282 @@
+<div class="disguise-container">
+
+{{!-- Контейнер для DisguiseApp (Создание Образов) --}}
+{{#if isDisguiseApp}}
+<div class="disguise-creation-container">
+  <form>
+    {{#unless isHybridOnly}}
+      <div class="form-group" style="text-align: center; margin-bottom: 10px;">
+        <p style="font-weight: bold; margin: 0;">{{localize "Disguise.Step1Mode"}}</p>
+      </div>
+      <div class="form-group" style="text-align: center;">
+        <div class="save-mode-switch" style="display:flex;align-items:center;justify-content:center;gap:10px;">
+          <span>{{localize "Disguise.HybridMode"}}</span>
+          <label class="toggle-switch">
+            <input type="checkbox" id="save-mode-toggle" name="save-mode"/>
+            <span class="slider"></span>
+          </label>
+          <span>{{localize "Disguise.FullCopyMode"}}</span>
+        </div>
+      </div>
+    {{/unless}}
+
+    <div class="form-group" style="display: flex; justify-content: center; align-items: center; margin-top: 15px;">
+      <input type="checkbox" id="apply-size-toggle" name="apply-size" checked style="margin-right: 5px;"/>
+      <label for="apply-size-toggle">{{localize "Disguise.ApplySizeLabel"}}</label>
+    </div>
+
+    <p class="notes" style="text-align:center;margin:15px 0;">
+      {{#if isHybridOnly}}
+        {{localize "Disguise.DragActorForHybrid"}}
+      {{else}}
+        {{localize "Disguise.SelectModeThenDrag"}}
+      {{/if}}
+    </p>
+
+    <div class="drop-target" style="height: 150px; display:flex;flex-direction:column;justify-content:center;align-items:center;border:2px dashed #666;border-radius:5px;padding: 10px;">
+        <label style="font-weight:bold;font-size:14px;">{{localize "Disguise.Step2DragActor"}}</label>
+        <i class="fas fa-file-import fa-3x" style="color:#666;margin-top:10px;"></i>
+    </div>
+  </form>
+
+  <style>
+    #disguise-app { width: 400px !important; height: auto !important; }
+    #disguise-app .window-content { padding: 10px 15px 15px 15px; }
+    #disguise-app *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+    .disguise-creation-container .save-mode-switch span, .disguise-creation-container .form-group label { font-weight: 500; }
+    .disguise-creation-container .notes { font-weight: 500; }
+    .disguise-creation-container .toggle-switch { position: relative; display: inline-block; width: 50px; height: 24px; }
+    .disguise-creation-container .toggle-switch input { opacity: 0; width: 0; height: 0; }
+    .disguise-creation-container .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 24px; }
+    .disguise-creation-container .slider:before { position: absolute; content: ""; height: 16px; width: 16px; left: 4px; bottom: 4px; background-color: white; transition: .4s; border-radius: 50%; }
+    .disguise-creation-container input:checked + .slider { background-color: #3f9934; }
+    .disguise-creation-container input:checked + .slider:before { transform: translateX(26px); }
+</style>
+</div>
+{{/if}}
+
+{{!-- Контейнер для PhaseManagerApp (Менеджер Образов) --}}
+{{#if isPhaseManagerApp}}
+<div class="phase-manager-wrapper">
+  <div class="phase-manager-container">
+    {{#if isManager}}
+    <ul class="phase-list">
+      {{#if (or hybrids.length fulls.length)}}
+      {{#if hybrids.length}}
+      <h3 class="list-header">{{localize "Disguise.HybridSkinsHeader"}}</h3>
+      {{#each hybrids}}
+      <li class="phase-item {{#if this.isActive}}active{{/if}}" data-id="{{this.id}}" data-type="{{this.type}}">
+        <div class="phase-left">
+          <img src="{{this.img}}" class="phase-icon" />
+          <span class="phase-name">{{this.name}}</span>
+        </div>
+        <div class="phase-actions">
+          <a class="apply-phase" data-action="apply"><i class="fas fa-play"></i></a>
+          <a class="rename-phase" data-action="rename"><i class="fas fa-i-cursor"></i></a>
+          <a class="delete-phase" data-action="delete"><i class="fas fa-trash"></i></a>
+        </div>
+      </li>
+      {{/each}}
+      {{/if}}
+ 
+      {{#if fulls.length}}
+      <h3 class="list-header">{{localize "Disguise.FullCopiesHeader"}}</h3>
+      {{#each fulls}}
+      <li class="phase-item {{#if this.isActive}}active{{/if}}" data-id="{{this.id}}" data-type="{{this.type}}">
+        <div class="phase-left">
+          <img src="{{this.img}}" class="phase-icon" />
+          <span class="phase-name">{{this.name}}</span>
+        </div>
+        <div class="phase-actions">
+          <a class="apply-phase" data-action="apply"><i class="fas fa-play"></i></a>
+          <a class="rename-phase" data-action="rename"><i class="fas fa-i-cursor"></i></a>
+          <a class="edit-phase" data-action="edit"><i class="fas fa-edit"></i></a> 
+          <a class="delete-phase" data-action="delete"><i class="fas fa-trash"></i></a>
+        </div>
+      </li>
+      {{/each}}
+      {{/if}}
+      {{else}}
+      <li class="no-phases">{{localize "Disguise.NoSavedDisguises"}}</li>
+      {{/if}}
+    </ul>
+    {{/if}}
+  </div>
+
+  <style>
+    #phase-manager-app { width: 400px !important; height: 500px !important; }
+    #phase-manager-app .window-content { padding: 0 !important; }
+    #phase-manager-app *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+    .phase-manager-container .no-phases { font-weight: 500; text-align: center; padding-top: 20px; }
+    .phase-manager-container { width: 100%; height: 100%; max-height: 500px; overflow-y: auto; display: flex; flex-direction: column; padding: 5px; box-sizing: border-box; }
+    .phase-manager-container .phase-list { list-style: none; padding: 0; margin: 0; width: 100%; flex-grow: 1; }
+    .phase-manager-container .list-header { margin: 5px 5px 5px 5px; font-size: 1.1em; font-weight: bold; text-align: center; }
+    .phase-manager-container .phase-item { display: flex; align-items: center; padding: 8px 10px; border-bottom: 1px solid #cccccc; }
+    .phase-manager-container .phase-item:hover { background: rgba(255, 255, 255, 0.2); }
+    .phase-manager-container .phase-item.active { background-color: rgba(63, 153, 52, 0.2); border-left: 3px solid #3f9934; padding-left: 7px; }
+    .phase-manager-container .phase-item.active .phase-name { font-weight: bold; }
+    .phase-manager-container .phase-left { display: flex; align-items: center; gap: 10px; flex-grow: 1; min-width: 0; }
+    .phase-manager-container .phase-icon { width: 36px; height: 36px; object-fit: contain; border-radius: 3px; flex-shrink: 0; }
+    .phase-manager-container .phase-name { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .phase-manager-container .phase-actions { display: flex; gap: 5px; flex-shrink: 0; }
+    .phase-manager-container .phase-actions a { color: var(--color-text-primary, #191813); text-decoration: none; padding: 4px; border-radius: 3px; }
+</style>
+</div>
+{{/if}}
+
+{{!-- Контейнер для HUD App (Меню Быстрого Доступа) --}}
+{{#if isHudApp}}
+<div class="disguise-hud-menu">
+  {{#if hasContent}}
+    {{#if original}}
+      <div class="disguise-hud-item {{#if original.isActive}}active{{/if}}" data-action="apply" data-id="original" data-type="hybrid">
+        <img src="{{original.img}}"/>
+        <span>{{original.name}}</span>
+      </div>
+    {{/if}}
+
+    {{#if hybrids.length}}
+      <div class="disguise-hud-header">{{localize "Disguise.HybridSkinsHeader"}}</div>
+      {{#each hybrids}}
+        <div class="disguise-hud-item {{#if this.isActive}}active{{/if}}" data-action="apply" data-id="{{this.id}}" data-type="{{this.type}}">
+           <img src="{{this.img}}"/>
+          <span>{{this.name}}</span>
+        </div>
+      {{/each}}
+    {{/if}}
+
+    {{#if fulls.length}}
+      <div class="disguise-hud-header">{{localize "Disguise.FullCopiesHeader"}}</div>
+      {{#each fulls}}
+        <div class="disguise-hud-item {{#if this.isActive}}active{{/if}}" data-action="apply" data-id="{{this.id}}" data-type="{{this.type}}">
+          <img src="{{this.img}}"/>
+          <span>{{this.name}}</span>
+        </div>
+      {{/each}}
+    {{/if}}
+
+  {{else}}
+    <div class="disguise-hud-item">{{localize "Disguise.ManagerNoSavedDisguises"}}</div>
+  {{/if}}
+
+  <style>
+    #disguise-hud-app { pointer-events: auto !important; background: rgba(0, 0, 0, 0.85); border: 1px solid #f0f0e0; border-radius: 5px; padding: 5px; }
+    #disguise-hud-app *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+    .disguise-hud-menu { width: 220px; max-height: 250px; overflow-y: auto; display: flex; flex-direction: column; gap: 4px; }
+    .disguise-hud-header { color: #c9c7b8; font-size: 12px; font-weight: bold; text-align: center; border-bottom: 1px solid rgba(255, 255, 255, 0.2); margin: 5px 0 3px 0; padding-bottom: 2px; }
+    .disguise-hud-item { display: flex; align-items: center; padding: 4px; cursor: pointer; border-radius: 3px; flex-shrink: 0; font-weight: 500; }
+    .disguise-hud-item:hover { background: rgba(255, 255, 255, 0.2); }
+    .disguise-hud-item.active { background-color: rgba(63, 153, 52, 0.2); font-weight: bold; border-left: 3px solid #3f9934; padding-left: 1px; }
+    .disguise-hud-item img { width: 36px; height: 36px; margin-right: 8px; border: none; object-fit: contain; flex-shrink: 0; }
+    .disguise-hud-item span { color: #f0f0e0; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 500; }
+</style>
+</div>
+{{/if}}
+
+{{!-- Контейнер для AutomationApp (Автоматизация) --}}
+{{#if isAutomationManager}}
+<div class="disguise-automation-container">
+  <div class="automation-content">
+    <form>
+      <div class="form-group">
+        <label>{{localize "Disguise.AutomationSelectDisguise"}}</label>
+        <div class="disguise-list-wrapper">
+          <div class="disguise-list">
+            {{#each disguises}}
+              <div class="selectable-item disguise-item" data-id="{{this.id}}" title="{{this.name}}">
+                 <img src="{{this.img}}" alt="{{this.name}}" class="disguise-preview-image" />
+                <div class="disguise-item-name">{{this.name}}</div>
+              </div>
+            {{/each}}
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "Disguise.AutomationSelectEffect"}}</label>
+        <input type="text" name="manualEffectUuid" placeholder="{{localize 'Disguise.AutomationEnterEffectUUID'}}" />
+      </div>
+    </form>
+
+    {{#if automations.length}}
+    <label class="rules-label">{{localize "Disguise.AutomationExistingRules"}}</label>
+    <div class="automation-list-wrapper">
+      <div class="automation-list">
+        {{#each automations}}
+          <div class="automation-item">
+            <div class="automation-item-details">
+              <img src="{{this.effectImg}}" alt="{{this.effectName}}" width="32" height="32"/>
+              <span>{{this.effectName}} → {{this.disguiseName}}</span>
+            </div>
+            <button type="button" class="delete-automation" data-effect-uuid="{{this.effectUuid}}" style="color:red;">
+              <i class="fas fa-trash"></i>
+            </button>
+          </div>
+        {{/each}}
+      </div>
+    </div>
+    {{/if}}
+  </div>
+
+  <div class="automation-footer">
+    <button type="button" class="save-automation"><i class="fas fa-save"></i> {{localize "Disguise.AutomationSave"}}</button>
+  </div>
+
+  <style>
+    #disguise-automation-app { width: 440px !important; height: 630px !important; }
+    #disguise-automation-app .window-content { padding: 5px 5px 5px 5px; }
+    #disguise-automation-app *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+    .disguise-automation-container { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; padding: 40px 10px 10px 10px; }
+    .disguise-automation-container .automation-content { flex-grow: 1; min-height: 0; padding: 10px 10px 0 10px; display: flex; flex-direction: column; }
+    .disguise-automation-container .automation-footer { flex-shrink: 0; text-align: center; padding: 10px 10px 10px 10px; border-top: 1px solid #ccc; display: flex; justify-content: center; }
+    .disguise-automation-container .save-automation { width: 100%; }
+    .disguise-automation-container .form-group label { font-weight: 500; text-align: center; width: 100%; display: block; }
+    .disguise-automation-container .disguise-list-wrapper { max-height: 215px; overflow-y: auto; border: 1px solid #ddd; border-radius: 3px; padding: 5px; }
+    .disguise-automation-container .automation-list-wrapper { flex-grow: 1; min-height: 0; overflow-y: auto; border: 1px solid #ddd; border-radius: 3px; padding: 5px; margin-bottom: 0px; }
+    .disguise-automation-container .disguise-list { display:flex; flex-wrap:wrap; gap:10px; }
+    .disguise-automation-container .disguise-item { cursor:pointer; border:1px solid #ccc; border-radius:5px; padding:5px; text-align:center; width:90px; }
+    .disguise-automation-container .disguise-item-name { font-size:12px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-weight: 500; }
+    .disguise-automation-container .disguise-item.selected { border: 2px solid #3f9934; box-shadow: 0 0 5px #3f9934; }
+    .disguise-automation-container .disguise-preview-image { width: 64px; height: 64px; object-fit: contain; border: none; }
+    .disguise-automation-container .rules-label { font-weight: bold; display: block; margin-top: 10px; }
+    .disguise-automation-container .automation-item { display:flex; align-items:center; justify-content:space-between; margin:2px 0; padding:5px; border-bottom: 1px solid #eee; }
+    .disguise-automation-container .automation-item:last-child { border-bottom: none; }
+    .disguise-automation-container .automation-item-details { display:flex; align-items:center; gap:10px; }
+    .disguise-automation-container .automation-item-details span { font-weight: 500; }
+    .disguise-automation-container .automation-item:hover { background: rgba(0,0,0,0.05); }
+    .disguise-automation-container input[name="manualEffectUuid"] { width: 100%; }
+    .disguise-automation-container .form-group { margin-bottom: 15px; }
+</style>
+  </div>
+{{/if}}
+
+{{!-- Контейнер для DisguiseMainMenu (Главное меню выбора) --}}
+{{#if isDisguiseMainMenu}}
+<div class="disguise-main-menu-container">
+    <p>{{localize "Disguise.ChooseActionPrompt"}}</p>
+    <div class="dialog-buttons">
+        {{#each buttonRows}}
+        <div class="button-row">
+            {{#each this}}
+            <button type="button" class="dialog-button" data-action="{{this.action}}">
+                <i class="{{this.icon}}"></i>
+                {{this.label}}
+            </button>
+            {{/each}}
+        </div>
+        {{/each}}
+    </div>
+    <style>
+        #disguise-main-menu { width: 520px; height: auto; }
+        #disguise-main-menu .window-content { padding: 5px 5px 5px 5px; }
+        #disguise-main-menu *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; font-size: 1.0em; font-weight: 500; }
+        .disguise-main-menu-container p { text-align: center; margin: 0 0 15px 0; }
+        .disguise-main-menu-container .dialog-buttons { display: flex; flex-direction: column; gap: 8px; }
+        .disguise-main-menu-container .button-row { display: flex; flex-direction: row; gap: 8px; width: 100%; }
+        .disguise-main-menu-container .button-row button { flex: 1; text-align: left; white-space: nowrap; }
+        .disguise-main-menu-container .button-row button i { margin-right: 8px; width: 20px; text-align: center; }
+    </style>
+</div>
+{{/if}}
+
+</div>

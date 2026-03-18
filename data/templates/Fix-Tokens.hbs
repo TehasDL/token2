@@ -1,0 +1,139 @@
+{{!-- Контейнер для MainMenuForm (Главное меню) --}}
+{{#if isMainMenu}}
+<div class="fix-tokens-main-menu">
+    <form>
+        <fieldset class="exclusion-group">
+            <legend>{{localize "FixTokens.ManageExclusions"}}</legend>
+            {{#each menuItems}}
+            <div class="form-group main-menu-row">
+                <label>{{localize (concat "FixTokens." this.key)}}</label>
+                <button type="button" data-action="{{this.action}}">
+                    <i class="fas fa-cogs"></i> {{localize "FixTokens.ButtonManage"}}
+                </button>
+            </div>
+            {{/each}}
+        </fieldset>
+        <p class="hint">{{localize "FixTokens.RunFixHint"}}</p>
+        <button type="button" class="run-button" data-action="run-fix">
+            <i class="fas fa-play"></i> {{localize "FixTokens.ButtonRun"}}
+        </button>
+    </form>
+    <style>
+        #fix-tokens-main-menu { width: 500px; height: auto; }
+        #fix-tokens-main-menu .window-content { padding: 5px 5px 5px 5px; }
+        #fix-tokens-main-menu *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+        .fix-tokens-main-menu form { display: flex; flex-direction: column; gap: 8px; }
+        .fix-tokens-main-menu .main-menu-row { display: flex; justify-content: space-between; align-items: center; }
+        .fix-tokens-main-menu .main-menu-row label { flex-grow: 1; margin: 0; font-size: 1.1em; font-weight: 500; }
+        .fix-tokens-main-menu .main-menu-row button { flex-basis: 120px; }
+        .fix-tokens-main-menu .run-button { background-color: #4caf50; color: white; margin-top: 10px; font-size: 1.2em; }
+        .fix-tokens-main-menu .hint { font-size: 0.9em; color: #555; margin: 5px 0; text-align: center; font-weight: 500; }
+        .fix-tokens-main-menu .exclusion-group { border: 1px solid #7a7971; border-radius: 5px; padding: 10px 15px; display: flex; flex-direction: column; gap: 8px; }
+        .fix-tokens-main-menu .exclusion-group legend { font-size: 1.2em; font-weight: bold; padding: 0 5px; }
+    </style>
+</div>
+{{/if}}
+
+{{!-- Контейнер для ExcludeActorsForm (Форма исключения актеров) --}}
+{{#if isActorsForm}}
+<div class="fix-tokens-actors-form">
+    <form>
+        <p style="font-weight: bold; font-size: 1.0em; text-align: center;">{{header}}</p>
+        <div class="form-group search-bar">
+            <input type="text" id="actor-search" placeholder="{{localize 'FixTokens.SearchPlaceholder'}}">
+        </div>
+        <div class="form-fields scrollable-content">
+            {{#*inline "treePartial"}}
+                {{#each this}}
+                    <div class="tree-node" data-id="{{this.id}}" data-name="{{this.name}}">
+                        {{#if this.children.length}}
+                            <details>
+                                <summary class="tree-item folder">
+                                    <span class="tree-toggle-icon"></span>
+                                    <input type="checkbox" name="{{this.id}}" id="check-{{this.id}}" {{#if this.checked}}checked{{/if}}>
+                                    <label for="check-{{this.id}}"><i class="fas fa-folder"></i>&nbsp;{{this.name}}</label>
+                                </summary>
+                                <div class="tree-children">
+                                    {{> treePartial this.children}}
+                                </div>
+                            </details>
+                        {{else}}
+                            <div class="form-group tree-item leaf">
+                                <input type="checkbox" name="{{this.id}}" id="check-{{this.id}}" {{#if this.checked}}checked{{/if}}>
+                                <label for="check-{{this.id}}">
+                                    {{#if this.isFolder}}<i class="fas fa-folder"></i>{{else}}<i class="fas fa-user"></i>{{/if}}
+                                    &nbsp;{{this.name}}
+                                </label>
+                            </div>
+                        {{/if}}
+                    </div>
+                {{/each}}
+            {{/inline}}
+            {{> treePartial options}}
+        </div>
+        <div class="form-footer">
+            <button type="button" class="form-submit">
+                <i class="fas fa-save"></i> {{localize "FixTokens.Save"}}
+            </button>
+        </div>
+    </form>
+    <style>
+        #fix-tokens-actors-form { width: 550px; height: 700px; }
+        #fix-tokens-actors-form .window-content { padding: 5px 5px 5px 5px; }
+        #fix-tokens-actors-form *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+        .fix-tokens-actors-form { display: flex; flex-direction: column; height: 100%; }
+        .fix-tokens-actors-form form { display: flex; flex-direction: column; height: 100%; }
+        .fix-tokens-actors-form .search-bar { margin: 10px 0 5px 0; }
+        .fix-tokens-actors-form #actor-search { width: 100%; }
+        .fix-tokens-actors-form .scrollable-content { flex-grow: 1; overflow-y: auto; border: 1px solid #7a7971; border-radius: 5px; padding: 5px 5px 5px 0px; }
+        .fix-tokens-actors-form .tree-item { display: flex; align-items: center; padding: 2px 0; gap: 0.5em; }
+        .fix-tokens-actors-form .tree-item label { margin: 0; cursor: pointer; font-weight: 500; }
+        .fix-tokens-actors-form .tree-item input[type="checkbox"] { margin: 0; }
+        .fix-tokens-actors-form details { padding-left: 1.2em; }
+        .fix-tokens-actors-form details > summary { list-style: none; margin-left: -1.2em; cursor: pointer; }
+        .fix-tokens-actors-form details > summary .tree-toggle-icon::before { content: '▶'; }
+        .fix-tokens-actors-form details[open] > summary .tree-toggle-icon::before { content: '▼'; }
+        .fix-tokens-actors-form .tree-children { padding-left: 1.2em; border-left: 1px solid #ccc; margin-left: 5px; }
+        .fix-tokens-actors-form .leaf { padding-left: 1.2em; }
+        .fix-tokens-actors-form .form-footer { flex-shrink: 0; margin-top: 5px; }
+        .fix-tokens-actors-form .form-footer button { width: 100%; font-size: 1.1em; padding: 8px; }
+    </style>
+</div>
+{{/if}}
+
+{{!-- Контейнер для ExcludeTypesForm (Форма исключения типов) --}}
+{{#if isTypesForm}}
+<div class="fix-tokens-types-form">
+    <form>
+        <p style="font-weight: bold; font-size: 1.0em; text-align: center;">{{localize "FixTokens.ExcludeTypesHeader"}}</p>
+        
+        <div class="form-fields scrollable-content">
+             {{#each options}}
+                <div class="form-group">
+                    <label for="{{this.id}}">{{this.name}}</label>
+                    <input type="checkbox" name="{{this.id}}" {{#if this.checked}}checked{{/if}}>
+                </div>
+            {{/each}}
+        </div>
+
+        <div class="form-footer">
+            <button type="button" class="form-submit">
+                <i class="fas fa-save"></i> {{localize "FixTokens.Save"}}
+            </button>
+        </div>
+    </form>
+    <style>
+        #fix-tokens-types-form { width: 450px; height: 500px; }
+        #fix-tokens-types-form .window-content { padding: 5px 5px 2px 5px; }
+        #fix-tokens-types-form *:not([class*="fa-"]) { font-family: 'Noto Sans', 'Segoe UI', sans-serif; }
+        .fix-tokens-types-form { display: flex; flex-direction: column; height: 100%; }
+        .fix-tokens-types-form form { display: flex; flex-direction: column; height: 100%; }
+        .fix-tokens-types-form .scrollable-content { flex-grow: 1; overflow-y: auto; border: 1px solid #7a7971; border-radius: 5px; margin-top: 10px; padding: 0px 10px 5px 10px; }
+        .fix-tokens-types-form .form-group { display: flex; justify-content: space-between; align-items: center; padding: 8px 0px 8px 0px; border-bottom: 1px solid #444; }
+        .fix-tokens-types-form .scrollable-content .form-group:last-child { border-bottom: none; }
+        .fix-tokens-types-form .form-group label { font-size: 1.2em; font-weight: 500; }
+        .fix-tokens-types-form .form-footer { flex-shrink: 0; margin-top: 15px; }
+        .fix-tokens-types-form .form-footer button { width: 100%; font-size: 1.1em; padding: 8px; }
+    </style>
+</div>
+{{/if}}

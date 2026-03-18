@@ -1,0 +1,2196 @@
+{
+  "pf2e.blood-lords-bestiary": {
+    "btuLRbWKuZK7ozti": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Arghun-The-Annihilator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Arghun-The-Annihilator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N387myolfXJxWYvF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Bone-Shard-Tough.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Bone-Shard-Tough.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vUv8SR7Pa5fONiuN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Charghar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Charghar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PCGYst9QySIxsjDK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Chattering-Jaws.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Chattering-Jaws.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k8NnItW7Hp79bg26": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Cobblebone-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Cobblebone-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pJ9Pfo3DCsV97GYO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Crooked-Coffin-Brewer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Crooked-Coffin-Brewer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LRHYWNJg7231HUOc": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Dirge-Piper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Dirge-Piper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6I4ZtQJPT0ToITvq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Floating-Femur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Floating-Femur.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aZMbCNaUnmqIVoyA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Granite-Vulture.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Granite-Vulture.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5pfU6ZAyAWq3VEdq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Kepgeda-The-Hag-Nailed.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Kepgeda-The-Hag-Nailed.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nmv3qAignhfl1in2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Mosghuta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Mosghuta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KQkouk6tku8akpmU": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Necromunculus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Necromunculus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SSFzb5JBZDG6sr9B": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Opkherab.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Opkherab.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "t92NDPmfXnOke88G": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Pesgahi-The-Poisoner.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Pesgahi-The-Poisoner.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nX7wdbO4lvdGlFPM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Phalanx-Of-Phalanges.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Phalanx-Of-Phalanges.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OhJ4yePPE1zQ8JNL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Sahreg-The-Dirge-Screamer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Sahreg-The-Dirge-Screamer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CVBM8oY76Yw4IxN5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Scrabbling-Ribcage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Scrabbling-Ribcage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "I9Nn9RsYdovSFiD6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Skull-Fairy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Skull-Fairy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wh9Rr5uiYgMc55s9": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Tombstone-Troll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Tombstone-Troll.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "woGNg9IcqOtEy9hb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Zombie-Horse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Zombie-Horse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LeJeFOI8P0L7pxxS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-1-zombie-feast/Zombie-Hound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-1-zombie-feast/Zombie-Hound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DIDEV6UK5S5jQunK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Animated-Fireplace.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Animated-Fireplace.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FiY8hCD5XoZjp9yX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Aquatic-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Aquatic-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YZf8zp3ylEoAFyBX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Arboreal-Snag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Arboreal-Snag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0vCny4bIzIKehi5u": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Arboreal-Snag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Arboreal-Snag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OuiTvUpfZVNlIIQV": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Azmakian-Effigy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Azmakian-Effigy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XWb7V3dkiDlBD8Bn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Blaanlool.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Blaanlool.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PFAxHAnorkDmvi26": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Clockwork-Rifler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Clockwork-Rifler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4Z704FJ69DWl71vP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Creeping-Crone.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Creeping-Crone.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DunLW2kBqOpE0pkL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Decrosia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Decrosia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mfBLoIaSYNbmmtht": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Drusilla.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Drusilla.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4yAbOWwebJGWRmt2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Ghostly-Mob.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Ghostly-Mob.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zYY1lFk4tole9Lx5": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Ghoul-Crocodile.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Ghoul-Crocodile.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O0jtf0qQnuSTrNUp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Grave-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Grave-Hag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zrMBLTlxPCIwtwGo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Iron-Taviah.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Iron-Taviah.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vYMWNYvaKYxKm2Jh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Kapoacinth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Kapoacinth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Kq2dxvP4wqJJVzBr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Meat-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Meat-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "c8OrFlroChWV6ad4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Mechanical-Laborer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Mechanical-Laborer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2ZpYVlsDigX5ZQR6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Mummy-Valet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Mummy-Valet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N1VAU3XomX53b6HL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Rust-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Rust-Hag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hQwP2F2CZfH1ZA0N": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Sahni-Bride-Of-The-Sea.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Sahni-Bride-Of-The-Sea.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sySkOlAi825RpRrj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Sallowdrudge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Sallowdrudge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2p9BaMPkI0HiTWyC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Sulvik.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Sulvik.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GVIv3WxwbwztNmvD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Teaching-Assistant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Teaching-Assistant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "glq0AJMjNAB0R2Ke": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Terra-Cotta-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Terra-Cotta-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "epfj3ZAwLHMlYlF3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Virulak-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Virulak-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PJ9O7J5MWhxvYnPW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Virulak-Villager.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Virulak-Villager.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SUTCBq10R5kEdvon": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-2-graveclaw/Zombie-Chuul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-2-graveclaw/Zombie-Chuul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "b8IAeHndW8YVEzDM": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Aeolaeka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Aeolaeka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iVzVgK6igRZ8hkCu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Animated-Tea-Cart.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Animated-Tea-Cart.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fOklsDO2EB5CHuLF": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Bulette.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Bulette.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "p6wud30R7C5OAFGz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Ghast-Outlaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Ghast-Outlaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pg4YAN1whVZsnLKf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Grace-The-Rhino-Owano.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Grace-The-Rhino-Owano.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IeAy6hvDcnU1pCZr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Guloval.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Guloval.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "duqhXs5SXmvSC1uI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Hollow-Husk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Hollow-Husk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Q7Mfkogemi5D9LJh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Hungering-Growth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Hungering-Growth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cUUyIZ3Y8VAbfI9P": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Kerinza.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Kerinza.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bZPLaHBF66XuRQlv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Lasheeli.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Lasheeli.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JiT7B2Y7yYG8G0ZL": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Nwanyian-Archer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Nwanyian-Archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A8jGRgn97x59cJn8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Nwanyian-Defender.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Nwanyian-Defender.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "624fuRv6nLi31THS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Prachalla.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Prachalla.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FVBJjBbvITVpHiec": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Prince-Doriel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Prince-Doriel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1YdRAByWMiyUIXwt": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Princess-Kerinza.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Princess-Kerinza.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MKYtgU2G42jk2Dwo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Restored-Doll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Restored-Doll.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yfyh7TkvcQuyWyie": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Shadowbound-Monk-Statue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Shadowbound-Monk-Statue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UT5B2LCirpTgaEEx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Shadowforged-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Shadowforged-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L30BKaq55auUhcPY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Shimmernewt.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Shimmernewt.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "l5jzqFVpGEg6Mj3e": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Skeletal-Knight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Skeletal-Knight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RIKDtmwVQQeJUZKg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Vampire-Taviah.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Vampire-Taviah.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FzEwUkw6SCgQ1YJg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Wheel-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Wheel-Archon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pHiRAXi3YxFhBeLi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Yshula.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Yshula.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "e5iMWebwtUQrOtPB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Yulthruk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 2.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Yulthruk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pQJbY3PTeHNYbkho": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-3-field-of-maidens/Zuntishan-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-3-field-of-maidens/Zuntishan-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9yd6jVPcLusk4BX1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ancient-Skaveling.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ancient-Skaveling.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IXPZR1DTdT7Tu7UG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Bloodshroud.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Bloodshroud.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0PJ75DaIe8x5ynp1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Antipaladin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Antipaladin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CMQu4nHDLH7tt6yu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Gnawer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Gnawer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0a2d830uaGnBN2OS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Razorclaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Ghoul-Razorclaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7BqiEDwmEPDwGMAn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Harmony-In-Agony.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Harmony-In-Agony.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3t57lJmLz6qQPqoD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Hyrune-Loxenna.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Hyrune-Loxenna.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8I2hoMYo2hXVYZZ0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Nydazuul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Nydazuul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0iZHpYIbxquRDd8E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Pyrogeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Pyrogeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1EOyUGMELVUIxFeB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Rotbomber.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Rotbomber.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xtDVxT49QGCo78yp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Rumin-Purgo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Rumin-Purgo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dEUFmId6fuT97MFg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Solar-Glass-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Solar-Glass-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1KDrm9ErOHyMsDUP": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Straugh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Straugh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2DhycjxPVPIAftM3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Terrorguard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 2.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Terrorguard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TV3BSvxoG8p1fe0k": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Urglid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Urglid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "syFR3SChA5KCx8OA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Vampire-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Vampire-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CWg8NX6XHv2sEVlg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Weeping-Jack.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Weeping-Jack.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "noCFIy7gHIaaQEdJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Yurgak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-4-the-ghouls-hunger/Yurgak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zEPIkUw9ZlXi5Jzb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Afziaka-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Afziaka-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OgaEYZJaxGXPnhcz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Afziaka-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Afziaka-Brute.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wqnc9i6hDS9FP8IO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Agorron-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Agorron-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AvF72rXp6bcQHPdo": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Facetbound-Cascader.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Facetbound-Cascader.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A3joovUPMBOVDpVz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Facetbound-Nullifier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Facetbound-Nullifier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HNcBJFUhdLfOZxPS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Ghiasi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Ghiasi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7Ah4NAOuhPqMQ5e7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Ghiasis-Double.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Ghiasis-Double.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cq2Dy62tDzOApDrE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Graelar-The-Whisper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Graelar-The-Whisper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oVqkX1LugEW4qoXN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Kelganth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Kelganth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BiJxQ9mMOGxS6XnA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Necrohulk-Flailer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Necrohulk-Flailer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JFB7wDTyG8nbihJD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Necrohulk-Smasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Necrohulk-Smasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yydyiiBoUGrzPu2v": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Pokmit-Bloody-Pike.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Pokmit-Bloody-Pike.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sJRDLWLc7F6ZCc31": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Sorvinaesen.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Sorvinaesen.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EUr4hJvZf5lRQSKu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Tenebric-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Tenebric-Giant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EqO67DHLlB88vSJZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Theater-Phantasm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Theater-Phantasm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yQHyvoLOi6HxUTfe": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Umbraex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Umbraex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pqlqDWVOtPxJ2oRn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Urbulinex.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-5-a-taste-of-ashes/Urbulinex.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rAKazZKUhWdwPQBx": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Basiri.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Basiri.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nzY0BPNKt4NF1Nhq": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Bellator-Mortus-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Bellator-Mortus-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mqHULEf9atfBObra": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Dead-Faine.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Dead-Faine.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "49cAFgzk6Zok82Y2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Drowned-Mummy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Drowned-Mummy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zw1uj88nmUrCf7iS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ectoplasmic-Amalgam.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ectoplasmic-Amalgam.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7tmoC1LEp3taxaRp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Eseneth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Eseneth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bblPYqxgXeRmR4Bi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ghiono.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ghiono.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3Yi3PBesesksFZi6": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Intellect-Assemblage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Intellect-Assemblage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X9Sz3ttieDhYSlvB": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Kemnebi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Kemnebi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NiDaVEpAOgbuwnau": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Kemnebis-Puppet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Kemnebis-Puppet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1igzK6SDdQkv8NXb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Matron-Uldrula.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Matron-Uldrula.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PTAKDBMDrm1JJTYC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Mithral-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Mithral-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ngWoxzjuoZAiQHSj": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Necromancer-Troop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Necromancer-Troop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1Hc1BLc9LIXLuBdg": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Rival-Corpsekiller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Rival-Corpsekiller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1McAtOIMRIVOa0lf": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Rival-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Rival-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dUl7C2wT4mT3mAGH": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ruby.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Ruby.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tu9Y0LJ6ghOpkJTX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Seldeg-Bheldis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Seldeg-Bheldis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DInkix6cy2NgjpJd": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shabti-Slayer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shabti-Slayer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZDrt7yX9seyY3lCC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shabti-Votary.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shabti-Votary.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ppFL3vBBYT4EXQom": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shadow-Leydroth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shadow-Leydroth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Eu7KtTDs6ia5ijUK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shadow-Worm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shadow-Worm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7In0QgKUCCNcrTEA": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shoki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Shoki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "S1rfj73uV1ZUBCJ3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Skeleton-Rival-Corpsekiller.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Skeleton-Rival-Corpsekiller.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X6bu6VmaXgtQMBTY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Skeleton-Rival-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Skeleton-Rival-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NoOG4QIbIEBWKk1I": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Soul-Slime.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Soul-Slime.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RpFpcfMqD6wqIHfE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vampire-Rival-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vampire-Rival-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oQzwF5Wwn2w8POgS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vanth-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vanth-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KJm77VlSLPNpukcI": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vice-Chancellor-Vikroti-Stroh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Vice-Chancellor-Vikroti-Stroh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HKH4GURuq59l0ag4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/blood-lords/book-6-ghost-kings-rage/Zombie-Rival-Necromancer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/blood-lords/book-6-ghost-kings-rage/Zombie-Rival-Necromancer.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

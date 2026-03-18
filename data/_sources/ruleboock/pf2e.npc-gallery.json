@@ -1,0 +1,293 @@
+{
+  "pf2e.npc-gallery": {
+    "crTWewxna93vEt6B": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Acolyte.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Acolyte.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "K2STan8izudm9eEn": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Antipaladin.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Antipaladin.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5Rqh2dBxGU8Jwf56": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Azarketi-Sailor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Azarketi-Sailor.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Azarketi-Sailor.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6IADTZHYowxObqAk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Barkeep.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Barkeep.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Barkeep.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "95IcOUvxABvj5lvo": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Changeling-Hellknight.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Changeling-Hellknight.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Changeling-Hellknight.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "EMl8hARVJk8SNVyW": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Charming-Scoundrel.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Charming-Scoundrel.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Charming-Scoundrel.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "UuPPceVcGk1RwSbB": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Hellknight-Armiger.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Hellknight-Armiger.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Hellknight-Armiger.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "mJxgYD8TQg1W2oXC": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Hellknight-Paravicar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Hellknight-Paravicar.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Hellknight-Paravicar.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VkG5yl9xcmziwpQD": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Pathfinder-Field-Agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Pathfinder-Field-Agent.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Pathfinder-Field-Agent.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "o4XTf77fEEoFVTdA": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Pathfinder-Venture-Captain.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Pathfinder-Venture-Captain.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Pathfinder-Venture-Captain.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "XpkGaDlyMH2V5wxR": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Priest-Of-Pharasma.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Priest-Of-Pharasma.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Priest-Of-Pharasma.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "48bZvtRcd7T6FmA7": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Privateer-Captain.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Privateer-Captain.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Privateer-Captain.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "2SBKFCog4JY3WrOW": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Rain-Scribe.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Rain-Scribe.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Rain-Scribe.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "OSCpJYTr6xNIxqZi": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Server.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Server.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Server.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "M2Vi2mkwMZv1ZRka": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Tempest-Sun-Mage.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Tempest-Sun-Mage.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Tempest-Sun-Mage.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "hxyImo4ts3O0BrAY": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Veteran-Reclaimer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Veteran-Reclaimer.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Veteran-Reclaimer.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "bc1jeTvmzKeYGVw9": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/npc-gallery/Virtuous-Defender.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/ruleboock/npc-gallery/Virtuous-Defender.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Virtuous-Defender.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

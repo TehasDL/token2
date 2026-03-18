@@ -1,0 +1,208 @@
+{
+  "pf2e.the-enmity-cycle-bestiary": {
+    "uo8oScVY4NLRCuo2": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Amar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Amar.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Amar.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xfc7t2z45drvafdK": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Jimbilin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Jimbilin.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Jimbilin.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "CriBWDFr8l2SPDVO": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Krashk.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Krashk.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Krashk.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "5d0K1rXEMZkILjxu": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Mechanical-Assistant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Mechanical-Assistant.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Mechanical-Assistant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Ziy3L849K2Fayesa": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Noolik.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Noolik.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Noolik.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "gBjrp5li1LCbIO8X": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Sand-Wolf.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Sand-Wolf.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Sand-Wolf.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "257nqvaDItlttlG2": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Scorching-Sun-Cultist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Scorching-Sun-Cultist.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Scorching-Sun-Cultist.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "hKXwujYX7CDtsZ5P": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Scrapborn.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Scrapborn.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Scrapborn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "TLA7lez6eCf2Qp8v": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Seddek.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Seddek.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Seddek.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rCbzflYQbsqxlmiG": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Usij-Cultist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Usij-Cultist.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Usij-Cultist.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qsgUxFmUK9rohj0M": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Vulpinal.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Vulpinal.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Vulpinal.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xwEcqgkn9Fvrhpv7": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-enmity-cycle/Zridi.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-enmity-cycle/Zridi.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Zridi.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

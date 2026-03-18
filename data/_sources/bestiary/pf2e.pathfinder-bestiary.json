@@ -1,0 +1,2788 @@
+{
+  "pf2e.pathfinder-bestiary": {
+    "gDMPUL0UiOHrUUd3": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Aasimar-Redeemer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Aasimar-Redeemer.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "keCgklXcy4HZgQIL": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Adamantine-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 0.95,
+          "scaleY": 0.95
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Adamantine-Golem.webp",
+            "scale": 0.95
+          }
+        }
+      }
+    },
+    "KDRlxdIUADWHI6Vr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Air-Mephit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Air-Mephit.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "Tpuqwt6Af29EMtqX": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Alchemical-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Alchemical-Golem.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "tuIqEvsct8EO33xs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Alghollthu-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Alghollthu-Master.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "t6Xh4fHdHi2GP87z": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Annis-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Annis-Hag.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9vNYtJZiseCEf4wt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Balor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Balor.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "JiThbhDfjUoPaTP1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Baomal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Baomal.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "FIoRPHaHdYUPVKdT": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Barbazu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Barbazu.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "x4mlZseBP5bWcy4H": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Barghest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Barghest.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "AQwxOoYBwDUAwvfh": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "irrXrWxJ0LYSUCQB": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "pYNMxg5z2nRFmkMM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "Lvdykf6wfqzZBlZd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "kR1wGS61ubIpH8A6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "v0GZ6zDWhD1Y3xs9": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "saEPHCN5lDiylb5H": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Black-Pudding.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Black-Pudding.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "HpD0BTfid3hnUEWj": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bloodseeker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bloodseeker.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "Dp6dq9Jd0TanufdU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "i3N3udPyTGVPLpoq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4C3Sh2lO9oWi78Zo": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Ancient.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uPxh3VpA80zZdWfx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Ancient.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fd3Bf10lloqMg2jW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ar0tszs8NAgQamHX": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Blue-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Blue-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F99r7jcWX5YZB8xw": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "JnOgG1xfWleFGNt9": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "kbZ3t5HhHRJJ4AMn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "bSjF2lCgchtp2ocS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "fcE9PgnC82e9haL5": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uA0cv4OT5mQnym0V": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Brass-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Brass-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oj0vzfjflUc3xMBo": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IMasNR02C74jy3cT": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MLmwdUIW4o7ZSUEG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "BzBFDaNj51PP97RZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "fsdCVADRbLxpBVT8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Young.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "uQOTCiHslczvrNpt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bronze-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bronze-Dragon-Young.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "CzxQpB3p0d9hwPeR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bulette.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bulette.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "S8iX8sPaYFFYDoUq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Bunyip.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Bunyip.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "l05LjJTXvFS4tYTE": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Centaur.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Centaur.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NW1Ax1QGE9W4DmiN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ceustodaemon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ceustodaemon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "aD76W2uEQhFFUrom": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Chuul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Chuul.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "skz8n8N9GEQY2c90": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Clay-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Clay-Golem.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "bkaDwBD3mIBgvULs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Cloaker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Cloaker.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ouOt6d8xUFk8NhJ9": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "Fzn4jHusVeyytgfx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "qGvK4f8Clc6dOwLU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "B9KJUdZre51J3E3e": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "pzG7Od1aHj0DkTzS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Young.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "3W2PMV6IbVdouOB1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Copper-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Copper-Dragon-Young.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "hNR4xZRsxUkGPI1v": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Dandasuka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Dandasuka.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "0MOWKI97bgGDf5Xi": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Dark-Naga.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Dark-Naga.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "S35DifoycBwkxaGq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Demilich.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Demilich.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "GyigGu36XLPV72nW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Djinni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Djinni.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AdQVjlOWB6rmBRVp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Doppelganger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Doppelganger.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SUpy8sleRwi2Egsq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Drakauthix.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Drakauthix.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "B7eLG2k7qUo8HU6O": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Drider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Drider.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "dTz1SQvJIUsB9S2w": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Drow-Fighter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Drow-Fighter.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "FaBHkmFGuEIqIYM1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Drow-Priestess.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Drow-Priestess.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VBXjZ1jYxdKf64B7": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Drow-Rogue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Drow-Rogue.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "x23aXeWTo026pMui": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Earth-Mephit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Earth-Mephit.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "c0zqasudrwZU3fdw": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Efreeti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Efreeti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ETNlci6VnSthx5V6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Erinys.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Erinys.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "csRH8Fx0r6iMWlFc": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ether-Spider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ether-Spider.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "skwkJmgz7mqIcStF": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ettin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ettin.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "k9fM0vufbdsDPQul": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Fire-Mephit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Fire-Mephit.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "sNFBOw4z9KagWUHe": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Flesh-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Flesh-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TZcDdN5o7s4alZNE": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gelatinous-Cube.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gelatinous-Cube.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "kNmRn3WfiWLsuwoe": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gelugon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gelugon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Iw2QccAkRc5Vnfzj": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ghaele.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ghaele.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "VC7rtYR4hLxwg7WZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ghast.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ghast.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "LHHgGSs0ELCR4CYK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ghoul.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Z7xWkQKCHGyd02B1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Giant-Mantis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Giant-Mantis.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "dEAneTvoPuQXZoLR": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gibbering-Mouther.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gibbering-Mouther.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "BRo0snV2sH6TFuh6": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Glabrezu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Glabrezu.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NgCKGq28Qvt6ZOSr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Adult.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "aAiuQvMGPN9QXwKY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Adult.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VEnjCj4geJBzTgBJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "nWiibOE9wVSlTdkx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "9xdl2PpfMEfJWhSO": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Young.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "DolNTN9s2p79N8Cy": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gold-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gold-Dragon-Young.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "DlRe4c2XlBSpwmms": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Greater-Barghest.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Greater-Barghest.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JKG3m8pFISF48Sfr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zXi6UhZ0mXWpKk4A": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "p2ECLKUzZ0GhFg22": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "0FGz2eXm0SB04sJW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "5XtCOknYJuEl4SfD": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xZQIChzzIYbNIEoT": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3nOBhH8j9I7ps6fC": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Green-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Green-Hag.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "j1mm6bb3hZ56jSrK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Grig.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Grig.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "aq2H1lRALUNMEGRG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Guardian-Naga.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Guardian-Naga.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "zq18QX6CBJNeUIgG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Gug.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Gug.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "aqW5sp9HPgZgpXxs": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Hill-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Hill-Giant.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "pTkz08ak9YlKRsOY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Hive-Mother.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Hive-Mother.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iII08V0HlvWGWSmu": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Horned-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Horned-Archon.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "t4bHhZBBDUyVzEmf": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Iron-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Iron-Golem.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "tMxtnGthVV01wNQb": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Janni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Janni.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "yq1BgQi0BsAMbU69": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kapoacinth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kapoacinth.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "R9eoGwQ2tudxUKxS": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kobold-Dragon-Mage-Black.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kobold-Dragon-Mage-Black.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "93hZtLl9pRRfqI05": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kobold-Dragon-Mage-Blue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kobold-Dragon-Mage-Blue.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QaldZV2p9RpMXzzn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kobold-Dragon-Mage-Green.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kobold-Dragon-Mage-Green.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "CJuHwIRCAgTB1SEl": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kobold-Dragon-Mage-Red.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kobold-Dragon-Mage-Red.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "kCRfBZqCugMQmdpd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kobold-Dragon-Mage-White.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kobold-Dragon-Mage-White.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "PgBsMyjMITjQnCs8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Kolyarut.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Kolyarut.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "0HjVFx8qIKDCfblg": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Lantern-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Lantern-Archon.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "gztjujplfVCBVXv0": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Legion-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Legion-Archon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4B47SUq57pcl3U9u": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Legion-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Legion-Archon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cuET2PHGcE7eL7DJ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Marid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Marid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ImueS9YFhV6sxqBP": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Marilith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Marilith.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "Br1AtKUHe3nbzjnY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Mimic.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Mimic.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "VUJrPHKOjYkIQnWn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Mu-Spore.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Mu-Spore.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "pL4sS2HZtGAryKnN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Naunet.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Naunet.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WQy7HBUcgDLsfVJd": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Night-Hag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Night-Hag.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "uQBOJfjtzEXvpLQz": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Ochre-Jelly.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Ochre-Jelly.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "kPBSSOuR8n8vZHXB": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Otyugh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Otyugh.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "X03vq2RWi2jiA6Ri": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Owlbear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Owlbear.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "j7NNPfZwD19BwSEZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Phantasmal-Minion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Phantasmal-Minion.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "9jF564DF6ylEovna": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Quasit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Quasit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Jgh0WGVetNXi5jlM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Quatoid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Quatoid.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "x26dyZZZRvZpzK2X": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Quelaunt.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Quelaunt.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hOXpmWmXU8N3n4Bw": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Raja-Rakshasa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Raja-Rakshasa.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "pFmaszqtsA2yt7dv": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JhQGNMlKARMx1n2D": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2T2cN4j4EzfDAIEe": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "9H11QHnoKz8hHKSM": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Ancient.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "oLdrCmarnzd62kA8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sUGKrcx7kbHkWnwG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Red-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Red-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Zbvh6ChdD0TWv257": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Remorhaz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Remorhaz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZXbr1ke1vF0ZFKY3": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Roper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Roper.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "mEmWRqTRxLUZQYSh": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Rust-Monster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Rust-Monster.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "CHIh3vMssFixUlw8": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Salamander.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Salamander.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "HFbZ580RDOG6Rxz2": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Sea-Devil-Baron.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Sea-Devil-Baron.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UrviURGu5o9LkhxN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Sea-Devil-Brute.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Sea-Devil-Brute.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "PXru127aJljwKhSy": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Sea-Devil-Scout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Sea-Devil-Scout.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xqnl2eFzy5H2NZoQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Shaitan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Shaitan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6XlGTt3RveX49YbC": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Shambler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Shambler.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qkWkshBHyTbLP07b": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Shield-Archon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Shield-Archon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Q3EaaLLx5kDXb5vQ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Shoggoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Shoggoth.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "tl1aGbwuPPUDKHbN": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "v9eQFqibX6EYsmuX": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Adult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jlEFaUJjAK4MTsLc": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Ancient.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "SWOZ0e2IQifxzlgL": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Ancient.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "dYbfZnB1ngiqPm4O": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Young.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "YPLZkAlOuaj3F3nZ": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Silver-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Silver-Dragon-Young.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "ASc5sT2hU84tp1fx": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Simurgh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 3,
+          "scaleY": 3
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Simurgh.webp",
+            "scale": 3
+          }
+        }
+      }
+    },
+    "ZSQ4M8qeAv4dkLq1": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Skum.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Skum.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "7EpLGBoddL8Vzlha": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Ce.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Ce.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j0gCguJx3ILB1j9o": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Cg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Cg.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "X03lxGz9ELv8rG2w": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Cn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Cn.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "RizAUQHtPy0YRUyt": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Le.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Le.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RAjbVzWcfrPBbgkK": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Lg.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Lg.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rJgUpdXBCMBrsJFf": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Ln.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Ln.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7ptWlh4t6oHvYOcj": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Ne.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Ne.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "iF5NeHC6ReqXLFmY": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Ng.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Ng.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Pl3J94dvVY159G64": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Soulbound-Doll-Nn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Soulbound-Doll-Nn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Upf2fOZ6QgGG3seI": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Stone-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Stone-Golem.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "B0QyZEjAXUG5TsJU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Storm-Giant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Storm-Giant.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "LUtSo30fQWj7mrDn": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Storm-Lord.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Storm-Lord.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6UczvqBDlGNXcIlW": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Tidal-Master.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Tidal-Master.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "gvCCATlH9mPGWbsp": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Troll.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Troll.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FwH05kDUlC8CwWTU": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Troll-King.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Troll-King.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "n1Mv0Q1MirfjBmfI": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Uthul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Uthul.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "4cPw8hZwW6uvyzvh": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Vrock.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Vrock.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "KFf6pJmFmzj7HH9i": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Water-Mephit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.2,
+          "scaleY": 1.2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Water-Mephit.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "ZMr28tFTA5NUcBTi": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Web-Lurker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Web-Lurker.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "NTXm3ee7WZJ92Sww": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Wemmuth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Wemmuth.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "RDFvGocLW0OuHmlC": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Wendigo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Wendigo.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "MhEfUXkSfLtgpmfE": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "024PqcF8yMRBrPuq": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Adult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Adult.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "OqCiTKXZu7EWmAI0": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Ancient.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mXkMSlj3LldzKxB9": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Ancient.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Ancient.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "csfVqep68nYGHExr": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3OPUMuBQThM5EXjz": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/White-Dragon-Young.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/White-Dragon-Young.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4npwV3fuBm3sBCPG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Xorn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Xorn.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    },
+    "31kXa1P0LUl38jYG": {
+      "actor": "modules/pf2e-token-pack/portraits/bestiary/bestiary-1/Zaramuun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 1.5,
+          "scaleY": 1.5
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/bestiary/bestiary-1/Zaramuun.webp",
+            "scale": 1.5
+          }
+        }
+      }
+    }
+  }
+}

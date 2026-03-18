@@ -1,0 +1,1012 @@
+{
+  "pf2e.season-of-ghosts-bestiary": {
+    "WHb1ycftTkk1QNoJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Animated-Cookware-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Animated-Cookware-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OqE7v9KwZNEO3zHp": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Fan-Hongrui.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Fan-Hongrui.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0QfL4oXQrDfhfZDs": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Hu-Ban-Niang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Hu-Ban-Niang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4fQfYZY6N9oUC9Ws": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Jinkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Jinkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nkayyo1O9RFVBvCW": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Kugaptees-Blessing.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Kugaptees-Blessing.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "52dTAJPXCnE48a5a": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Grunt.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Grunt.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zhw2TOrXkWyvle5S": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Occultist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Occultist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "APu2EqTJ4QdHkwtR": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Trickster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Noppera-Bo-Trickster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "I9BbG4LH6LP4zlhK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Boar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Boar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OV671fn8SuClbJip": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Gecko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Gecko.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dGKC9fWrGLTI7zP3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Raven.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Raven.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "R805QpID53EycZ5E": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Phantom-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N69YhHyRWfpfvESy": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Red-Hooded-Thatchling.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Red-Hooded-Thatchling.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5GZ9o5DlIQIZgLb8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Shinigami.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Shinigami.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KhGtAbhgupqJyqET": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Shou-Matsuki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Shou-Matsuki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4iZxxQFySmU6EOfn": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Stone-Spider.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Stone-Spider.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7Fua7064VlF0Y14D": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Thatchling.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Thatchling.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cxe6UXbm4kHLNRyC": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Very-Drunken-Jinkin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Very-Drunken-Jinkin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rYUegSA59suduHs4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Zoudou-The-Zealous.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-1-the-summer-that-never-was/Zoudou-The-Zealous.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BK4gQmGPX4BW4hyb": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Bakeneko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Bakeneko.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ELmJu6nt0nW1hvqz": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Dalgyal-Gwishin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Dalgyal-Gwishin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aWoT0eOTpr7Ugexm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Ghost.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Ghost.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Z97fXdQ6kTe7PUIr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Guhdggi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Guhdggi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WenuepXKIpftu95Z": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Heart-Eating-Vulture.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Heart-Eating-Vulture.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QCTOHTwnEo6eq82T": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Ijda.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Ijda.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2a0uJf5XIt6z2R0Y": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Iogaka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Iogaka.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k77t59tuHjiDEXRm": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Meokdan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Meokdan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TVi4RDeqw7GDsxp0": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Sojiruh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Sojiruh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5UCe00Rh9yGBElYT": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/The-Chewer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/The-Chewer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ExTKQvgLI72XGk98": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Xin-Yue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Xin-Yue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uQG6HB7OIXaPCwtD": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Yuni.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Yuni.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uFg1TnTBpXNYGF9o": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Zhi-Hui.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-2-let-the-leaves-fall/Zhi-Hui.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ozi0MnBHVjQQbfNJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Akashti.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Akashti.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V67VC975O8iC1Yq2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Animated-Axe.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Animated-Axe.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z1FBK5Mi6nWxvkn2": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Exorcist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Exorcist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IdbrdikgvRguKYNE": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Familiar-Shadow.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Familiar-Shadow.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bIoWSQbvs2yeL7PG": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Heh-Shan-Bao.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Heh-Shan-Bao.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "183L006AcuLnHJbY": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Kagekuma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Kagekuma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "skJTZHJZgIAZ9oGN": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Mago-Kai.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Mago-Kai.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QSa1PbcvbgDv8Zpr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dqsQutshiegWaFPQ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AsfjgDmWkUxPI6m8": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mt053Q3jCVLXp6us": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6UkZJRICusE2EOhS": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3KNblm2fWM6XLiS7": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Noppera-Bo-Impersonator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xxx8mtBmNnwrGUGO": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Rin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Rin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OoTnmIkunSTCPet3": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Shimmerthief.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Shimmerthief.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oai45noF4GX3LZvX": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Shrine-Maiden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Shrine-Maiden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Qmg2GRJivmrKxJ4C": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Silsyche.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Silsyche.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HSozUsLp1ufDkJIr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Willowshore-Waldgeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-3-no-breath-to-cry/Willowshore-Waldgeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "amLD0YfFcG8ejrME": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Algriever.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Algriever.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1zClr6JrKhMo2xCu": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Argyrzei.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Argyrzei.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "HxgtQw1rldkMf83o": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/False-Governor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/False-Governor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QZcSgUKKxaBe8OM1": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Gurglegut.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Gurglegut.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PLV1wW0Aa5SNUQM4": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Heh-Shan-Bao-(level-13).webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Heh-Shan-Bao-(level-13).webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P6BnwxID1zxZlt9D": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Hong-Meigui.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Hong-Meigui.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K68BqK1Ero3x8NsK": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Imprecasia.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Imprecasia.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "USMiwD8crKdeFybh": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Path-Maiden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Path-Maiden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3Hwt7nNXIBlDovJi": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Path-Maiden.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Path-Maiden.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ONN4yz1NzvvCGBUv": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Ren-Mei-Li.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Ren-Mei-Li.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MNqc1mJwPOOfjoVr": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Shisagishin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Shisagishin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UIdOFWDyWh9ER1RZ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Silkwasp-Bandit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Silkwasp-Bandit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BQvtFFZIfICblybJ": {
+      "actor": "modules/pf2e-token-pack/portraits/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Variant-Dread-Wraith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/adventure-patch/season-of-ghosts/book-4-to-bloom-below-the-web/Variant-Dread-Wraith.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

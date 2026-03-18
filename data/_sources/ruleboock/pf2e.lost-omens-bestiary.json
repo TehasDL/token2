@@ -1,0 +1,1604 @@
+{
+  "pf2e.lost-omens-bestiary": {
+    "cWHQmwUkLYBlFOGX": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Augdunar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Augdunar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AbaAJaz8p6sSsaqy": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Draft-Lizard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Draft-Lizard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6X4zL4GSS9aUcP9f": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Grand-Defender.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Grand-Defender.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IGoJDxjMiADXa1bm": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Graul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Graul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fQvTnIpC2Wq1U32z": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Pagulin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/Pagulin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "McZDmNR9sldfnsBw": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-highhelm/The-Bloodstorm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-highhelm/The-Bloodstorm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1MxubcO4SB8PwmKT": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Benthic-Reaver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Benthic-Reaver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qmw82W0WhPkn9UTW": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Clockwork-Cannoneer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Clockwork-Cannoneer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4DQotKcUZebLfeeL": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Cursed-King.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Cursed-King.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K2AOcLMDOVNbgPXp": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Fleshforged-Conformer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Fleshforged-Conformer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KTabPRN489yjTvek": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Fleshforged-Dreadnought.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Fleshforged-Dreadnought.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qbfMDAa3RXvwyG7k": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Gunpowder-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Gunpowder-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UgGyHJ39EHztCV5m": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Kasesh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Kasesh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fGZeQOarR6Im7Lnk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Kashrishi-Evaluator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Kashrishi-Evaluator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lhr2fjewILo4nyUZ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Mutant-Gnoll-Hulk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Mutant-Gnoll-Hulk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gZ2qX5vbWg7otMVT": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Quantium-Golem.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Quantium-Golem.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xl2UxOFVSDGqaVS5": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Ratajin-Mastermind.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Ratajin-Mastermind.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LVY9JAhTnBC2SeqZ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Skinskitter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Skinskitter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AIQMB0ysHNeodKG4": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Spellscar-Fext.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Spellscar-Fext.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1SIx3wcRvplbfwk3": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Stone-Sister.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Stone-Sister.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JmGKKXdAxUkJtdTm": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Ugvashi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-impossible-lands/Ugvashi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VCC4nw6EXvqwgmCp": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ainamuuren.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ainamuuren.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LK3SgIKJqqo4Q4NQ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Cuetzmonquali.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Cuetzmonquali.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Bi6bi9Ko5x9OJfDT": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Desert-S-Howl.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Desert-S-Howl.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WdnuPiAoRFaymR8R": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Fafnheir.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Fafnheir.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O4gEaG5vzkLFl7J1": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Grogrisant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Grogrisant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N3OJ0wxik4wEgTg7": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Imperfect-Automaton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Imperfect-Automaton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zE2ykzHZKNS3Rnc3": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kallas-Devil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kallas-Devil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RqdL0YzNF1dG163i": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kothogaz.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kothogaz.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kdkmTLlqzOYVxb50": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Krampus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Krampus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K7hgO9SEBai2jwYj": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Krampus-Celebrant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Krampus-Celebrant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OF0fZDjNapydddM1": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kuworsys.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Kuworsys.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "G1jYZOjA3E3BqrIM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Melfesh-Monster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Melfesh-Monster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KdOwmclPVpcTSPjF": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ns6fmJ8469hzBOtM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FhgZOBWNMa5t7pYV": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mE9MQ0hnRmlR9m94": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Mosquito-Witch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KLxdUFCvZ7HkAP1E": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Somnalu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Somnalu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hLyLnBn7lEFstUG2": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Somnalu-Oculus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Somnalu-Oculus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "10srqxC7QZy0dq2g": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Spectral-Devil.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Spectral-Devil.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EXyfhhX9GLOnK1uZ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Spring-Heeled-Jack.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Spring-Heeled-Jack.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bhLbKN7MJofTabfK": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a1vTm01GBVF4TI8f": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "W0oF6Dl7G4UeTBSC": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sXZExyaijbRnKI2S": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XLDh6o6vBRCDEKsl": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IO7sPevkM0zvnWbi": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j3NhCEMLVm4HSsgr": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hfi0qJePy2cf4Fqe": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Taljjae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "C87bRxKDTuJXGkPG": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Tehialai-Thief-Of-Ships.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Tehialai-Thief-Of-Ships.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7a57dwK5XrV78ajM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Temteki.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Temteki.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jInkcz2UYdaCzsBU": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ulgrem-Axaan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ulgrem-Axaan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XCW1WzJqwGUS1cGi": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ulistul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-monsters-of-myth/Ulistul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "N5pG7rsbN1lL1ysb": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Aigamuxa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Aigamuxa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bo3BDHT7P1IK7oLp": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aXXvrcggR8EQJOdm": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi-Hunter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi-Hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IWk8dWUf4Q4D8iww": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi-Sage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Anadi-Sage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "As0M3PvmrR2055pk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Asanbosam.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Asanbosam.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rrJqsVeBKizuyqRY": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Biloko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Biloko.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rayMMWNm61ivtxuU": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Biloko-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Biloko-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BxChohV8FBiyAnEc": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Acolyte.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Acolyte.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QUyqY6JiZNkEyTnd": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Butcher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Butcher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TfEGDGqUk3LpokZZ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Warrior.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Charau-Ka-Warrior.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rVnJUXPgAPCeW1tS": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Eloko.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Eloko.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NvyAvzxxfb8XEQr2": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Grootslang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Grootslang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XSWDwaLEyshEKSZE": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Knonna.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Knonna.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rMby02NQRHNrDcTj": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Kaava.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Kaava.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hbvxQn0T0m4WoAmZ": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Karina.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Karina.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "x2udXsqiLZachJHY": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Maliadi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Maliadi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j0t62tXPYhBzCLUO": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Mamlambo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Mamlambo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EyGpKm5MkHepWuNM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Kaava.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Kaava.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8K5v5q9Y01hcSNug": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Rompo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Rompo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ld3hMGWfeUT7enNf": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Siegolou.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Siegolou.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RVVSRRYAhQ3dVK2h": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Solar-Ibis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Solar-Ibis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rBlu1EsygXwCkOvd": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Zinba.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-mwangi-expanse/Zinba.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0J8xJV4NXaphEWgM": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Animated-Wine-Vessel.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Animated-Wine-Vessel.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lhcwzt64Do7afrbF": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Aoyin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Aoyin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zrx1qjf1WbSYllvz": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Aso-Berang.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Aso-Berang.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "374PRwbW4i4Xw1Fe": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Bul-Gae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Bul-Gae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2hQmiIASF1pvbWhX": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Five-Color-Orchid-Mantis.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Five-Color-Orchid-Mantis.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KcwFM5tI2R4jDalx": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Gau-Cho-Rong.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Gau-Cho-Rong.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mu36UlW90zHYuzww": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Hopping-Head.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Hopping-Head.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6v2HzHeT1mNLaqg9": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Ijhyeojin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Ijhyeojin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6bACPcPqi8syNcVg": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Imugi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Imugi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "B65InLN9TZjlascU": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Inkdrop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Inkdrop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "n9LLGRKgPI8fDRBk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Jiidon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Jiidon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7ZSjqT2yiJB5OKgk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Joseung-Saja.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Joseung-Saja.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DkQWhW0CelytSWAV": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Kun.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Kun.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GP61YtH3RvicMTkf": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Manananggal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Manananggal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9jvXTVcMNTx3kGfU": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Nue.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Nue.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0yF82Lo495lKarLS": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Peng.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Peng.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7RTjMCDWQVc6MKNI": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Pixiu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Pixiu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "k5f4vITTc7mclQzH": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Shui-Gui.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Shui-Gui.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3utPtrLWLyNO1hxt": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/The-Great-Flood.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/The-Great-Flood.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mu3obsMXZ0OYlQpo": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Yeongno.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-tian-xia-world-guide/Yeongno.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mpT2AbFjoyDBDN5l": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Baccali-Alpaca.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Baccali-Alpaca.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Oefb1ZCYp2DolpZr": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Irriseni-Owlbear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Irriseni-Owlbear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FMGyuNpkxMRR1Jrw": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Sarkorian-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Sarkorian-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yRhCsQsoz1Uqvkmk": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Vulture-Rat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Vulture-Rat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "MQBH5svYUyhd3RsK": {
+      "actor": "modules/pf2e-token-pack/portraits/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Whalesteed.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/ruleboock/lost-omens-bestiary/lost-omens-travel-guide/Whalesteed.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

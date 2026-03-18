@@ -1,0 +1,157 @@
+{
+  "pf2e.the-slithering-bestiary": {
+    "wgeuaYe2fbGNg42z": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Ahvothian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Ahvothian.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ahvothian.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "TFrOAM5u8Jk8hB69": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Angazhan-Cultist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Angazhan-Cultist.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Angazhan-Cultist.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "GyBkJWmMHfNQtAFw": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Aspis-Guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Aspis-Guard.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Aspis-Guard.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Fd9l3UtiMLIRAjhO": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Aspis-Technician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Aspis-Technician.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Aspis-Technician.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "6U8P0ITf4gkJfeKD": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Croakchief-Globblit-Skink-Eater.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Croakchief-Globblit-Skink-Eater.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Croakchief-Globblit-Skink-Eater.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "PugTH4pasVxBB7Pn": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Cursebreaker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Cursebreaker.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Cursebreaker.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "ZXpX1TWooxGkIOuu": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Fuming-Sludge.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Fuming-Sludge.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Fuming-Sludge.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "nz6ldwPZm0WWCCYV": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Nyamat.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Nyamat.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Nyamat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "MQI0uQKurpprJQtT": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/the-slithering/Paga-Nikohian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/the-slithering/Paga-Nikohian.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Paga-Nikohian.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}

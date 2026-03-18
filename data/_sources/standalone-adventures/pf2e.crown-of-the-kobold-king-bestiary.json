@@ -1,0 +1,429 @@
+{
+  "pf2e.crown-of-the-kobold-king-bestiary": {
+    "cRD9K6jsJCF4ZfDh": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Albino-Giant-Bat.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Albino-Giant-Bat.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Albino-Giant-Bat.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Wem1kZUef1ZlG79G": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Ashen-Guardian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Ashen-Guardian.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ashen-Guardian.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QkoVg6ETUr2XMueM": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Cilios.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Cilios.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Cilios.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "x5UScdVKs3e9rsgb": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Dark-Talon-Kobold.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Dark-Talon-Kobold.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Dark-Talon-Kobold.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "T4ZhpGRLsNT1bKoS": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Darkmantle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Darkmantle.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Darkmantle.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "4kAU6bQdEZYCqEh7": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Dismemberment-Table.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Dismemberment-Table.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Dismemberment-Table.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "BWOdyTjHnV153RDK": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Drazmorg-The-Damned.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Drazmorg-The-Damned.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Drazmorg-The-Damned.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "NGofilVufDzya0uJ": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Edgrin-Galesong.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Edgrin-Galesong.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Edgrin-Galesong.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "LAButypiGYfsrGis": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Grick.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Grick.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Grick.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "XH1Wqnxy8Cq9Z5Cn": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Grimbal.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Grimbal.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Grimbal.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "bwJ79rNvV7Elia5Q": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Gurtlekep.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Gurtlekep.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Gurtlekep.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "gGtA1Dhiai4jOTte": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Hymmir-Urath.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Hymmir-Urath.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Hymmir-Urath.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "C5t3ypLIiJGSUMg6": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Id-Ooze.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Id-Ooze.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Id-Ooze.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "dcuPAoJUTKSSFx93": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Jekkajak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Jekkajak.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Jekkajak.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "s2XZc2b1FaZQDnhN": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Kerrdremak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Kerrdremak.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kerrdremak.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "qIOi43L0KcLoqCu6": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Kieragan-Skross.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Kieragan-Skross.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Kieragan-Skross.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "xDF9jeMsYjrRvuE5": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/King-Merlokrep.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/King-Merlokrep.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/King-Merlokrep.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "QhJH546TLP0aQKiR": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Lekmek.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Lekmek.webp",
+          "scaleX": 1.6,
+          "scaleY": 1.6
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Lekmek.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "LYSdv8QlMgV0U5Zq": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Narlynark.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Narlynark.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Narlynark.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "2D2sECCnlFT8X8OQ": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Tallow-Guardian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Tallow-Guardian.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Tallow-Guardian.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "IYrz3P4rsRr0TnmK": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/The-Disciples.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/The-Disciples.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/The-Disciples.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "rWweGgOu9uJVlnra": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Thoqqua.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Thoqqua.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Thoqqua.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "WukFzZnikG2vg57F": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Ulizmilas-Cauldron.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Ulizmilas-Cauldron.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ulizmilas-Cauldron.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "Erw2pHatcQgUmqop": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Vargouille.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Vargouille.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Vargouille.webp",
+            "scale": 1
+          }
+        }
+      }
+    },
+    "IZ34VEavH7xRaaeI": {
+      "actor": "modules/pf2e-token-pack/portraits/standalone-adventures/crown-of-the-kobold-king/Ygrik.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-token-pack/tokens/standalone-adventures/crown-of-the-kobold-king/Ygrik.webp",
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "_ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-token-pack/subjects/Ygrik.webp",
+            "scale": 1
+          }
+        }
+      }
+    }
+  }
+}
